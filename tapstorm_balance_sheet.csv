@@ -1,0 +1,2161 @@
+Date,Entity,Account Type,Account Group,Local Currency Balance,FX Rate,EUR Balance
+2020-01-01,Tapstorm SG,Asset,Cash,149411.33,1.2375,184896.52
+2020-01-01,Tapstorm SG,Asset,Accounts Receivable,153926.46,1.1276,173567.48
+2020-01-01,Tapstorm SG,Asset,Prepaid Expenses,73493.13,1.1381,83642.53
+2020-01-01,Tapstorm SG,Asset,PPE,115812.22,1.2066,139739.02
+2020-01-01,Tapstorm SG,Liability,Accounts Payable,97971.14,1.2808,125481.44
+2020-01-01,Tapstorm SG,Liability,Deferred Revenue,130570.37,1.1387,148680.48
+2020-01-01,Tapstorm SG,Liability,Accrued Expenses,100301.35,1.2155,121916.29
+2020-01-01,Tapstorm SG,Equity,Retained Earnings,162511.02,1.2975,210858.05
+2020-01-01,Tapstorm SG,Equity,Share Capital,102672.34,1.2187,125126.78
+2020-01-01,TapForge CN,Asset,Cash,121991.7,1.0165,124004.56
+2020-01-01,TapForge CN,Asset,Accounts Receivable,94003.32,1.0803,101551.79
+2020-01-01,TapForge CN,Asset,Prepaid Expenses,110283.46,0.9353,103148.12
+2020-01-01,TapForge CN,Asset,PPE,81649.85,0.8329,68006.16
+2020-01-01,TapForge CN,Liability,Accounts Payable,112878.51,1.2978,146493.73
+2020-01-01,TapForge CN,Liability,Deferred Revenue,41105.38,1.2667,52068.18
+2020-01-01,TapForge CN,Liability,Accrued Expenses,83854.75,1.1167,93640.6
+2020-01-01,TapForge CN,Equity,Retained Earnings,79285.46,0.8023,63610.72
+2020-01-01,TapForge CN,Equity,Share Capital,157117.73,0.8031,126181.25
+2020-01-01,WhaleCare PH,Asset,Cash,78225.96,1.0058,78679.67
+2020-01-01,WhaleCare PH,Asset,Accounts Receivable,85480.06,0.8195,70050.91
+2020-01-01,WhaleCare PH,Asset,Prepaid Expenses,77145.08,1.0467,80747.76
+2020-01-01,WhaleCare PH,Asset,PPE,112334.61,1.1632,130667.62
+2020-01-01,WhaleCare PH,Liability,Accounts Payable,90033.74,1.0257,92347.61
+2020-01-01,WhaleCare PH,Liability,Deferred Revenue,86343.57,1.049,90574.4
+2020-01-01,WhaleCare PH,Liability,Accrued Expenses,164157.68,1.1296,185432.52
+2020-01-01,WhaleCare PH,Equity,Retained Earnings,104592.92,1.0241,107113.61
+2020-01-01,WhaleCare PH,Equity,Share Capital,120341.43,1.0435,125576.28
+2020-01-01,SummonStorm BR,Asset,Cash,112207.81,0.9913,111231.6
+2020-01-01,SummonStorm BR,Asset,Accounts Receivable,74812.71,1.0801,80805.21
+2020-01-01,SummonStorm BR,Asset,Prepaid Expenses,82647.55,1.1526,95259.57
+2020-01-01,SummonStorm BR,Asset,PPE,66371.4,1.2922,85765.12
+2020-01-01,SummonStorm BR,Liability,Accounts Payable,63147.39,1.2295,77639.72
+2020-01-01,SummonStorm BR,Liability,Deferred Revenue,101034.47,0.9755,98559.13
+2020-01-01,SummonStorm BR,Liability,Accrued Expenses,103020.61,0.9157,94335.97
+2020-01-01,SummonStorm BR,Equity,Retained Earnings,96155.35,1.1663,112145.98
+2020-01-01,SummonStorm BR,Equity,Share Capital,111281.08,1.0073,112093.43
+2020-02-01,Tapstorm SG,Asset,Cash,95001.97,1.2957,123094.05
+2020-02-01,Tapstorm SG,Asset,Accounts Receivable,137174.54,1.1686,160302.17
+2020-02-01,Tapstorm SG,Asset,Prepaid Expenses,84995.59,0.9724,82649.71
+2020-02-01,Tapstorm SG,Asset,PPE,129409.05,1.1403,147565.14
+2020-02-01,Tapstorm SG,Liability,Accounts Payable,122661.03,1.2093,148333.98
+2020-02-01,Tapstorm SG,Liability,Deferred Revenue,23122.66,0.8371,19355.98
+2020-02-01,Tapstorm SG,Liability,Accrued Expenses,54723.82,1.0558,57777.41
+2020-02-01,Tapstorm SG,Equity,Retained Earnings,48250.89,1.1514,55556.07
+2020-02-01,Tapstorm SG,Equity,Share Capital,109063.27,0.8967,97797.03
+2020-02-01,TapForge CN,Asset,Cash,67390.32,0.8589,57881.55
+2020-02-01,TapForge CN,Asset,Accounts Receivable,131313.89,1.1602,152350.38
+2020-02-01,TapForge CN,Asset,Prepaid Expenses,67172.6,0.9975,67004.67
+2020-02-01,TapForge CN,Asset,PPE,105298.95,0.8728,91904.92
+2020-02-01,TapForge CN,Liability,Accounts Payable,69587.26,1.2417,86406.5
+2020-02-01,TapForge CN,Liability,Deferred Revenue,117154.47,0.891,104384.63
+2020-02-01,TapForge CN,Liability,Accrued Expenses,90423.67,1.1187,101156.96
+2020-02-01,TapForge CN,Equity,Retained Earnings,86456.61,1.1291,97618.16
+2020-02-01,TapForge CN,Equity,Share Capital,79369.73,1.1537,91568.86
+2020-02-01,WhaleCare PH,Asset,Cash,66756.33,0.8071,53879.03
+2020-02-01,WhaleCare PH,Asset,Accounts Receivable,110827.49,1.296,143632.43
+2020-02-01,WhaleCare PH,Asset,Prepaid Expenses,79583.62,0.954,75922.77
+2020-02-01,WhaleCare PH,Asset,PPE,171823.29,0.9817,168678.92
+2020-02-01,WhaleCare PH,Liability,Accounts Payable,147719.78,1.1761,173733.23
+2020-02-01,WhaleCare PH,Liability,Deferred Revenue,91955.93,1.121,103082.6
+2020-02-01,WhaleCare PH,Liability,Accrued Expenses,87642.39,1.2633,110718.63
+2020-02-01,WhaleCare PH,Equity,Retained Earnings,94161.8,1.1362,106986.64
+2020-02-01,WhaleCare PH,Equity,Share Capital,144997.1,1.133,164281.71
+2020-02-01,SummonStorm BR,Asset,Cash,163109.59,1.2251,199825.56
+2020-02-01,SummonStorm BR,Asset,Accounts Receivable,40986.14,0.8753,35875.17
+2020-02-01,SummonStorm BR,Asset,Prepaid Expenses,140107.71,0.9073,127119.73
+2020-02-01,SummonStorm BR,Asset,PPE,91327.73,0.9591,87592.43
+2020-02-01,SummonStorm BR,Liability,Accounts Payable,75312.74,0.9247,69641.69
+2020-02-01,SummonStorm BR,Liability,Deferred Revenue,133551.86,0.9464,126393.48
+2020-02-01,SummonStorm BR,Liability,Accrued Expenses,102446.96,0.9365,95941.58
+2020-02-01,SummonStorm BR,Equity,Retained Earnings,141042.26,1.1139,157106.97
+2020-02-01,SummonStorm BR,Equity,Share Capital,128555.99,0.8676,111535.18
+2020-03-01,Tapstorm SG,Asset,Cash,109961.47,0.85,93467.25
+2020-03-01,Tapstorm SG,Asset,Accounts Receivable,148680.24,0.8576,127508.17
+2020-03-01,Tapstorm SG,Asset,Prepaid Expenses,95439.58,1.2114,115615.51
+2020-03-01,Tapstorm SG,Asset,PPE,67093.28,1.026,68837.71
+2020-03-01,Tapstorm SG,Liability,Accounts Payable,157537.79,1.1201,176458.08
+2020-03-01,Tapstorm SG,Liability,Deferred Revenue,92890.99,0.8565,79561.13
+2020-03-01,Tapstorm SG,Liability,Accrued Expenses,105204.25,0.8172,85972.91
+2020-03-01,Tapstorm SG,Equity,Retained Earnings,83125.16,1.0273,85394.48
+2020-03-01,Tapstorm SG,Equity,Share Capital,103021.63,1.1958,123193.27
+2020-03-01,TapForge CN,Asset,Cash,109593.63,0.8722,95587.56
+2020-03-01,TapForge CN,Asset,Accounts Receivable,66638.37,1.0399,69297.24
+2020-03-01,TapForge CN,Asset,Prepaid Expenses,67293.11,1.1371,76519.0
+2020-03-01,TapForge CN,Asset,PPE,73507.69,1.0054,73904.63
+2020-03-01,TapForge CN,Liability,Accounts Payable,96177.1,1.1793,113421.65
+2020-03-01,TapForge CN,Liability,Deferred Revenue,112995.51,0.9488,107210.14
+2020-03-01,TapForge CN,Liability,Accrued Expenses,138884.74,0.9826,136468.15
+2020-03-01,TapForge CN,Equity,Retained Earnings,173504.98,0.8024,139220.4
+2020-03-01,TapForge CN,Equity,Share Capital,105385.52,1.1247,118527.09
+2020-03-01,WhaleCare PH,Asset,Cash,86465.36,1.0477,90589.76
+2020-03-01,WhaleCare PH,Asset,Accounts Receivable,28593.75,1.0575,30237.89
+2020-03-01,WhaleCare PH,Asset,Prepaid Expenses,107768.7,1.1576,124753.05
+2020-03-01,WhaleCare PH,Asset,PPE,94891.14,0.8188,77696.87
+2020-03-01,WhaleCare PH,Liability,Accounts Payable,89288.36,1.0968,97931.47
+2020-03-01,WhaleCare PH,Liability,Deferred Revenue,80286.21,0.8883,71318.24
+2020-03-01,WhaleCare PH,Liability,Accrued Expenses,81225.37,0.9018,73249.04
+2020-03-01,WhaleCare PH,Equity,Retained Earnings,109858.92,0.8419,92490.22
+2020-03-01,WhaleCare PH,Equity,Share Capital,119265.01,0.9867,117678.79
+2020-03-01,SummonStorm BR,Asset,Cash,99211.99,1.1922,118280.53
+2020-03-01,SummonStorm BR,Asset,Accounts Receivable,123609.18,1.0539,130271.71
+2020-03-01,SummonStorm BR,Asset,Prepaid Expenses,138606.44,0.9115,126339.77
+2020-03-01,SummonStorm BR,Asset,PPE,97209.34,1.2551,122007.44
+2020-03-01,SummonStorm BR,Liability,Accounts Payable,136694.33,0.9973,136325.26
+2020-03-01,SummonStorm BR,Liability,Deferred Revenue,71429.47,1.1221,80151.01
+2020-03-01,SummonStorm BR,Liability,Accrued Expenses,108693.72,1.2806,139193.18
+2020-03-01,SummonStorm BR,Equity,Retained Earnings,88509.78,1.2712,112513.63
+2020-03-01,SummonStorm BR,Equity,Share Capital,114741.01,1.1243,129003.32
+2020-04-01,Tapstorm SG,Asset,Cash,35327.41,1.1728,41431.99
+2020-04-01,Tapstorm SG,Asset,Accounts Receivable,135305.57,1.2307,166520.56
+2020-04-01,Tapstorm SG,Asset,Prepaid Expenses,98554.66,1.234,121616.45
+2020-04-01,Tapstorm SG,Asset,PPE,113024.47,0.8104,91595.03
+2020-04-01,Tapstorm SG,Liability,Accounts Payable,76415.07,0.8963,68490.83
+2020-04-01,Tapstorm SG,Liability,Deferred Revenue,150082.37,0.9264,139036.31
+2020-04-01,Tapstorm SG,Liability,Accrued Expenses,110338.26,1.1242,124042.27
+2020-04-01,Tapstorm SG,Equity,Retained Earnings,88607.53,0.9051,80198.68
+2020-04-01,Tapstorm SG,Equity,Share Capital,37086.06,1.2397,45975.59
+2020-04-01,TapForge CN,Asset,Cash,89565.73,0.9866,88365.55
+2020-04-01,TapForge CN,Asset,Accounts Receivable,30418.17,1.2978,39476.7
+2020-04-01,TapForge CN,Asset,Prepaid Expenses,103830.62,1.0997,114182.53
+2020-04-01,TapForge CN,Asset,PPE,117725.14,0.9444,111179.62
+2020-04-01,TapForge CN,Liability,Accounts Payable,121263.08,1.2454,151021.04
+2020-04-01,TapForge CN,Liability,Deferred Revenue,74260.96,1.0426,77424.48
+2020-04-01,TapForge CN,Liability,Accrued Expenses,81012.3,0.861,69751.59
+2020-04-01,TapForge CN,Equity,Retained Earnings,97208.48,1.2343,119984.43
+2020-04-01,TapForge CN,Equity,Share Capital,83577.25,1.0794,90213.28
+2020-04-01,WhaleCare PH,Asset,Cash,50204.89,0.9075,45560.94
+2020-04-01,WhaleCare PH,Asset,Accounts Receivable,81393.77,1.0783,87766.9
+2020-04-01,WhaleCare PH,Asset,Prepaid Expenses,111979.73,1.175,131576.18
+2020-04-01,WhaleCare PH,Asset,PPE,86211.14,1.0006,86262.87
+2020-04-01,WhaleCare PH,Liability,Accounts Payable,92947.74,0.8774,81552.35
+2020-04-01,WhaleCare PH,Liability,Deferred Revenue,84392.33,0.992,83717.19
+2020-04-01,WhaleCare PH,Liability,Accrued Expenses,170251.96,1.2213,207928.72
+2020-04-01,WhaleCare PH,Equity,Retained Earnings,103763.21,0.8094,83985.94
+2020-04-01,WhaleCare PH,Equity,Share Capital,106711.35,1.1515,122878.12
+2020-04-01,SummonStorm BR,Asset,Cash,82856.95,1.2775,105849.75
+2020-04-01,SummonStorm BR,Asset,Accounts Receivable,114194.67,0.991,113166.92
+2020-04-01,SummonStorm BR,Asset,Prepaid Expenses,102941.02,1.1045,113698.36
+2020-04-01,SummonStorm BR,Asset,PPE,47763.26,1.1925,56957.69
+2020-04-01,SummonStorm BR,Liability,Accounts Payable,144890.32,0.9386,135994.05
+2020-04-01,SummonStorm BR,Liability,Deferred Revenue,96706.5,1.1267,108959.21
+2020-04-01,SummonStorm BR,Liability,Accrued Expenses,116080.61,1.1578,134398.13
+2020-04-01,SummonStorm BR,Equity,Retained Earnings,80959.32,0.9343,75640.29
+2020-04-01,SummonStorm BR,Equity,Share Capital,113411.33,1.2842,145642.83
+2020-05-01,Tapstorm SG,Asset,Cash,119986.63,0.8298,99564.91
+2020-05-01,Tapstorm SG,Asset,Accounts Receivable,56069.65,1.1218,62898.93
+2020-05-01,Tapstorm SG,Asset,Prepaid Expenses,115645.27,0.9965,115240.51
+2020-05-01,Tapstorm SG,Asset,PPE,96784.54,1.2544,121406.53
+2020-05-01,Tapstorm SG,Liability,Accounts Payable,69157.77,1.2042,83279.79
+2020-05-01,Tapstorm SG,Liability,Deferred Revenue,150184.46,0.9311,139836.75
+2020-05-01,Tapstorm SG,Liability,Accrued Expenses,72003.0,0.9742,70145.32
+2020-05-01,Tapstorm SG,Equity,Retained Earnings,107008.38,1.2159,130111.49
+2020-05-01,Tapstorm SG,Equity,Share Capital,62784.58,0.9849,61836.53
+2020-05-01,TapForge CN,Asset,Cash,66961.82,0.9368,62729.83
+2020-05-01,TapForge CN,Asset,Accounts Receivable,131775.46,1.1615,153057.2
+2020-05-01,TapForge CN,Asset,Prepaid Expenses,89466.92,0.9689,86684.5
+2020-05-01,TapForge CN,Asset,PPE,143273.7,1.0388,148832.72
+2020-05-01,TapForge CN,Liability,Accounts Payable,87631.29,0.957,83863.14
+2020-05-01,TapForge CN,Liability,Deferred Revenue,86328.94,1.0246,88452.63
+2020-05-01,TapForge CN,Liability,Accrued Expenses,77163.75,1.1746,90636.54
+2020-05-01,TapForge CN,Equity,Retained Earnings,85231.01,0.8844,75378.31
+2020-05-01,TapForge CN,Equity,Share Capital,118558.91,1.2241,145127.96
+2020-05-01,WhaleCare PH,Asset,Cash,102599.89,0.8626,88502.67
+2020-05-01,WhaleCare PH,Asset,Accounts Receivable,90786.09,1.1354,103078.53
+2020-05-01,WhaleCare PH,Asset,Prepaid Expenses,120706.18,1.271,153417.55
+2020-05-01,WhaleCare PH,Asset,PPE,116513.11,0.9071,105689.04
+2020-05-01,WhaleCare PH,Liability,Accounts Payable,91613.45,0.9231,84568.38
+2020-05-01,WhaleCare PH,Liability,Deferred Revenue,145732.35,1.2981,189175.16
+2020-05-01,WhaleCare PH,Liability,Accrued Expenses,53747.27,1.2476,67055.09
+2020-05-01,WhaleCare PH,Equity,Retained Earnings,112177.12,0.9248,103741.4
+2020-05-01,WhaleCare PH,Equity,Share Capital,96315.5,0.8571,82552.02
+2020-05-01,SummonStorm BR,Asset,Cash,115085.72,0.8848,101827.85
+2020-05-01,SummonStorm BR,Asset,Accounts Receivable,103130.69,1.0744,110803.61
+2020-05-01,SummonStorm BR,Asset,Prepaid Expenses,107883.52,1.0636,114744.91
+2020-05-01,SummonStorm BR,Asset,PPE,46336.64,1.0579,49019.53
+2020-05-01,SummonStorm BR,Liability,Accounts Payable,106781.94,1.1621,124091.29
+2020-05-01,SummonStorm BR,Liability,Deferred Revenue,131274.27,0.9297,122045.69
+2020-05-01,SummonStorm BR,Liability,Accrued Expenses,81883.43,1.0488,85879.34
+2020-05-01,SummonStorm BR,Equity,Retained Earnings,129883.13,0.859,111569.61
+2020-05-01,SummonStorm BR,Equity,Share Capital,89401.6,0.9042,80836.93
+2020-06-01,Tapstorm SG,Asset,Cash,82217.29,0.9118,74965.73
+2020-06-01,Tapstorm SG,Asset,Accounts Receivable,82914.08,1.0988,91105.99
+2020-06-01,Tapstorm SG,Asset,Prepaid Expenses,69373.07,1.1349,78731.5
+2020-06-01,Tapstorm SG,Asset,PPE,102153.96,0.8867,90579.92
+2020-06-01,Tapstorm SG,Liability,Accounts Payable,81279.0,1.2351,100387.69
+2020-06-01,Tapstorm SG,Liability,Deferred Revenue,83577.02,1.0822,90447.05
+2020-06-01,Tapstorm SG,Liability,Accrued Expenses,79471.1,1.1238,89309.62
+2020-06-01,Tapstorm SG,Equity,Retained Earnings,109813.76,1.2492,137179.35
+2020-06-01,Tapstorm SG,Equity,Share Capital,62027.44,1.2128,75226.88
+2020-06-01,TapForge CN,Asset,Cash,117764.66,0.8911,104940.09
+2020-06-01,TapForge CN,Asset,Accounts Receivable,115062.89,1.0314,118675.86
+2020-06-01,TapForge CN,Asset,Prepaid Expenses,115252.84,1.1778,135744.79
+2020-06-01,TapForge CN,Asset,PPE,70582.45,0.9619,67893.26
+2020-06-01,TapForge CN,Liability,Accounts Payable,107157.56,0.9661,103524.92
+2020-06-01,TapForge CN,Liability,Deferred Revenue,139104.7,1.033,143695.16
+2020-06-01,TapForge CN,Liability,Accrued Expenses,63769.77,1.1577,73826.26
+2020-06-01,TapForge CN,Equity,Retained Earnings,105433.12,0.8484,89449.46
+2020-06-01,TapForge CN,Equity,Share Capital,66578.14,1.1951,79567.54
+2020-06-01,WhaleCare PH,Asset,Cash,91797.32,1.0796,99104.39
+2020-06-01,WhaleCare PH,Asset,Accounts Receivable,99022.54,1.2883,127570.74
+2020-06-01,WhaleCare PH,Asset,Prepaid Expenses,81000.47,0.8694,70421.81
+2020-06-01,WhaleCare PH,Asset,PPE,77482.22,0.9347,72422.63
+2020-06-01,WhaleCare PH,Liability,Accounts Payable,107682.88,1.2767,137478.73
+2020-06-01,WhaleCare PH,Liability,Deferred Revenue,69695.55,1.2747,88840.92
+2020-06-01,WhaleCare PH,Liability,Accrued Expenses,115494.17,0.9262,106970.7
+2020-06-01,WhaleCare PH,Equity,Retained Earnings,152248.32,1.187,180718.76
+2020-06-01,WhaleCare PH,Equity,Share Capital,61664.75,1.2034,74207.36
+2020-06-01,SummonStorm BR,Asset,Cash,59866.24,0.8279,49563.26
+2020-06-01,SummonStorm BR,Asset,Accounts Receivable,54532.61,1.1213,61147.42
+2020-06-01,SummonStorm BR,Asset,Prepaid Expenses,85710.86,0.9423,80765.34
+2020-06-01,SummonStorm BR,Asset,PPE,125742.33,1.0126,127326.68
+2020-06-01,SummonStorm BR,Liability,Accounts Payable,128433.99,1.2329,158346.27
+2020-06-01,SummonStorm BR,Liability,Deferred Revenue,112638.58,1.0001,112649.84
+2020-06-01,SummonStorm BR,Liability,Accrued Expenses,106011.6,1.1463,121521.1
+2020-06-01,SummonStorm BR,Equity,Retained Earnings,138274.03,1.058,146293.92
+2020-06-01,SummonStorm BR,Equity,Share Capital,85320.73,1.2945,110447.68
+2020-07-01,Tapstorm SG,Asset,Cash,116763.11,0.9681,113038.37
+2020-07-01,Tapstorm SG,Asset,Accounts Receivable,159560.03,1.0822,172675.86
+2020-07-01,Tapstorm SG,Asset,Prepaid Expenses,137017.37,1.0564,144745.15
+2020-07-01,Tapstorm SG,Asset,PPE,66373.28,1.2348,81957.73
+2020-07-01,Tapstorm SG,Liability,Accounts Payable,82627.23,0.8477,70043.1
+2020-07-01,Tapstorm SG,Liability,Deferred Revenue,161015.22,1.0441,168115.99
+2020-07-01,Tapstorm SG,Liability,Accrued Expenses,82731.55,1.1972,99046.21
+2020-07-01,Tapstorm SG,Equity,Retained Earnings,147952.83,0.9738,144076.47
+2020-07-01,Tapstorm SG,Equity,Share Capital,87049.73,1.0455,91010.49
+2020-07-01,TapForge CN,Asset,Cash,94031.11,0.9341,87834.46
+2020-07-01,TapForge CN,Asset,Accounts Receivable,72464.55,0.9407,68167.4
+2020-07-01,TapForge CN,Asset,Prepaid Expenses,77584.52,1.0338,80206.88
+2020-07-01,TapForge CN,Asset,PPE,94137.64,1.044,98279.7
+2020-07-01,TapForge CN,Liability,Accounts Payable,105536.3,1.0583,111689.07
+2020-07-01,TapForge CN,Liability,Deferred Revenue,87922.66,0.9021,79315.03
+2020-07-01,TapForge CN,Liability,Accrued Expenses,121007.04,1.0714,129646.94
+2020-07-01,TapForge CN,Equity,Retained Earnings,87990.33,1.2806,112680.42
+2020-07-01,TapForge CN,Equity,Share Capital,38074.59,1.1456,43618.25
+2020-07-01,WhaleCare PH,Asset,Cash,93774.77,1.1727,109969.67
+2020-07-01,WhaleCare PH,Asset,Accounts Receivable,85798.53,0.8317,71358.64
+2020-07-01,WhaleCare PH,Asset,Prepaid Expenses,144621.31,0.8648,125068.51
+2020-07-01,WhaleCare PH,Asset,PPE,126876.36,0.8055,102198.91
+2020-07-01,WhaleCare PH,Liability,Accounts Payable,129800.28,1.0774,139846.82
+2020-07-01,WhaleCare PH,Liability,Deferred Revenue,121079.08,1.0384,125728.52
+2020-07-01,WhaleCare PH,Liability,Accrued Expenses,113175.03,1.1615,131452.8
+2020-07-01,WhaleCare PH,Equity,Retained Earnings,113082.35,0.9436,106704.51
+2020-07-01,WhaleCare PH,Equity,Share Capital,127689.27,1.1967,152805.75
+2020-07-01,SummonStorm BR,Asset,Cash,117402.42,0.8359,98136.68
+2020-07-01,SummonStorm BR,Asset,Accounts Receivable,84189.91,1.1545,97197.25
+2020-07-01,SummonStorm BR,Asset,Prepaid Expenses,57541.88,1.162,66863.66
+2020-07-01,SummonStorm BR,Asset,PPE,43401.43,1.2729,55245.68
+2020-07-01,SummonStorm BR,Liability,Accounts Payable,74519.44,1.0065,75003.82
+2020-07-01,SummonStorm BR,Liability,Deferred Revenue,77920.97,1.1912,92819.46
+2020-07-01,SummonStorm BR,Liability,Accrued Expenses,97153.05,1.2025,116826.54
+2020-07-01,SummonStorm BR,Equity,Retained Earnings,96303.07,1.0702,103063.55
+2020-07-01,SummonStorm BR,Equity,Share Capital,152145.35,0.889,135257.22
+2020-08-01,Tapstorm SG,Asset,Cash,116845.9,1.2488,145917.16
+2020-08-01,Tapstorm SG,Asset,Accounts Receivable,77626.32,1.1945,92724.64
+2020-08-01,Tapstorm SG,Asset,Prepaid Expenses,141144.48,1.1435,161398.71
+2020-08-01,Tapstorm SG,Asset,PPE,93101.52,1.0332,96192.49
+2020-08-01,Tapstorm SG,Liability,Accounts Payable,116995.48,0.8704,101832.87
+2020-08-01,Tapstorm SG,Liability,Deferred Revenue,114049.95,1.2476,142288.72
+2020-08-01,Tapstorm SG,Liability,Accrued Expenses,101212.43,0.8794,89006.21
+2020-08-01,Tapstorm SG,Equity,Retained Earnings,142422.21,1.1419,162631.92
+2020-08-01,Tapstorm SG,Equity,Share Capital,82474.68,1.2003,98994.36
+2020-08-01,TapForge CN,Asset,Cash,103859.15,1.1717,121691.77
+2020-08-01,TapForge CN,Asset,Accounts Receivable,72944.4,1.1418,83287.92
+2020-08-01,TapForge CN,Asset,Prepaid Expenses,110513.83,1.1085,122504.58
+2020-08-01,TapForge CN,Asset,PPE,112225.15,1.1947,134075.39
+2020-08-01,TapForge CN,Liability,Accounts Payable,102575.28,1.2192,125059.78
+2020-08-01,TapForge CN,Liability,Deferred Revenue,102041.09,0.9939,101418.64
+2020-08-01,TapForge CN,Liability,Accrued Expenses,94753.75,0.8442,79991.12
+2020-08-01,TapForge CN,Equity,Retained Earnings,111299.14,1.184,131778.18
+2020-08-01,TapForge CN,Equity,Share Capital,118547.48,1.242,147235.97
+2020-08-01,WhaleCare PH,Asset,Cash,63651.68,1.2999,82740.82
+2020-08-01,WhaleCare PH,Asset,Accounts Receivable,91675.82,1.2667,116125.76
+2020-08-01,WhaleCare PH,Asset,Prepaid Expenses,89145.21,0.9427,84037.19
+2020-08-01,WhaleCare PH,Asset,PPE,119834.55,0.9925,118935.79
+2020-08-01,WhaleCare PH,Liability,Accounts Payable,136253.78,0.8271,112695.5
+2020-08-01,WhaleCare PH,Liability,Deferred Revenue,112828.44,0.914,103125.19
+2020-08-01,WhaleCare PH,Liability,Accrued Expenses,104294.34,0.9813,102344.04
+2020-08-01,WhaleCare PH,Equity,Retained Earnings,76944.52,0.848,65248.95
+2020-08-01,WhaleCare PH,Equity,Share Capital,155853.48,1.1778,183564.23
+2020-08-01,SummonStorm BR,Asset,Cash,72326.67,1.0354,74887.03
+2020-08-01,SummonStorm BR,Asset,Accounts Receivable,62346.64,0.9722,60613.4
+2020-08-01,SummonStorm BR,Asset,Prepaid Expenses,121585.15,0.9476,115214.09
+2020-08-01,SummonStorm BR,Asset,PPE,84654.38,1.1147,94364.24
+2020-08-01,SummonStorm BR,Liability,Accounts Payable,122936.08,1.0033,123341.77
+2020-08-01,SummonStorm BR,Liability,Deferred Revenue,142964.16,1.2274,175474.21
+2020-08-01,SummonStorm BR,Liability,Accrued Expenses,91978.22,1.1036,101507.16
+2020-08-01,SummonStorm BR,Equity,Retained Earnings,113678.44,1.0465,118964.49
+2020-08-01,SummonStorm BR,Equity,Share Capital,86612.87,1.2537,108586.56
+2020-09-01,Tapstorm SG,Asset,Cash,102218.97,1.0566,108004.56
+2020-09-01,Tapstorm SG,Asset,Accounts Receivable,96160.13,0.8212,78966.7
+2020-09-01,Tapstorm SG,Asset,Prepaid Expenses,128801.53,0.8704,112108.85
+2020-09-01,Tapstorm SG,Asset,PPE,83643.62,1.282,107231.12
+2020-09-01,Tapstorm SG,Liability,Accounts Payable,79788.29,0.984,78511.68
+2020-09-01,Tapstorm SG,Liability,Deferred Revenue,94081.15,1.1465,107864.04
+2020-09-01,Tapstorm SG,Liability,Accrued Expenses,119889.08,0.8232,98692.69
+2020-09-01,Tapstorm SG,Equity,Retained Earnings,76025.85,0.895,68043.14
+2020-09-01,Tapstorm SG,Equity,Share Capital,64508.91,1.1583,74720.67
+2020-09-01,TapForge CN,Asset,Cash,135250.16,0.8901,120386.17
+2020-09-01,TapForge CN,Asset,Accounts Receivable,33316.41,0.8585,28602.14
+2020-09-01,TapForge CN,Asset,Prepaid Expenses,60940.06,1.2042,73384.02
+2020-09-01,TapForge CN,Asset,PPE,164979.85,1.1239,185420.85
+2020-09-01,TapForge CN,Liability,Accounts Payable,47445.53,0.8787,41690.39
+2020-09-01,TapForge CN,Liability,Deferred Revenue,86870.92,1.2668,110048.08
+2020-09-01,TapForge CN,Liability,Accrued Expenses,80535.5,0.8314,66957.21
+2020-09-01,TapForge CN,Equity,Retained Earnings,31178.61,1.1831,36887.41
+2020-09-01,TapForge CN,Equity,Share Capital,69899.67,0.9365,65461.04
+2020-09-01,WhaleCare PH,Asset,Cash,107954.05,1.2194,131639.17
+2020-09-01,WhaleCare PH,Asset,Accounts Receivable,122644.36,0.9911,121552.83
+2020-09-01,WhaleCare PH,Asset,Prepaid Expenses,133103.38,0.8172,108772.08
+2020-09-01,WhaleCare PH,Asset,PPE,88789.57,1.1425,101442.08
+2020-09-01,WhaleCare PH,Liability,Accounts Payable,44512.62,1.1571,51505.55
+2020-09-01,WhaleCare PH,Liability,Deferred Revenue,101552.8,1.2554,127489.39
+2020-09-01,WhaleCare PH,Liability,Accrued Expenses,141234.76,0.8373,118255.86
+2020-09-01,WhaleCare PH,Equity,Retained Earnings,145776.33,0.9837,143400.18
+2020-09-01,WhaleCare PH,Equity,Share Capital,129473.39,0.9365,121251.83
+2020-09-01,SummonStorm BR,Asset,Cash,59107.15,1.2229,72282.13
+2020-09-01,SummonStorm BR,Asset,Accounts Receivable,94163.5,1.2182,114709.98
+2020-09-01,SummonStorm BR,Asset,Prepaid Expenses,106899.01,1.1665,124697.7
+2020-09-01,SummonStorm BR,Asset,PPE,111764.69,1.1213,125321.75
+2020-09-01,SummonStorm BR,Liability,Accounts Payable,46642.75,1.2569,58625.27
+2020-09-01,SummonStorm BR,Liability,Deferred Revenue,161686.45,0.9246,149495.29
+2020-09-01,SummonStorm BR,Liability,Accrued Expenses,139585.77,1.0464,146062.55
+2020-09-01,SummonStorm BR,Equity,Retained Earnings,99918.22,1.1319,113097.43
+2020-09-01,SummonStorm BR,Equity,Share Capital,103833.34,1.0231,106231.89
+2020-10-01,Tapstorm SG,Asset,Cash,85010.73,1.0106,85911.84
+2020-10-01,Tapstorm SG,Asset,Accounts Receivable,137081.21,1.1422,156574.16
+2020-10-01,Tapstorm SG,Asset,Prepaid Expenses,65281.95,0.945,61691.44
+2020-10-01,Tapstorm SG,Asset,PPE,103408.31,1.2973,134151.6
+2020-10-01,Tapstorm SG,Liability,Accounts Payable,74879.32,1.063,79596.72
+2020-10-01,Tapstorm SG,Liability,Deferred Revenue,99470.63,1.2788,127203.04
+2020-10-01,Tapstorm SG,Liability,Accrued Expenses,135069.94,0.9809,132490.1
+2020-10-01,Tapstorm SG,Equity,Retained Earnings,80707.29,1.0122,81691.92
+2020-10-01,Tapstorm SG,Equity,Share Capital,105431.98,1.1479,121025.37
+2020-10-01,TapForge CN,Asset,Cash,96168.09,1.1016,105938.77
+2020-10-01,TapForge CN,Asset,Accounts Receivable,77967.13,0.8018,62514.04
+2020-10-01,TapForge CN,Asset,Prepaid Expenses,81472.21,1.1126,90645.98
+2020-10-01,TapForge CN,Asset,PPE,81804.96,1.2004,98198.67
+2020-10-01,TapForge CN,Liability,Accounts Payable,45842.14,0.9278,42532.34
+2020-10-01,TapForge CN,Liability,Deferred Revenue,95299.75,1.0397,99083.15
+2020-10-01,TapForge CN,Liability,Accrued Expenses,102334.82,1.0541,107871.13
+2020-10-01,TapForge CN,Equity,Retained Earnings,54527.62,1.0401,56714.18
+2020-10-01,TapForge CN,Equity,Share Capital,86409.0,1.211,104641.3
+2020-10-01,WhaleCare PH,Asset,Cash,93229.55,0.9544,88978.28
+2020-10-01,WhaleCare PH,Asset,Accounts Receivable,124245.73,1.0963,136210.59
+2020-10-01,WhaleCare PH,Asset,Prepaid Expenses,151754.98,0.9055,137414.13
+2020-10-01,WhaleCare PH,Asset,PPE,111803.18,0.9228,103171.97
+2020-10-01,WhaleCare PH,Liability,Accounts Payable,58685.94,1.0024,58826.79
+2020-10-01,WhaleCare PH,Liability,Deferred Revenue,72261.25,0.8383,60576.61
+2020-10-01,WhaleCare PH,Liability,Accrued Expenses,102204.25,0.9862,100793.83
+2020-10-01,WhaleCare PH,Equity,Retained Earnings,86425.47,0.9174,79286.73
+2020-10-01,WhaleCare PH,Equity,Share Capital,98800.02,1.0484,103581.94
+2020-10-01,SummonStorm BR,Asset,Cash,124848.25,0.9974,124523.64
+2020-10-01,SummonStorm BR,Asset,Accounts Receivable,94853.44,1.1274,106937.77
+2020-10-01,SummonStorm BR,Asset,Prepaid Expenses,173403.36,1.0376,179923.33
+2020-10-01,SummonStorm BR,Asset,PPE,52666.54,1.1653,61372.32
+2020-10-01,SummonStorm BR,Liability,Accounts Payable,116168.2,0.9022,104806.95
+2020-10-01,SummonStorm BR,Liability,Deferred Revenue,49951.88,1.0791,53903.07
+2020-10-01,SummonStorm BR,Liability,Accrued Expenses,74418.56,1.1352,84479.95
+2020-10-01,SummonStorm BR,Equity,Retained Earnings,125244.56,1.2926,161891.12
+2020-10-01,SummonStorm BR,Equity,Share Capital,38165.44,0.8108,30944.54
+2020-11-01,Tapstorm SG,Asset,Cash,108912.81,1.2202,132895.41
+2020-11-01,Tapstorm SG,Asset,Accounts Receivable,62687.7,1.0839,67947.2
+2020-11-01,Tapstorm SG,Asset,Prepaid Expenses,97903.04,0.8018,78498.66
+2020-11-01,Tapstorm SG,Asset,PPE,81104.01,0.9739,78987.2
+2020-11-01,Tapstorm SG,Liability,Accounts Payable,100422.39,1.2514,125668.58
+2020-11-01,Tapstorm SG,Liability,Deferred Revenue,111925.59,1.244,139235.43
+2020-11-01,Tapstorm SG,Liability,Accrued Expenses,131761.56,1.2696,167284.48
+2020-11-01,Tapstorm SG,Equity,Retained Earnings,104171.7,1.1791,122828.85
+2020-11-01,Tapstorm SG,Equity,Share Capital,118467.16,1.0351,122625.36
+2020-11-01,TapForge CN,Asset,Cash,97978.71,1.1337,111078.46
+2020-11-01,TapForge CN,Asset,Accounts Receivable,59720.08,1.17,69872.49
+2020-11-01,TapForge CN,Asset,Prepaid Expenses,65823.19,0.862,56739.59
+2020-11-01,TapForge CN,Asset,PPE,144752.05,0.9887,143116.35
+2020-11-01,TapForge CN,Liability,Accounts Payable,63380.78,1.0973,69547.73
+2020-11-01,TapForge CN,Liability,Deferred Revenue,105715.76,1.1008,116371.91
+2020-11-01,TapForge CN,Liability,Accrued Expenses,105234.68,1.0099,106276.5
+2020-11-01,TapForge CN,Equity,Retained Earnings,103542.25,1.1891,123122.09
+2020-11-01,TapForge CN,Equity,Share Capital,130683.24,1.0336,135074.2
+2020-11-01,WhaleCare PH,Asset,Cash,80635.6,1.2583,101463.78
+2020-11-01,WhaleCare PH,Asset,Accounts Receivable,93652.1,1.2104,113356.5
+2020-11-01,WhaleCare PH,Asset,Prepaid Expenses,89773.65,0.9923,89082.39
+2020-11-01,WhaleCare PH,Asset,PPE,32013.48,0.9741,31184.33
+2020-11-01,WhaleCare PH,Liability,Accounts Payable,77178.84,1.1463,88470.1
+2020-11-01,WhaleCare PH,Liability,Deferred Revenue,131968.14,1.1668,153980.43
+2020-11-01,WhaleCare PH,Liability,Accrued Expenses,160716.28,1.1291,181464.75
+2020-11-01,WhaleCare PH,Equity,Retained Earnings,128514.83,0.8836,113555.7
+2020-11-01,WhaleCare PH,Equity,Share Capital,111655.37,1.2946,144549.04
+2020-11-01,SummonStorm BR,Asset,Cash,58739.24,1.1474,67397.4
+2020-11-01,SummonStorm BR,Asset,Accounts Receivable,105561.04,0.9144,96525.01
+2020-11-01,SummonStorm BR,Asset,Prepaid Expenses,102961.88,1.2864,132450.16
+2020-11-01,SummonStorm BR,Asset,PPE,170234.44,0.9429,160514.05
+2020-11-01,SummonStorm BR,Liability,Accounts Payable,47596.43,0.8039,38262.77
+2020-11-01,SummonStorm BR,Liability,Deferred Revenue,62470.76,0.9538,59584.61
+2020-11-01,SummonStorm BR,Liability,Accrued Expenses,136358.15,1.2473,170079.52
+2020-11-01,SummonStorm BR,Equity,Retained Earnings,146335.16,0.9953,145647.38
+2020-11-01,SummonStorm BR,Equity,Share Capital,109937.69,0.9529,104759.62
+2020-12-01,Tapstorm SG,Asset,Cash,89050.0,1.1023,98159.82
+2020-12-01,Tapstorm SG,Asset,Accounts Receivable,117190.88,1.0834,126964.6
+2020-12-01,Tapstorm SG,Asset,Prepaid Expenses,165334.5,0.8086,133689.48
+2020-12-01,Tapstorm SG,Asset,PPE,80573.41,0.8939,72024.57
+2020-12-01,Tapstorm SG,Liability,Accounts Payable,113962.31,0.8147,92845.09
+2020-12-01,Tapstorm SG,Liability,Deferred Revenue,93941.46,0.9926,93246.29
+2020-12-01,Tapstorm SG,Liability,Accrued Expenses,111084.25,0.9559,106185.43
+2020-12-01,Tapstorm SG,Equity,Retained Earnings,123358.04,1.1661,143847.81
+2020-12-01,Tapstorm SG,Equity,Share Capital,82402.42,0.8797,72489.41
+2020-12-01,TapForge CN,Asset,Cash,129419.84,1.2967,167818.71
+2020-12-01,TapForge CN,Asset,Accounts Receivable,85231.84,0.8201,69898.63
+2020-12-01,TapForge CN,Asset,Prepaid Expenses,117176.71,0.857,100420.44
+2020-12-01,TapForge CN,Asset,PPE,41717.46,1.0232,42685.31
+2020-12-01,TapForge CN,Liability,Accounts Payable,122895.32,1.0663,131043.28
+2020-12-01,TapForge CN,Liability,Deferred Revenue,73382.94,0.986,72355.58
+2020-12-01,TapForge CN,Liability,Accrued Expenses,85004.92,0.8052,68445.96
+2020-12-01,TapForge CN,Equity,Retained Earnings,32291.98,1.0497,33896.89
+2020-12-01,TapForge CN,Equity,Share Capital,93257.27,0.8734,81450.9
+2020-12-01,WhaleCare PH,Asset,Cash,139849.29,1.1523,161148.34
+2020-12-01,WhaleCare PH,Asset,Accounts Receivable,53006.63,1.279,67795.48
+2020-12-01,WhaleCare PH,Asset,Prepaid Expenses,105835.94,1.2226,129395.02
+2020-12-01,WhaleCare PH,Asset,PPE,38801.71,1.0111,39232.41
+2020-12-01,WhaleCare PH,Liability,Accounts Payable,95497.61,1.0996,105009.17
+2020-12-01,WhaleCare PH,Liability,Deferred Revenue,125750.24,1.0165,127825.12
+2020-12-01,WhaleCare PH,Liability,Accrued Expenses,96744.27,1.0742,103922.69
+2020-12-01,WhaleCare PH,Equity,Retained Earnings,123416.38,1.2338,152271.13
+2020-12-01,WhaleCare PH,Equity,Share Capital,84928.78,1.2247,104012.28
+2020-12-01,SummonStorm BR,Asset,Cash,177530.41,1.1098,197023.25
+2020-12-01,SummonStorm BR,Asset,Accounts Receivable,133026.75,0.9593,127612.56
+2020-12-01,SummonStorm BR,Asset,Prepaid Expenses,106283.95,1.2866,136744.93
+2020-12-01,SummonStorm BR,Asset,PPE,151357.83,1.1291,170898.13
+2020-12-01,SummonStorm BR,Liability,Accounts Payable,141836.86,0.9769,138560.43
+2020-12-01,SummonStorm BR,Liability,Deferred Revenue,83877.86,1.0296,86360.64
+2020-12-01,SummonStorm BR,Liability,Accrued Expenses,115023.64,1.0146,116702.99
+2020-12-01,SummonStorm BR,Equity,Retained Earnings,91121.32,1.1204,102092.33
+2020-12-01,SummonStorm BR,Equity,Share Capital,127558.87,1.1066,141156.65
+2021-01-01,Tapstorm SG,Asset,Cash,147156.12,0.9025,132808.4
+2021-01-01,Tapstorm SG,Asset,Accounts Receivable,55603.82,1.0443,58067.07
+2021-01-01,Tapstorm SG,Asset,Prepaid Expenses,103573.47,1.1173,115722.64
+2021-01-01,Tapstorm SG,Asset,PPE,143873.44,1.2634,181769.7
+2021-01-01,Tapstorm SG,Liability,Accounts Payable,122812.18,1.2418,152508.17
+2021-01-01,Tapstorm SG,Liability,Deferred Revenue,112826.26,1.1449,129174.79
+2021-01-01,Tapstorm SG,Liability,Accrued Expenses,132253.57,0.857,113341.31
+2021-01-01,Tapstorm SG,Equity,Retained Earnings,59866.61,0.8051,48198.61
+2021-01-01,Tapstorm SG,Equity,Share Capital,117046.46,1.2833,150205.72
+2021-01-01,TapForge CN,Asset,Cash,137008.12,0.8787,120389.04
+2021-01-01,TapForge CN,Asset,Accounts Receivable,117083.19,0.8767,102646.83
+2021-01-01,TapForge CN,Asset,Prepaid Expenses,63417.74,0.8619,54659.75
+2021-01-01,TapForge CN,Asset,PPE,88694.92,0.9862,87470.93
+2021-01-01,TapForge CN,Liability,Accounts Payable,100331.12,1.1739,117778.7
+2021-01-01,TapForge CN,Liability,Deferred Revenue,75424.65,1.0835,81722.61
+2021-01-01,TapForge CN,Liability,Accrued Expenses,72960.1,1.0872,79322.22
+2021-01-01,TapForge CN,Equity,Retained Earnings,114736.51,1.1021,126451.11
+2021-01-01,TapForge CN,Equity,Share Capital,149422.77,1.1845,176991.27
+2021-01-01,WhaleCare PH,Asset,Cash,43439.8,1.216,52822.8
+2021-01-01,WhaleCare PH,Asset,Accounts Receivable,85509.74,0.8686,74273.76
+2021-01-01,WhaleCare PH,Asset,Prepaid Expenses,78329.06,1.2667,99219.42
+2021-01-01,WhaleCare PH,Asset,PPE,145031.41,0.9901,143595.6
+2021-01-01,WhaleCare PH,Liability,Accounts Payable,121695.5,0.9576,116535.61
+2021-01-01,WhaleCare PH,Liability,Deferred Revenue,141745.65,1.0496,148776.23
+2021-01-01,WhaleCare PH,Liability,Accrued Expenses,126574.08,0.8199,103778.09
+2021-01-01,WhaleCare PH,Equity,Retained Earnings,135437.23,1.2939,175242.23
+2021-01-01,WhaleCare PH,Equity,Share Capital,108600.39,1.1011,119579.89
+2021-01-01,SummonStorm BR,Asset,Cash,114275.37,1.025,117132.25
+2021-01-01,SummonStorm BR,Asset,Accounts Receivable,115744.52,1.0102,116925.11
+2021-01-01,SummonStorm BR,Asset,Prepaid Expenses,100997.63,1.1917,120358.88
+2021-01-01,SummonStorm BR,Asset,PPE,100152.35,1.0301,103166.94
+2021-01-01,SummonStorm BR,Liability,Accounts Payable,114247.44,0.8219,93899.97
+2021-01-01,SummonStorm BR,Liability,Deferred Revenue,113487.01,0.9401,106689.14
+2021-01-01,SummonStorm BR,Liability,Accrued Expenses,106339.83,1.2559,133552.19
+2021-01-01,SummonStorm BR,Equity,Retained Earnings,105421.95,1.2397,130691.59
+2021-01-01,SummonStorm BR,Equity,Share Capital,121356.28,0.8692,105482.88
+2021-02-01,Tapstorm SG,Asset,Cash,96172.58,0.8164,78515.29
+2021-02-01,Tapstorm SG,Asset,Accounts Receivable,63378.4,0.9597,60824.25
+2021-02-01,Tapstorm SG,Asset,Prepaid Expenses,106175.42,1.0616,112715.83
+2021-02-01,Tapstorm SG,Asset,PPE,73058.22,0.8397,61346.99
+2021-02-01,Tapstorm SG,Liability,Accounts Payable,131159.68,0.8341,109400.29
+2021-02-01,Tapstorm SG,Liability,Deferred Revenue,82391.11,0.8198,67544.23
+2021-02-01,Tapstorm SG,Liability,Accrued Expenses,84989.14,0.8654,73549.6
+2021-02-01,Tapstorm SG,Equity,Retained Earnings,112446.99,1.0597,119160.08
+2021-02-01,Tapstorm SG,Equity,Share Capital,99649.11,1.0464,104272.83
+2021-02-01,TapForge CN,Asset,Cash,135472.14,1.2261,166102.39
+2021-02-01,TapForge CN,Asset,Accounts Receivable,93726.04,1.0972,102836.21
+2021-02-01,TapForge CN,Asset,Prepaid Expenses,91174.11,1.1291,102944.69
+2021-02-01,TapForge CN,Asset,PPE,77103.33,0.9542,73572.0
+2021-02-01,TapForge CN,Liability,Accounts Payable,64440.41,1.1531,74306.24
+2021-02-01,TapForge CN,Liability,Deferred Revenue,84208.89,1.026,86398.32
+2021-02-01,TapForge CN,Liability,Accrued Expenses,112344.08,1.2821,144036.34
+2021-02-01,TapForge CN,Equity,Retained Earnings,138506.84,1.2973,179684.92
+2021-02-01,TapForge CN,Equity,Share Capital,125532.29,1.1354,142529.36
+2021-02-01,WhaleCare PH,Asset,Cash,82886.58,1.2961,107429.3
+2021-02-01,WhaleCare PH,Asset,Accounts Receivable,104866.54,1.2436,130412.03
+2021-02-01,WhaleCare PH,Asset,Prepaid Expenses,100841.82,0.8347,84172.67
+2021-02-01,WhaleCare PH,Asset,PPE,134760.62,1.2795,172426.21
+2021-02-01,WhaleCare PH,Liability,Accounts Payable,139464.09,0.802,111850.2
+2021-02-01,WhaleCare PH,Liability,Deferred Revenue,41597.12,0.8533,35494.82
+2021-02-01,WhaleCare PH,Liability,Accrued Expenses,141800.14,0.835,118403.12
+2021-02-01,WhaleCare PH,Equity,Retained Earnings,52913.64,1.0807,57183.77
+2021-02-01,WhaleCare PH,Equity,Share Capital,108193.4,1.0199,110346.45
+2021-02-01,SummonStorm BR,Asset,Cash,37301.68,1.2145,45302.89
+2021-02-01,SummonStorm BR,Asset,Accounts Receivable,130467.7,0.8334,108731.78
+2021-02-01,SummonStorm BR,Asset,Prepaid Expenses,89844.38,1.2792,114928.93
+2021-02-01,SummonStorm BR,Asset,PPE,120296.09,1.1148,134106.08
+2021-02-01,SummonStorm BR,Liability,Accounts Payable,91354.77,1.2146,110959.5
+2021-02-01,SummonStorm BR,Liability,Deferred Revenue,129142.97,0.9376,121084.45
+2021-02-01,SummonStorm BR,Liability,Accrued Expenses,49995.3,0.8049,40241.22
+2021-02-01,SummonStorm BR,Equity,Retained Earnings,118297.01,1.2658,149740.36
+2021-02-01,SummonStorm BR,Equity,Share Capital,112507.56,0.853,95968.95
+2021-03-01,Tapstorm SG,Asset,Cash,111249.78,0.8454,94050.56
+2021-03-01,Tapstorm SG,Asset,Accounts Receivable,115406.35,0.9102,105042.86
+2021-03-01,Tapstorm SG,Asset,Prepaid Expenses,134049.34,0.9929,133097.59
+2021-03-01,Tapstorm SG,Asset,PPE,129605.05,0.9646,125017.03
+2021-03-01,Tapstorm SG,Liability,Accounts Payable,57656.62,1.0764,62061.59
+2021-03-01,Tapstorm SG,Liability,Deferred Revenue,103441.89,1.0726,110951.77
+2021-03-01,Tapstorm SG,Liability,Accrued Expenses,110658.67,1.1085,122665.14
+2021-03-01,Tapstorm SG,Equity,Retained Earnings,98012.35,1.011,99090.49
+2021-03-01,Tapstorm SG,Equity,Share Capital,104642.06,0.9323,97557.79
+2021-03-01,TapForge CN,Asset,Cash,114340.19,0.8591,98229.66
+2021-03-01,TapForge CN,Asset,Accounts Receivable,122711.39,1.2507,153475.14
+2021-03-01,TapForge CN,Asset,Prepaid Expenses,117110.32,0.9985,116934.65
+2021-03-01,TapForge CN,Asset,PPE,125913.87,0.9643,121418.74
+2021-03-01,TapForge CN,Liability,Accounts Payable,159078.72,1.2566,199898.32
+2021-03-01,TapForge CN,Liability,Deferred Revenue,93781.93,1.1387,106789.48
+2021-03-01,TapForge CN,Liability,Accrued Expenses,95974.66,1.1586,111196.24
+2021-03-01,TapForge CN,Equity,Retained Earnings,121093.03,1.1418,138264.02
+2021-03-01,TapForge CN,Equity,Share Capital,99870.41,0.8198,81873.76
+2021-03-01,WhaleCare PH,Asset,Cash,89840.88,0.942,84630.11
+2021-03-01,WhaleCare PH,Asset,Accounts Receivable,86358.92,1.236,106739.63
+2021-03-01,WhaleCare PH,Asset,Prepaid Expenses,118853.13,1.1925,141732.36
+2021-03-01,WhaleCare PH,Asset,PPE,113571.19,1.0838,123088.46
+2021-03-01,WhaleCare PH,Liability,Accounts Payable,155964.05,1.1472,178921.96
+2021-03-01,WhaleCare PH,Liability,Deferred Revenue,69262.65,1.1477,79492.74
+2021-03-01,WhaleCare PH,Liability,Accrued Expenses,69980.37,1.2976,90806.53
+2021-03-01,WhaleCare PH,Equity,Retained Earnings,101996.75,0.9478,96672.52
+2021-03-01,WhaleCare PH,Equity,Share Capital,76471.47,1.2018,91903.41
+2021-03-01,SummonStorm BR,Asset,Cash,46568.83,1.1389,53037.24
+2021-03-01,SummonStorm BR,Asset,Accounts Receivable,87348.9,0.8852,77321.25
+2021-03-01,SummonStorm BR,Asset,Prepaid Expenses,164897.3,1.0066,165985.62
+2021-03-01,SummonStorm BR,Asset,PPE,174604.85,0.8272,144433.13
+2021-03-01,SummonStorm BR,Liability,Accounts Payable,116260.07,1.2928,150301.02
+2021-03-01,SummonStorm BR,Liability,Deferred Revenue,66592.98,1.1828,78766.18
+2021-03-01,SummonStorm BR,Liability,Accrued Expenses,76552.86,1.186,90791.69
+2021-03-01,SummonStorm BR,Equity,Retained Earnings,102779.43,0.8849,90949.52
+2021-03-01,SummonStorm BR,Equity,Share Capital,84875.93,0.8439,71626.8
+2021-04-01,Tapstorm SG,Asset,Cash,104903.77,1.2448,130584.21
+2021-04-01,Tapstorm SG,Asset,Accounts Receivable,101299.02,1.2339,124992.86
+2021-04-01,Tapstorm SG,Asset,Prepaid Expenses,63266.09,1.1184,70756.8
+2021-04-01,Tapstorm SG,Asset,PPE,98530.39,0.8158,80381.09
+2021-04-01,Tapstorm SG,Liability,Accounts Payable,113889.8,0.8215,93560.47
+2021-04-01,Tapstorm SG,Liability,Deferred Revenue,88782.77,0.8181,72633.18
+2021-04-01,Tapstorm SG,Liability,Accrued Expenses,128398.54,0.8965,115109.29
+2021-04-01,Tapstorm SG,Equity,Retained Earnings,101671.88,1.2311,125168.25
+2021-04-01,Tapstorm SG,Equity,Share Capital,96091.4,1.065,102337.34
+2021-04-01,TapForge CN,Asset,Cash,101857.81,1.0232,104220.91
+2021-04-01,TapForge CN,Asset,Accounts Receivable,83765.24,1.2308,103098.26
+2021-04-01,TapForge CN,Asset,Prepaid Expenses,112175.0,1.0318,115742.17
+2021-04-01,TapForge CN,Asset,PPE,74277.66,1.2287,91264.96
+2021-04-01,TapForge CN,Liability,Accounts Payable,171662.15,0.973,167027.27
+2021-04-01,TapForge CN,Liability,Deferred Revenue,160865.03,1.0108,162602.37
+2021-04-01,TapForge CN,Liability,Accrued Expenses,97686.77,1.0722,104739.75
+2021-04-01,TapForge CN,Equity,Retained Earnings,117085.76,1.1108,130058.86
+2021-04-01,TapForge CN,Equity,Share Capital,118068.61,1.1793,139238.31
+2021-04-01,WhaleCare PH,Asset,Cash,117839.95,1.2657,149150.02
+2021-04-01,WhaleCare PH,Asset,Accounts Receivable,120546.15,0.9699,116917.71
+2021-04-01,WhaleCare PH,Asset,Prepaid Expenses,122692.24,0.864,106006.1
+2021-04-01,WhaleCare PH,Asset,PPE,120800.01,1.2944,156363.53
+2021-04-01,WhaleCare PH,Liability,Accounts Payable,76430.37,0.9218,70453.52
+2021-04-01,WhaleCare PH,Liability,Deferred Revenue,113349.05,0.8035,91075.96
+2021-04-01,WhaleCare PH,Liability,Accrued Expenses,77661.57,1.0816,83998.75
+2021-04-01,WhaleCare PH,Equity,Retained Earnings,115696.28,1.1899,137667.0
+2021-04-01,WhaleCare PH,Equity,Share Capital,128086.41,1.1608,148682.7
+2021-04-01,SummonStorm BR,Asset,Cash,111251.19,0.9814,109181.92
+2021-04-01,SummonStorm BR,Asset,Accounts Receivable,122454.39,0.9653,118205.22
+2021-04-01,SummonStorm BR,Asset,Prepaid Expenses,106592.73,0.811,86446.7
+2021-04-01,SummonStorm BR,Asset,PPE,155475.39,1.1608,180475.83
+2021-04-01,SummonStorm BR,Liability,Accounts Payable,112318.68,0.9523,106961.08
+2021-04-01,SummonStorm BR,Liability,Deferred Revenue,72441.43,0.8426,61039.15
+2021-04-01,SummonStorm BR,Liability,Accrued Expenses,85410.53,0.9107,77783.37
+2021-04-01,SummonStorm BR,Equity,Retained Earnings,113034.85,1.0195,115239.03
+2021-04-01,SummonStorm BR,Equity,Share Capital,139377.94,0.8473,118094.93
+2021-05-01,Tapstorm SG,Asset,Cash,112058.65,0.9054,101457.9
+2021-05-01,Tapstorm SG,Asset,Accounts Receivable,106774.88,0.9329,99610.29
+2021-05-01,Tapstorm SG,Asset,Prepaid Expenses,66462.12,1.0139,67385.94
+2021-05-01,Tapstorm SG,Asset,PPE,156886.04,0.9406,147567.01
+2021-05-01,Tapstorm SG,Liability,Accounts Payable,60164.39,0.8885,53456.06
+2021-05-01,Tapstorm SG,Liability,Deferred Revenue,53630.22,0.9437,50610.84
+2021-05-01,Tapstorm SG,Liability,Accrued Expenses,85893.26,1.1816,101491.48
+2021-05-01,Tapstorm SG,Equity,Retained Earnings,117777.57,0.9646,113608.24
+2021-05-01,Tapstorm SG,Equity,Share Capital,87999.34,1.1936,105036.01
+2021-05-01,TapForge CN,Asset,Cash,81511.75,0.8164,66546.19
+2021-05-01,TapForge CN,Asset,Accounts Receivable,75329.9,1.216,91601.16
+2021-05-01,TapForge CN,Asset,Prepaid Expenses,153031.24,1.041,159305.52
+2021-05-01,TapForge CN,Asset,PPE,110058.06,1.1356,124981.93
+2021-05-01,TapForge CN,Liability,Accounts Payable,126882.22,1.2994,164870.76
+2021-05-01,TapForge CN,Liability,Deferred Revenue,161716.53,0.8788,142116.49
+2021-05-01,TapForge CN,Liability,Accrued Expenses,160754.6,1.0122,162715.81
+2021-05-01,TapForge CN,Equity,Retained Earnings,73048.09,1.2407,90630.77
+2021-05-01,TapForge CN,Equity,Share Capital,107489.94,0.9067,97461.13
+2021-05-01,WhaleCare PH,Asset,Cash,123622.63,1.0779,133252.83
+2021-05-01,WhaleCare PH,Asset,Accounts Receivable,103250.87,1.1312,116797.38
+2021-05-01,WhaleCare PH,Asset,Prepaid Expenses,79727.27,1.0761,85794.52
+2021-05-01,WhaleCare PH,Asset,PPE,20003.76,0.9557,19117.59
+2021-05-01,WhaleCare PH,Liability,Accounts Payable,140375.09,0.9282,130296.16
+2021-05-01,WhaleCare PH,Liability,Deferred Revenue,155452.2,0.9211,143187.02
+2021-05-01,WhaleCare PH,Liability,Accrued Expenses,122100.0,0.8691,106117.11
+2021-05-01,WhaleCare PH,Equity,Retained Earnings,99290.46,1.0847,107700.36
+2021-05-01,WhaleCare PH,Equity,Share Capital,83416.91,1.2847,107165.7
+2021-05-01,SummonStorm BR,Asset,Cash,103888.01,1.0535,109446.02
+2021-05-01,SummonStorm BR,Asset,Accounts Receivable,140074.6,0.9841,137847.41
+2021-05-01,SummonStorm BR,Asset,Prepaid Expenses,116545.45,1.0148,118270.32
+2021-05-01,SummonStorm BR,Asset,PPE,34703.91,1.1296,39201.54
+2021-05-01,SummonStorm BR,Liability,Accounts Payable,148105.55,1.1199,165863.41
+2021-05-01,SummonStorm BR,Liability,Deferred Revenue,120355.19,1.0593,127492.25
+2021-05-01,SummonStorm BR,Liability,Accrued Expenses,67839.2,0.9122,61882.92
+2021-05-01,SummonStorm BR,Equity,Retained Earnings,117748.08,0.8409,99014.36
+2021-05-01,SummonStorm BR,Equity,Share Capital,106237.45,0.8963,95220.63
+2021-06-01,Tapstorm SG,Asset,Cash,106127.7,1.0167,107900.03
+2021-06-01,Tapstorm SG,Asset,Accounts Receivable,69759.72,0.9988,69676.01
+2021-06-01,Tapstorm SG,Asset,Prepaid Expenses,92163.23,0.8768,80808.72
+2021-06-01,Tapstorm SG,Asset,PPE,51642.43,0.9318,48120.42
+2021-06-01,Tapstorm SG,Liability,Accounts Payable,136780.31,0.848,115989.7
+2021-06-01,Tapstorm SG,Liability,Deferred Revenue,74289.54,1.0072,74824.42
+2021-06-01,Tapstorm SG,Liability,Accrued Expenses,133666.96,1.1346,151658.53
+2021-06-01,Tapstorm SG,Equity,Retained Earnings,118433.62,1.0197,120766.76
+2021-06-01,Tapstorm SG,Equity,Share Capital,88118.96,1.0566,93106.49
+2021-06-01,TapForge CN,Asset,Cash,77543.38,0.9316,72239.41
+2021-06-01,TapForge CN,Asset,Accounts Receivable,106282.33,1.0856,115380.1
+2021-06-01,TapForge CN,Asset,Prepaid Expenses,132548.51,1.057,140103.78
+2021-06-01,TapForge CN,Asset,PPE,124387.26,1.294,160957.11
+2021-06-01,TapForge CN,Liability,Accounts Payable,116957.93,0.9445,110466.76
+2021-06-01,TapForge CN,Liability,Deferred Revenue,95106.24,0.9955,94678.26
+2021-06-01,TapForge CN,Liability,Accrued Expenses,124485.82,1.018,126726.56
+2021-06-01,TapForge CN,Equity,Retained Earnings,53721.2,0.9238,49627.64
+2021-06-01,TapForge CN,Equity,Share Capital,107385.38,1.0101,108469.97
+2021-06-01,WhaleCare PH,Asset,Cash,100263.66,0.8709,87319.62
+2021-06-01,WhaleCare PH,Asset,Accounts Receivable,63293.67,0.9305,58894.76
+2021-06-01,WhaleCare PH,Asset,Prepaid Expenses,89510.97,0.8514,76209.64
+2021-06-01,WhaleCare PH,Asset,PPE,150767.87,0.9024,136052.93
+2021-06-01,WhaleCare PH,Liability,Accounts Payable,117130.53,1.2199,142887.53
+2021-06-01,WhaleCare PH,Liability,Deferred Revenue,128172.81,1.2992,166522.11
+2021-06-01,WhaleCare PH,Liability,Accrued Expenses,86624.09,1.0653,92280.64
+2021-06-01,WhaleCare PH,Equity,Retained Earnings,49613.07,1.093,54227.09
+2021-06-01,WhaleCare PH,Equity,Share Capital,145033.58,1.1535,167296.23
+2021-06-01,SummonStorm BR,Asset,Cash,78020.29,1.0089,78714.67
+2021-06-01,SummonStorm BR,Asset,Accounts Receivable,90106.85,1.2664,114111.31
+2021-06-01,SummonStorm BR,Asset,Prepaid Expenses,59538.11,0.9676,57609.08
+2021-06-01,SummonStorm BR,Asset,PPE,141773.3,0.8834,125242.53
+2021-06-01,SummonStorm BR,Liability,Accounts Payable,109919.49,1.2159,133651.11
+2021-06-01,SummonStorm BR,Liability,Deferred Revenue,96044.1,1.1929,114571.01
+2021-06-01,SummonStorm BR,Liability,Accrued Expenses,118400.9,0.8396,99409.4
+2021-06-01,SummonStorm BR,Equity,Retained Earnings,88897.72,0.9584,85199.57
+2021-06-01,SummonStorm BR,Equity,Share Capital,81859.0,0.8767,71765.79
+2021-07-01,Tapstorm SG,Asset,Cash,64566.19,1.017,65663.82
+2021-07-01,Tapstorm SG,Asset,Accounts Receivable,60724.4,0.931,56534.42
+2021-07-01,Tapstorm SG,Asset,Prepaid Expenses,132128.1,1.1443,151194.18
+2021-07-01,Tapstorm SG,Asset,PPE,138034.39,0.9122,125914.97
+2021-07-01,Tapstorm SG,Liability,Accounts Payable,49130.0,1.1906,58494.18
+2021-07-01,Tapstorm SG,Liability,Deferred Revenue,98463.51,1.1716,115359.85
+2021-07-01,Tapstorm SG,Liability,Accrued Expenses,103166.19,1.0035,103527.27
+2021-07-01,Tapstorm SG,Equity,Retained Earnings,80498.36,0.8615,69349.34
+2021-07-01,Tapstorm SG,Equity,Share Capital,75548.51,0.8567,64722.41
+2021-07-01,TapForge CN,Asset,Cash,103041.4,1.2373,127493.12
+2021-07-01,TapForge CN,Asset,Accounts Receivable,79099.3,1.136,89856.8
+2021-07-01,TapForge CN,Asset,Prepaid Expenses,100961.69,0.8753,88371.77
+2021-07-01,TapForge CN,Asset,PPE,67594.39,1.1401,77064.36
+2021-07-01,TapForge CN,Liability,Accounts Payable,82486.96,1.1781,97177.89
+2021-07-01,TapForge CN,Liability,Deferred Revenue,91700.95,1.2294,112737.15
+2021-07-01,TapForge CN,Liability,Accrued Expenses,89979.88,0.9795,88135.29
+2021-07-01,TapForge CN,Equity,Retained Earnings,134383.25,0.856,115032.06
+2021-07-01,TapForge CN,Equity,Share Capital,83433.87,1.0819,90267.1
+2021-07-01,WhaleCare PH,Asset,Cash,128281.97,1.019,130719.33
+2021-07-01,WhaleCare PH,Asset,Accounts Receivable,10727.11,1.2402,13303.76
+2021-07-01,WhaleCare PH,Asset,Prepaid Expenses,100061.72,1.2731,127388.58
+2021-07-01,WhaleCare PH,Asset,PPE,37157.86,1.0214,37953.04
+2021-07-01,WhaleCare PH,Liability,Accounts Payable,137000.54,1.184,162208.64
+2021-07-01,WhaleCare PH,Liability,Deferred Revenue,160742.68,1.0395,167092.02
+2021-07-01,WhaleCare PH,Liability,Accrued Expenses,98916.81,0.8276,81863.55
+2021-07-01,WhaleCare PH,Equity,Retained Earnings,151673.93,1.2738,193202.25
+2021-07-01,WhaleCare PH,Equity,Share Capital,76092.39,1.0423,79311.1
+2021-07-01,SummonStorm BR,Asset,Cash,129474.59,1.1575,149866.84
+2021-07-01,SummonStorm BR,Asset,Accounts Receivable,125374.77,1.1696,146638.33
+2021-07-01,SummonStorm BR,Asset,Prepaid Expenses,95400.47,0.9342,89123.12
+2021-07-01,SummonStorm BR,Asset,PPE,99730.6,1.2793,127585.36
+2021-07-01,SummonStorm BR,Liability,Accounts Payable,109966.04,1.1148,122590.14
+2021-07-01,SummonStorm BR,Liability,Deferred Revenue,106175.98,1.127,119660.33
+2021-07-01,SummonStorm BR,Liability,Accrued Expenses,110323.2,1.0642,117405.95
+2021-07-01,SummonStorm BR,Equity,Retained Earnings,164183.13,1.064,174690.85
+2021-07-01,SummonStorm BR,Equity,Share Capital,160145.17,1.1308,181092.16
+2021-08-01,Tapstorm SG,Asset,Cash,125453.35,1.2796,160530.11
+2021-08-01,Tapstorm SG,Asset,Accounts Receivable,162039.93,1.0808,175132.76
+2021-08-01,Tapstorm SG,Asset,Prepaid Expenses,67131.04,1.1418,76650.22
+2021-08-01,Tapstorm SG,Asset,PPE,124702.9,1.2372,154282.43
+2021-08-01,Tapstorm SG,Liability,Accounts Payable,125860.49,1.0382,130668.36
+2021-08-01,Tapstorm SG,Liability,Deferred Revenue,87646.1,1.2233,107217.47
+2021-08-01,Tapstorm SG,Liability,Accrued Expenses,164693.04,1.2828,211268.23
+2021-08-01,Tapstorm SG,Equity,Retained Earnings,148529.7,1.1544,171462.69
+2021-08-01,Tapstorm SG,Equity,Share Capital,116077.15,1.0047,116622.71
+2021-08-01,TapForge CN,Asset,Cash,78747.43,0.8671,68281.9
+2021-08-01,TapForge CN,Asset,Accounts Receivable,53918.85,1.1077,59725.91
+2021-08-01,TapForge CN,Asset,Prepaid Expenses,69005.63,0.9286,64078.63
+2021-08-01,TapForge CN,Asset,PPE,149166.91,1.1089,165411.19
+2021-08-01,TapForge CN,Liability,Accounts Payable,91812.05,0.9178,84265.1
+2021-08-01,TapForge CN,Liability,Deferred Revenue,134594.41,1.1765,158350.32
+2021-08-01,TapForge CN,Liability,Accrued Expenses,110964.51,1.248,138483.71
+2021-08-01,TapForge CN,Equity,Retained Earnings,39258.85,0.9274,36408.66
+2021-08-01,TapForge CN,Equity,Share Capital,92177.41,0.8494,78295.49
+2021-08-01,WhaleCare PH,Asset,Cash,71261.71,0.8261,58869.3
+2021-08-01,WhaleCare PH,Asset,Accounts Receivable,124983.88,1.2256,153180.24
+2021-08-01,WhaleCare PH,Asset,Prepaid Expenses,126641.76,1.0694,135430.7
+2021-08-01,WhaleCare PH,Asset,PPE,94460.63,1.11,104851.3
+2021-08-01,WhaleCare PH,Liability,Accounts Payable,146224.71,0.9353,136763.97
+2021-08-01,WhaleCare PH,Liability,Deferred Revenue,132461.45,1.118,148091.9
+2021-08-01,WhaleCare PH,Liability,Accrued Expenses,87161.34,1.236,107731.42
+2021-08-01,WhaleCare PH,Equity,Retained Earnings,116372.15,1.1871,138145.38
+2021-08-01,WhaleCare PH,Equity,Share Capital,76241.53,1.1067,84376.5
+2021-08-01,SummonStorm BR,Asset,Cash,89921.43,1.2188,109596.24
+2021-08-01,SummonStorm BR,Asset,Accounts Receivable,118283.83,0.8894,105201.64
+2021-08-01,SummonStorm BR,Asset,Prepaid Expenses,101761.46,1.0487,106717.24
+2021-08-01,SummonStorm BR,Asset,PPE,57497.97,1.2167,69957.78
+2021-08-01,SummonStorm BR,Liability,Accounts Payable,112491.47,0.917,103154.68
+2021-08-01,SummonStorm BR,Liability,Deferred Revenue,90444.99,1.0558,95491.82
+2021-08-01,SummonStorm BR,Liability,Accrued Expenses,76091.24,1.0712,81508.94
+2021-08-01,SummonStorm BR,Equity,Retained Earnings,67152.93,0.8828,59282.61
+2021-08-01,SummonStorm BR,Equity,Share Capital,94202.93,0.8736,82295.68
+2021-09-01,Tapstorm SG,Asset,Cash,107648.98,0.9883,106389.49
+2021-09-01,Tapstorm SG,Asset,Accounts Receivable,93071.92,1.1449,106558.04
+2021-09-01,Tapstorm SG,Asset,Prepaid Expenses,109186.22,0.9024,98529.64
+2021-09-01,Tapstorm SG,Asset,PPE,92145.6,0.9049,83382.55
+2021-09-01,Tapstorm SG,Liability,Accounts Payable,117737.0,1.0377,122175.68
+2021-09-01,Tapstorm SG,Liability,Deferred Revenue,95589.51,1.2136,116007.43
+2021-09-01,Tapstorm SG,Liability,Accrued Expenses,50932.96,0.8552,43557.87
+2021-09-01,Tapstorm SG,Equity,Retained Earnings,64019.59,1.1073,70888.89
+2021-09-01,Tapstorm SG,Equity,Share Capital,84223.34,0.9101,76651.66
+2021-09-01,TapForge CN,Asset,Cash,137806.44,1.134,156272.5
+2021-09-01,TapForge CN,Asset,Accounts Receivable,71339.47,1.1684,83353.04
+2021-09-01,TapForge CN,Asset,Prepaid Expenses,111791.71,1.1423,127699.67
+2021-09-01,TapForge CN,Asset,PPE,112201.19,0.9185,103056.79
+2021-09-01,TapForge CN,Liability,Accounts Payable,63493.03,0.9642,61219.98
+2021-09-01,TapForge CN,Liability,Deferred Revenue,91905.61,1.2292,112970.38
+2021-09-01,TapForge CN,Liability,Accrued Expenses,104638.12,1.1463,119946.68
+2021-09-01,TapForge CN,Equity,Retained Earnings,91613.3,0.8726,79941.77
+2021-09-01,TapForge CN,Equity,Share Capital,117006.4,1.1741,137377.21
+2021-09-01,WhaleCare PH,Asset,Cash,115863.86,0.9283,107556.42
+2021-09-01,WhaleCare PH,Asset,Accounts Receivable,106351.44,0.8253,87771.84
+2021-09-01,WhaleCare PH,Asset,Prepaid Expenses,127530.11,1.1586,147756.39
+2021-09-01,WhaleCare PH,Asset,PPE,99888.91,1.0909,108968.81
+2021-09-01,WhaleCare PH,Liability,Accounts Payable,103399.61,1.1745,121442.84
+2021-09-01,WhaleCare PH,Liability,Deferred Revenue,108479.44,1.1562,125423.93
+2021-09-01,WhaleCare PH,Liability,Accrued Expenses,67050.9,1.0506,70443.68
+2021-09-01,WhaleCare PH,Equity,Retained Earnings,117405.7,1.1317,132868.03
+2021-09-01,WhaleCare PH,Equity,Share Capital,81601.64,1.1394,92976.91
+2021-09-01,SummonStorm BR,Asset,Cash,93608.99,1.0955,102548.65
+2021-09-01,SummonStorm BR,Asset,Accounts Receivable,116404.52,0.9084,105741.87
+2021-09-01,SummonStorm BR,Asset,Prepaid Expenses,113403.69,1.0518,119278.0
+2021-09-01,SummonStorm BR,Asset,PPE,57369.01,1.1349,65108.09
+2021-09-01,SummonStorm BR,Liability,Accounts Payable,57642.63,1.116,64329.18
+2021-09-01,SummonStorm BR,Liability,Deferred Revenue,70116.49,0.8496,59570.97
+2021-09-01,SummonStorm BR,Liability,Accrued Expenses,106036.35,0.9301,98624.41
+2021-09-01,SummonStorm BR,Equity,Retained Earnings,139197.02,0.9521,132529.48
+2021-09-01,SummonStorm BR,Equity,Share Capital,85550.71,1.0784,92257.89
+2021-10-01,Tapstorm SG,Asset,Cash,71754.15,1.1789,84590.97
+2021-10-01,Tapstorm SG,Asset,Accounts Receivable,71889.32,1.2952,93111.05
+2021-10-01,Tapstorm SG,Asset,Prepaid Expenses,113114.57,1.2269,138780.27
+2021-10-01,Tapstorm SG,Asset,PPE,132255.41,1.1434,151220.84
+2021-10-01,Tapstorm SG,Liability,Accounts Payable,130532.61,0.9429,123079.2
+2021-10-01,Tapstorm SG,Liability,Deferred Revenue,79752.11,0.8899,70971.4
+2021-10-01,Tapstorm SG,Liability,Accrued Expenses,54477.52,1.1365,61913.7
+2021-10-01,Tapstorm SG,Equity,Retained Earnings,102512.31,0.9557,97971.01
+2021-10-01,Tapstorm SG,Equity,Share Capital,144455.01,1.2222,176552.91
+2021-10-01,TapForge CN,Asset,Cash,112956.56,1.1991,135446.21
+2021-10-01,TapForge CN,Asset,Accounts Receivable,59271.45,1.0685,63331.54
+2021-10-01,TapForge CN,Asset,Prepaid Expenses,97984.01,0.9701,95054.29
+2021-10-01,TapForge CN,Asset,PPE,69710.26,0.8253,57531.88
+2021-10-01,TapForge CN,Liability,Accounts Payable,109896.86,0.9306,102270.02
+2021-10-01,TapForge CN,Liability,Deferred Revenue,98711.21,0.8051,79472.4
+2021-10-01,TapForge CN,Liability,Accrued Expenses,91819.75,0.9834,90295.54
+2021-10-01,TapForge CN,Equity,Retained Earnings,81077.51,1.059,85861.08
+2021-10-01,TapForge CN,Equity,Share Capital,112780.05,0.8576,96720.17
+2021-10-01,WhaleCare PH,Asset,Cash,135819.75,0.8251,112064.88
+2021-10-01,WhaleCare PH,Asset,Accounts Receivable,148546.34,0.8444,125432.53
+2021-10-01,WhaleCare PH,Asset,Prepaid Expenses,112401.09,1.2426,139669.59
+2021-10-01,WhaleCare PH,Asset,PPE,138118.17,0.8841,122110.27
+2021-10-01,WhaleCare PH,Liability,Accounts Payable,69663.43,0.9617,66995.32
+2021-10-01,WhaleCare PH,Liability,Deferred Revenue,89943.04,1.1466,103128.69
+2021-10-01,WhaleCare PH,Liability,Accrued Expenses,71246.19,1.0119,72094.02
+2021-10-01,WhaleCare PH,Equity,Retained Earnings,85346.19,1.1953,102014.3
+2021-10-01,WhaleCare PH,Equity,Share Capital,69228.22,0.9943,68833.62
+2021-10-01,SummonStorm BR,Asset,Cash,148861.25,1.1589,172515.3
+2021-10-01,SummonStorm BR,Asset,Accounts Receivable,88816.54,1.0037,89145.16
+2021-10-01,SummonStorm BR,Asset,Prepaid Expenses,95757.71,0.9312,89169.58
+2021-10-01,SummonStorm BR,Asset,PPE,53623.64,0.968,51907.68
+2021-10-01,SummonStorm BR,Liability,Accounts Payable,39780.2,1.0359,41208.31
+2021-10-01,SummonStorm BR,Liability,Deferred Revenue,150989.73,0.8229,124249.45
+2021-10-01,SummonStorm BR,Liability,Accrued Expenses,92829.53,1.2137,112667.2
+2021-10-01,SummonStorm BR,Equity,Retained Earnings,168821.56,1.2196,205894.77
+2021-10-01,SummonStorm BR,Equity,Share Capital,95485.9,0.9227,88104.84
+2021-11-01,Tapstorm SG,Asset,Cash,62682.71,0.9919,62174.98
+2021-11-01,Tapstorm SG,Asset,Accounts Receivable,100650.92,0.8083,81356.14
+2021-11-01,Tapstorm SG,Asset,Prepaid Expenses,102220.73,0.8584,87746.27
+2021-11-01,Tapstorm SG,Asset,PPE,104305.78,0.9419,98245.61
+2021-11-01,Tapstorm SG,Liability,Accounts Payable,97914.57,1.2133,118799.75
+2021-11-01,Tapstorm SG,Liability,Deferred Revenue,54592.09,1.0528,57474.55
+2021-11-01,Tapstorm SG,Liability,Accrued Expenses,53955.79,1.0163,54835.27
+2021-11-01,Tapstorm SG,Equity,Retained Earnings,134908.27,0.8733,117815.39
+2021-11-01,Tapstorm SG,Equity,Share Capital,159012.14,1.1582,184167.86
+2021-11-01,TapForge CN,Asset,Cash,91378.4,0.9186,83940.2
+2021-11-01,TapForge CN,Asset,Accounts Receivable,45115.72,1.2007,54170.45
+2021-11-01,TapForge CN,Asset,Prepaid Expenses,136106.83,1.0557,143687.98
+2021-11-01,TapForge CN,Asset,PPE,74567.2,1.174,87541.89
+2021-11-01,TapForge CN,Liability,Accounts Payable,110426.33,0.9044,99869.57
+2021-11-01,TapForge CN,Liability,Deferred Revenue,84272.16,1.28,107868.36
+2021-11-01,TapForge CN,Liability,Accrued Expenses,85173.15,0.8721,74279.5
+2021-11-01,TapForge CN,Equity,Retained Earnings,74106.39,1.0435,77330.02
+2021-11-01,TapForge CN,Equity,Share Capital,141901.89,0.8137,115465.57
+2021-11-01,WhaleCare PH,Asset,Cash,113560.27,0.9209,104577.65
+2021-11-01,WhaleCare PH,Asset,Accounts Receivable,109927.97,1.0575,116248.83
+2021-11-01,WhaleCare PH,Asset,Prepaid Expenses,101137.91,1.1347,114761.19
+2021-11-01,WhaleCare PH,Asset,PPE,111552.69,1.0564,117844.26
+2021-11-01,WhaleCare PH,Liability,Accounts Payable,64461.09,1.1855,76418.62
+2021-11-01,WhaleCare PH,Liability,Deferred Revenue,115683.21,0.9646,111588.02
+2021-11-01,WhaleCare PH,Liability,Accrued Expenses,136279.14,0.9352,127448.25
+2021-11-01,WhaleCare PH,Equity,Retained Earnings,106592.84,1.2239,130458.98
+2021-11-01,WhaleCare PH,Equity,Share Capital,125985.41,1.1788,148511.6
+2021-11-01,SummonStorm BR,Asset,Cash,87803.22,1.1649,102281.97
+2021-11-01,SummonStorm BR,Asset,Accounts Receivable,112280.89,1.0169,114178.44
+2021-11-01,SummonStorm BR,Asset,Prepaid Expenses,88384.52,0.8599,76001.85
+2021-11-01,SummonStorm BR,Asset,PPE,50586.95,1.0523,53232.65
+2021-11-01,SummonStorm BR,Liability,Accounts Payable,92945.43,1.2263,113978.98
+2021-11-01,SummonStorm BR,Liability,Deferred Revenue,133775.76,1.0805,144544.71
+2021-11-01,SummonStorm BR,Liability,Accrued Expenses,59975.66,0.8513,51057.28
+2021-11-01,SummonStorm BR,Equity,Retained Earnings,148963.8,1.2144,180901.64
+2021-11-01,SummonStorm BR,Equity,Share Capital,83453.2,0.9447,78838.24
+2021-12-01,Tapstorm SG,Asset,Cash,116878.49,1.1878,138828.27
+2021-12-01,Tapstorm SG,Asset,Accounts Receivable,145546.68,0.9746,141849.79
+2021-12-01,Tapstorm SG,Asset,Prepaid Expenses,154832.17,1.014,156999.82
+2021-12-01,Tapstorm SG,Asset,PPE,148248.66,1.2085,179158.51
+2021-12-01,Tapstorm SG,Liability,Accounts Payable,77241.28,1.0893,84138.93
+2021-12-01,Tapstorm SG,Liability,Deferred Revenue,134315.84,1.1779,158210.63
+2021-12-01,Tapstorm SG,Liability,Accrued Expenses,82195.23,0.9299,76433.34
+2021-12-01,Tapstorm SG,Equity,Retained Earnings,71822.34,0.8614,61867.76
+2021-12-01,Tapstorm SG,Equity,Share Capital,82399.61,1.1249,92691.32
+2021-12-01,TapForge CN,Asset,Cash,137935.39,0.93,128279.91
+2021-12-01,TapForge CN,Asset,Accounts Receivable,85902.06,0.9575,82251.22
+2021-12-01,TapForge CN,Asset,Prepaid Expenses,76637.82,0.8923,68383.93
+2021-12-01,TapForge CN,Asset,PPE,148041.65,1.241,183719.69
+2021-12-01,TapForge CN,Liability,Accounts Payable,95914.74,1.2781,122588.63
+2021-12-01,TapForge CN,Liability,Deferred Revenue,119608.98,0.9262,110781.84
+2021-12-01,TapForge CN,Liability,Accrued Expenses,71769.74,0.9302,66760.21
+2021-12-01,TapForge CN,Equity,Retained Earnings,88140.97,1.1416,100621.73
+2021-12-01,TapForge CN,Equity,Share Capital,93936.77,0.8958,84148.56
+2021-12-01,WhaleCare PH,Asset,Cash,82641.31,0.9244,76393.63
+2021-12-01,WhaleCare PH,Asset,Accounts Receivable,97557.93,1.2671,123615.65
+2021-12-01,WhaleCare PH,Asset,Prepaid Expenses,73334.5,0.842,61747.65
+2021-12-01,WhaleCare PH,Asset,PPE,97731.31,1.0057,98288.38
+2021-12-01,WhaleCare PH,Liability,Accounts Payable,134197.48,1.1538,154837.05
+2021-12-01,WhaleCare PH,Liability,Deferred Revenue,49815.69,1.1016,54876.96
+2021-12-01,WhaleCare PH,Liability,Accrued Expenses,96047.48,0.8455,81208.14
+2021-12-01,WhaleCare PH,Equity,Retained Earnings,85574.7,1.283,109792.34
+2021-12-01,WhaleCare PH,Equity,Share Capital,82663.71,0.9355,77331.9
+2021-12-01,SummonStorm BR,Asset,Cash,158584.7,1.1708,185670.97
+2021-12-01,SummonStorm BR,Asset,Accounts Receivable,143391.98,1.0764,154347.13
+2021-12-01,SummonStorm BR,Asset,Prepaid Expenses,85311.92,1.0778,91949.19
+2021-12-01,SummonStorm BR,Asset,PPE,59339.92,1.0491,62253.51
+2021-12-01,SummonStorm BR,Liability,Accounts Payable,145628.6,0.9959,145031.52
+2021-12-01,SummonStorm BR,Liability,Deferred Revenue,112032.06,1.1559,129497.86
+2021-12-01,SummonStorm BR,Liability,Accrued Expenses,65347.39,1.214,79331.73
+2021-12-01,SummonStorm BR,Equity,Retained Earnings,72684.66,1.2913,93857.7
+2021-12-01,SummonStorm BR,Equity,Share Capital,103155.25,1.2198,125828.77
+2022-01-01,Tapstorm SG,Asset,Cash,152647.81,1.1075,169057.45
+2022-01-01,Tapstorm SG,Asset,Accounts Receivable,88969.11,1.294,115126.03
+2022-01-01,Tapstorm SG,Asset,Prepaid Expenses,113616.87,1.0392,118070.65
+2022-01-01,Tapstorm SG,Asset,PPE,82266.92,1.1364,93488.13
+2022-01-01,Tapstorm SG,Liability,Accounts Payable,114216.35,1.2854,146813.7
+2022-01-01,Tapstorm SG,Liability,Deferred Revenue,51098.48,1.2539,64072.38
+2022-01-01,Tapstorm SG,Liability,Accrued Expenses,119159.37,0.8268,98520.97
+2022-01-01,Tapstorm SG,Equity,Retained Earnings,107245.29,0.949,101775.78
+2022-01-01,Tapstorm SG,Equity,Share Capital,75247.54,0.8457,63636.84
+2022-01-01,TapForge CN,Asset,Cash,-544.59,0.9743,-530.59
+2022-01-01,TapForge CN,Asset,Accounts Receivable,148759.48,0.9386,139625.65
+2022-01-01,TapForge CN,Asset,Prepaid Expenses,47808.98,1.0774,51509.4
+2022-01-01,TapForge CN,Asset,PPE,137853.39,1.0938,150784.04
+2022-01-01,TapForge CN,Liability,Accounts Payable,75205.72,0.9655,72611.12
+2022-01-01,TapForge CN,Liability,Deferred Revenue,111429.26,0.8086,90101.7
+2022-01-01,TapForge CN,Liability,Accrued Expenses,118438.43,0.9179,108714.63
+2022-01-01,TapForge CN,Equity,Retained Earnings,149662.34,0.9358,140054.02
+2022-01-01,TapForge CN,Equity,Share Capital,67482.01,1.0366,69951.85
+2022-01-01,WhaleCare PH,Asset,Cash,98818.63,1.0118,99984.69
+2022-01-01,WhaleCare PH,Asset,Accounts Receivable,71080.04,1.1447,81365.32
+2022-01-01,WhaleCare PH,Asset,Prepaid Expenses,68673.79,1.2223,83939.97
+2022-01-01,WhaleCare PH,Asset,PPE,102797.72,0.9571,98387.7
+2022-01-01,WhaleCare PH,Liability,Accounts Payable,125206.32,1.2311,154141.5
+2022-01-01,WhaleCare PH,Liability,Deferred Revenue,174582.9,0.9041,157840.4
+2022-01-01,WhaleCare PH,Liability,Accrued Expenses,93398.79,1.1859,110761.63
+2022-01-01,WhaleCare PH,Equity,Retained Earnings,97895.94,1.0459,102389.36
+2022-01-01,WhaleCare PH,Equity,Share Capital,99845.9,1.088,108632.34
+2022-01-01,SummonStorm BR,Asset,Cash,104906.08,0.9498,99639.79
+2022-01-01,SummonStorm BR,Asset,Accounts Receivable,107553.41,0.8566,92130.25
+2022-01-01,SummonStorm BR,Asset,Prepaid Expenses,65341.4,0.841,54952.12
+2022-01-01,SummonStorm BR,Asset,PPE,17373.38,1.2305,21377.94
+2022-01-01,SummonStorm BR,Liability,Accounts Payable,91900.88,1.0131,93104.78
+2022-01-01,SummonStorm BR,Liability,Deferred Revenue,158821.98,1.2425,197336.31
+2022-01-01,SummonStorm BR,Liability,Accrued Expenses,102179.98,0.9834,100483.79
+2022-01-01,SummonStorm BR,Equity,Retained Earnings,96017.97,1.0879,104457.95
+2022-01-01,SummonStorm BR,Equity,Share Capital,99340.67,0.8702,86446.25
+2022-02-01,Tapstorm SG,Asset,Cash,79032.82,0.9475,74883.6
+2022-02-01,Tapstorm SG,Asset,Accounts Receivable,97018.25,0.9628,93409.17
+2022-02-01,Tapstorm SG,Asset,Prepaid Expenses,101358.06,0.8211,83225.1
+2022-02-01,Tapstorm SG,Asset,PPE,101200.38,1.0955,110865.02
+2022-02-01,Tapstorm SG,Liability,Accounts Payable,103346.53,1.0853,112161.99
+2022-02-01,Tapstorm SG,Liability,Deferred Revenue,103082.45,1.0459,107813.93
+2022-02-01,Tapstorm SG,Liability,Accrued Expenses,98136.81,0.9686,95055.31
+2022-02-01,Tapstorm SG,Equity,Retained Earnings,134068.37,0.8099,108581.97
+2022-02-01,Tapstorm SG,Equity,Share Capital,156829.27,1.1487,180149.78
+2022-02-01,TapForge CN,Asset,Cash,49321.95,1.2155,59950.83
+2022-02-01,TapForge CN,Asset,Accounts Receivable,83322.33,1.2082,100670.04
+2022-02-01,TapForge CN,Asset,Prepaid Expenses,33440.72,1.1209,37483.7
+2022-02-01,TapForge CN,Asset,PPE,114942.32,0.9743,111988.3
+2022-02-01,TapForge CN,Liability,Accounts Payable,137408.87,0.8399,115409.71
+2022-02-01,TapForge CN,Liability,Deferred Revenue,103344.64,0.9884,102145.84
+2022-02-01,TapForge CN,Liability,Accrued Expenses,103663.38,1.0316,106939.14
+2022-02-01,TapForge CN,Equity,Retained Earnings,82706.53,0.8591,71053.18
+2022-02-01,TapForge CN,Equity,Share Capital,105636.99,1.1436,120806.46
+2022-02-01,WhaleCare PH,Asset,Cash,97752.91,0.825,80646.15
+2022-02-01,WhaleCare PH,Asset,Accounts Receivable,132522.2,0.9213,122092.7
+2022-02-01,WhaleCare PH,Asset,Prepaid Expenses,161197.42,0.9925,159988.44
+2022-02-01,WhaleCare PH,Asset,PPE,146725.61,0.8162,119757.44
+2022-02-01,WhaleCare PH,Liability,Accounts Payable,167978.69,1.0757,180694.68
+2022-02-01,WhaleCare PH,Liability,Deferred Revenue,119615.32,1.2318,147342.15
+2022-02-01,WhaleCare PH,Liability,Accrued Expenses,110120.1,1.1722,129082.78
+2022-02-01,WhaleCare PH,Equity,Retained Earnings,99529.41,1.092,108686.12
+2022-02-01,WhaleCare PH,Equity,Share Capital,111160.65,1.1464,127434.57
+2022-02-01,SummonStorm BR,Asset,Cash,110148.04,1.0861,119631.79
+2022-02-01,SummonStorm BR,Asset,Accounts Receivable,139731.36,1.1136,155604.84
+2022-02-01,SummonStorm BR,Asset,Prepaid Expenses,94679.31,0.8315,78725.85
+2022-02-01,SummonStorm BR,Asset,PPE,68607.92,0.9966,68374.65
+2022-02-01,SummonStorm BR,Liability,Accounts Payable,99091.23,1.2751,126351.23
+2022-02-01,SummonStorm BR,Liability,Deferred Revenue,72303.38,1.0197,73727.76
+2022-02-01,SummonStorm BR,Liability,Accrued Expenses,93568.73,1.1944,111758.49
+2022-02-01,SummonStorm BR,Equity,Retained Earnings,48265.65,0.9895,47758.86
+2022-02-01,SummonStorm BR,Equity,Share Capital,101086.09,1.1107,112276.32
+2022-03-01,Tapstorm SG,Asset,Cash,73533.69,0.8294,60988.84
+2022-03-01,Tapstorm SG,Asset,Accounts Receivable,122363.49,1.0396,127209.08
+2022-03-01,Tapstorm SG,Asset,Prepaid Expenses,88652.71,0.8143,72189.9
+2022-03-01,Tapstorm SG,Asset,PPE,42538.29,0.9853,41912.98
+2022-03-01,Tapstorm SG,Liability,Accounts Payable,87805.15,0.9054,79498.78
+2022-03-01,Tapstorm SG,Liability,Deferred Revenue,97495.49,1.2321,120124.19
+2022-03-01,Tapstorm SG,Liability,Accrued Expenses,109975.25,0.9777,107522.8
+2022-03-01,Tapstorm SG,Equity,Retained Earnings,115929.36,0.8893,103095.98
+2022-03-01,Tapstorm SG,Equity,Share Capital,75819.35,1.2615,95646.11
+2022-03-01,TapForge CN,Asset,Cash,77151.6,0.8727,67330.2
+2022-03-01,TapForge CN,Asset,Accounts Receivable,99130.88,1.2742,126312.57
+2022-03-01,TapForge CN,Asset,Prepaid Expenses,109119.5,0.9633,105114.81
+2022-03-01,TapForge CN,Asset,PPE,114183.91,0.8122,92740.17
+2022-03-01,TapForge CN,Liability,Accounts Payable,128539.69,0.9987,128372.59
+2022-03-01,TapForge CN,Liability,Deferred Revenue,49717.83,0.8689,43199.82
+2022-03-01,TapForge CN,Liability,Accrued Expenses,129106.21,1.1753,151738.53
+2022-03-01,TapForge CN,Equity,Retained Earnings,124562.2,1.158,144243.03
+2022-03-01,TapForge CN,Equity,Share Capital,125504.36,0.9231,115853.07
+2022-03-01,WhaleCare PH,Asset,Cash,93328.19,1.0151,94737.45
+2022-03-01,WhaleCare PH,Asset,Accounts Receivable,107644.5,0.8756,94253.52
+2022-03-01,WhaleCare PH,Asset,Prepaid Expenses,114781.4,0.9189,105472.63
+2022-03-01,WhaleCare PH,Asset,PPE,94466.7,0.9983,94306.11
+2022-03-01,WhaleCare PH,Liability,Accounts Payable,128542.29,1.0516,135175.07
+2022-03-01,WhaleCare PH,Liability,Deferred Revenue,64554.11,1.1015,71106.35
+2022-03-01,WhaleCare PH,Liability,Accrued Expenses,121592.42,0.927,112716.17
+2022-03-01,WhaleCare PH,Equity,Retained Earnings,114838.14,0.9935,114091.69
+2022-03-01,WhaleCare PH,Equity,Share Capital,145585.75,1.172,170626.5
+2022-03-01,SummonStorm BR,Asset,Cash,158157.13,1.0634,168184.29
+2022-03-01,SummonStorm BR,Asset,Accounts Receivable,94248.66,1.0511,99064.77
+2022-03-01,SummonStorm BR,Asset,Prepaid Expenses,146142.98,0.9089,132829.35
+2022-03-01,SummonStorm BR,Asset,PPE,109102.4,1.1265,122903.85
+2022-03-01,SummonStorm BR,Liability,Accounts Payable,109946.9,1.1283,124053.09
+2022-03-01,SummonStorm BR,Liability,Deferred Revenue,111860.46,1.2892,144210.51
+2022-03-01,SummonStorm BR,Liability,Accrued Expenses,59846.91,1.2875,77052.9
+2022-03-01,SummonStorm BR,Equity,Retained Earnings,134059.11,0.8842,118535.07
+2022-03-01,SummonStorm BR,Equity,Share Capital,58365.97,0.9818,57303.71
+2022-04-01,Tapstorm SG,Asset,Cash,115130.65,0.9226,106219.54
+2022-04-01,Tapstorm SG,Asset,Accounts Receivable,24829.27,0.8249,20481.66
+2022-04-01,Tapstorm SG,Asset,Prepaid Expenses,93487.86,1.2647,118234.1
+2022-04-01,Tapstorm SG,Asset,PPE,99688.16,1.0995,109607.13
+2022-04-01,Tapstorm SG,Liability,Accounts Payable,119178.62,0.9865,117569.71
+2022-04-01,Tapstorm SG,Liability,Deferred Revenue,143524.31,0.9551,137080.07
+2022-04-01,Tapstorm SG,Liability,Accrued Expenses,97734.79,0.9903,96786.76
+2022-04-01,Tapstorm SG,Equity,Retained Earnings,62609.36,1.1382,71261.97
+2022-04-01,Tapstorm SG,Equity,Share Capital,86559.69,0.9835,85131.46
+2022-04-01,TapForge CN,Asset,Cash,107088.99,0.8783,94056.26
+2022-04-01,TapForge CN,Asset,Accounts Receivable,104639.44,0.9158,95828.8
+2022-04-01,TapForge CN,Asset,Prepaid Expenses,47827.76,1.1466,54839.31
+2022-04-01,TapForge CN,Asset,PPE,84626.22,1.2646,107018.32
+2022-04-01,TapForge CN,Liability,Accounts Payable,84002.64,1.0702,89899.63
+2022-04-01,TapForge CN,Liability,Deferred Revenue,93772.32,1.2303,115368.09
+2022-04-01,TapForge CN,Liability,Accrued Expenses,118010.85,1.2028,141943.45
+2022-04-01,TapForge CN,Equity,Retained Earnings,76333.62,1.1093,84676.88
+2022-04-01,TapForge CN,Equity,Share Capital,132002.61,1.084,143090.83
+2022-04-01,WhaleCare PH,Asset,Cash,122161.5,1.2584,153728.03
+2022-04-01,WhaleCare PH,Asset,Accounts Receivable,37250.12,0.8757,32619.93
+2022-04-01,WhaleCare PH,Asset,Prepaid Expenses,87463.17,0.902,78891.78
+2022-04-01,WhaleCare PH,Asset,PPE,106358.84,1.1588,123248.62
+2022-04-01,WhaleCare PH,Liability,Accounts Payable,145321.88,0.8109,117841.51
+2022-04-01,WhaleCare PH,Liability,Deferred Revenue,64042.22,0.8786,56267.49
+2022-04-01,WhaleCare PH,Liability,Accrued Expenses,48270.09,0.9928,47922.55
+2022-04-01,WhaleCare PH,Equity,Retained Earnings,106704.01,0.9277,98989.31
+2022-04-01,WhaleCare PH,Equity,Share Capital,69788.4,0.9404,65629.01
+2022-04-01,SummonStorm BR,Asset,Cash,97804.35,0.862,84307.35
+2022-04-01,SummonStorm BR,Asset,Accounts Receivable,78120.57,1.2384,96744.51
+2022-04-01,SummonStorm BR,Asset,Prepaid Expenses,127628.1,1.0541,134532.78
+2022-04-01,SummonStorm BR,Asset,PPE,122285.31,1.0804,132117.05
+2022-04-01,SummonStorm BR,Liability,Accounts Payable,81807.19,1.2024,98364.97
+2022-04-01,SummonStorm BR,Liability,Deferred Revenue,145326.39,0.8943,129965.39
+2022-04-01,SummonStorm BR,Liability,Accrued Expenses,101908.32,0.8736,89027.11
+2022-04-01,SummonStorm BR,Equity,Retained Earnings,109917.67,0.8418,92528.69
+2022-04-01,SummonStorm BR,Equity,Share Capital,80132.73,0.9813,78634.25
+2022-05-01,Tapstorm SG,Asset,Cash,77894.57,0.9225,71857.74
+2022-05-01,Tapstorm SG,Asset,Accounts Receivable,145993.76,1.2166,177616.01
+2022-05-01,Tapstorm SG,Asset,Prepaid Expenses,103479.13,1.0191,105455.58
+2022-05-01,Tapstorm SG,Asset,PPE,106814.52,1.1877,126863.61
+2022-05-01,Tapstorm SG,Liability,Accounts Payable,84656.88,1.2915,109334.36
+2022-05-01,Tapstorm SG,Liability,Deferred Revenue,108183.1,1.0991,118904.05
+2022-05-01,Tapstorm SG,Liability,Accrued Expenses,100536.72,1.0194,102487.13
+2022-05-01,Tapstorm SG,Equity,Retained Earnings,99457.53,0.843,83842.7
+2022-05-01,Tapstorm SG,Equity,Share Capital,149518.98,1.0621,158804.11
+2022-05-01,TapForge CN,Asset,Cash,104012.56,0.9425,98031.84
+2022-05-01,TapForge CN,Asset,Accounts Receivable,66038.98,0.9563,63153.08
+2022-05-01,TapForge CN,Asset,Prepaid Expenses,114946.7,1.2494,143614.41
+2022-05-01,TapForge CN,Asset,PPE,88957.41,0.9469,84233.77
+2022-05-01,TapForge CN,Liability,Accounts Payable,69581.35,0.8762,60967.18
+2022-05-01,TapForge CN,Liability,Deferred Revenue,78550.92,1.2522,98361.46
+2022-05-01,TapForge CN,Liability,Accrued Expenses,132693.19,1.2973,172142.88
+2022-05-01,TapForge CN,Equity,Retained Earnings,69163.98,0.9667,66860.82
+2022-05-01,TapForge CN,Equity,Share Capital,70670.11,1.2808,90514.28
+2022-05-01,WhaleCare PH,Asset,Cash,101884.12,0.9055,92256.07
+2022-05-01,WhaleCare PH,Asset,Accounts Receivable,90155.01,0.8574,77298.91
+2022-05-01,WhaleCare PH,Asset,Prepaid Expenses,70584.17,0.9192,64880.97
+2022-05-01,WhaleCare PH,Asset,PPE,127596.83,1.0529,134346.7
+2022-05-01,WhaleCare PH,Liability,Accounts Payable,87332.28,1.2972,113287.43
+2022-05-01,WhaleCare PH,Liability,Deferred Revenue,61148.86,1.2985,79401.79
+2022-05-01,WhaleCare PH,Liability,Accrued Expenses,108960.27,0.9622,104841.57
+2022-05-01,WhaleCare PH,Equity,Retained Earnings,124434.91,1.2442,154821.92
+2022-05-01,WhaleCare PH,Equity,Share Capital,114108.55,1.2245,139725.92
+2022-05-01,SummonStorm BR,Asset,Cash,119747.77,1.2078,144631.36
+2022-05-01,SummonStorm BR,Asset,Accounts Receivable,119247.91,1.1724,139806.25
+2022-05-01,SummonStorm BR,Asset,Prepaid Expenses,91974.45,1.1673,107361.78
+2022-05-01,SummonStorm BR,Asset,PPE,86080.86,1.2449,107162.06
+2022-05-01,SummonStorm BR,Liability,Accounts Payable,79853.26,1.2124,96814.09
+2022-05-01,SummonStorm BR,Liability,Deferred Revenue,99793.15,1.2059,120340.56
+2022-05-01,SummonStorm BR,Liability,Accrued Expenses,50924.99,1.1406,58085.04
+2022-05-01,SummonStorm BR,Equity,Retained Earnings,65349.96,0.8799,57501.43
+2022-05-01,SummonStorm BR,Equity,Share Capital,139855.25,1.2757,178413.34
+2022-06-01,Tapstorm SG,Asset,Cash,126904.67,0.9195,116688.84
+2022-06-01,Tapstorm SG,Asset,Accounts Receivable,104649.95,1.2856,134537.98
+2022-06-01,Tapstorm SG,Asset,Prepaid Expenses,145831.3,1.0859,158358.21
+2022-06-01,Tapstorm SG,Asset,PPE,111471.03,0.8365,93245.52
+2022-06-01,Tapstorm SG,Liability,Accounts Payable,100826.51,0.8316,83847.33
+2022-06-01,Tapstorm SG,Liability,Deferred Revenue,59377.08,0.9512,56479.48
+2022-06-01,Tapstorm SG,Liability,Accrued Expenses,91675.25,1.1907,109157.72
+2022-06-01,Tapstorm SG,Equity,Retained Earnings,129378.53,0.8513,110139.94
+2022-06-01,Tapstorm SG,Equity,Share Capital,116811.34,1.2263,143245.75
+2022-06-01,TapForge CN,Asset,Cash,158722.13,1.0486,166436.03
+2022-06-01,TapForge CN,Asset,Accounts Receivable,100722.73,1.294,130335.21
+2022-06-01,TapForge CN,Asset,Prepaid Expenses,23218.84,0.9589,22264.55
+2022-06-01,TapForge CN,Asset,PPE,111545.55,0.8817,98349.71
+2022-06-01,TapForge CN,Liability,Accounts Payable,26534.2,0.95,25207.49
+2022-06-01,TapForge CN,Liability,Deferred Revenue,85634.7,1.2593,107839.78
+2022-06-01,TapForge CN,Liability,Accrued Expenses,126797.44,0.9045,114688.28
+2022-06-01,TapForge CN,Equity,Retained Earnings,150516.06,1.2779,192344.47
+2022-06-01,TapForge CN,Equity,Share Capital,68958.84,1.0906,75206.51
+2022-06-01,WhaleCare PH,Asset,Cash,111963.07,0.8349,93477.97
+2022-06-01,WhaleCare PH,Asset,Accounts Receivable,147269.71,1.2335,181657.19
+2022-06-01,WhaleCare PH,Asset,Prepaid Expenses,102887.85,1.1313,116397.02
+2022-06-01,WhaleCare PH,Asset,PPE,81524.38,0.9848,80285.21
+2022-06-01,WhaleCare PH,Liability,Accounts Payable,155408.71,1.0195,158439.18
+2022-06-01,WhaleCare PH,Liability,Deferred Revenue,129756.8,1.171,151945.21
+2022-06-01,WhaleCare PH,Liability,Accrued Expenses,102001.12,1.0447,106560.57
+2022-06-01,WhaleCare PH,Equity,Retained Earnings,54136.13,0.8444,45712.55
+2022-06-01,WhaleCare PH,Equity,Share Capital,89309.55,1.14,101812.89
+2022-06-01,SummonStorm BR,Asset,Cash,78096.8,1.2058,94169.12
+2022-06-01,SummonStorm BR,Asset,Accounts Receivable,48463.81,0.817,39594.93
+2022-06-01,SummonStorm BR,Asset,Prepaid Expenses,140479.71,1.0737,150833.06
+2022-06-01,SummonStorm BR,Asset,PPE,117194.24,1.023,119889.71
+2022-06-01,SummonStorm BR,Liability,Accounts Payable,78703.29,1.137,89485.64
+2022-06-01,SummonStorm BR,Liability,Deferred Revenue,82448.63,0.915,75440.5
+2022-06-01,SummonStorm BR,Liability,Accrued Expenses,86250.43,1.0411,89795.32
+2022-06-01,SummonStorm BR,Equity,Retained Earnings,70046.31,0.8986,62943.61
+2022-06-01,SummonStorm BR,Equity,Share Capital,185419.95,1.0922,202515.67
+2022-07-01,Tapstorm SG,Asset,Cash,78521.13,1.12,87943.67
+2022-07-01,Tapstorm SG,Asset,Accounts Receivable,90335.65,1.1754,106180.52
+2022-07-01,Tapstorm SG,Asset,Prepaid Expenses,79365.49,1.0075,79960.73
+2022-07-01,Tapstorm SG,Asset,PPE,46228.61,1.1419,52788.45
+2022-07-01,Tapstorm SG,Liability,Accounts Payable,63023.94,1.0282,64801.22
+2022-07-01,Tapstorm SG,Liability,Deferred Revenue,131792.64,1.1862,156332.43
+2022-07-01,Tapstorm SG,Liability,Accrued Expenses,90221.43,0.8374,75551.43
+2022-07-01,Tapstorm SG,Equity,Retained Earnings,112437.4,0.8739,98259.04
+2022-07-01,Tapstorm SG,Equity,Share Capital,113706.25,0.9501,108032.31
+2022-07-01,TapForge CN,Asset,Cash,113783.4,0.969,110256.11
+2022-07-01,TapForge CN,Asset,Accounts Receivable,79186.99,1.1776,93250.6
+2022-07-01,TapForge CN,Asset,Prepaid Expenses,150684.19,1.1004,165812.88
+2022-07-01,TapForge CN,Asset,PPE,127635.74,1.1684,149129.6
+2022-07-01,TapForge CN,Liability,Accounts Payable,114284.62,0.9561,109267.53
+2022-07-01,TapForge CN,Liability,Deferred Revenue,107532.93,0.882,94844.04
+2022-07-01,TapForge CN,Liability,Accrued Expenses,58676.31,1.0049,58963.82
+2022-07-01,TapForge CN,Equity,Retained Earnings,124883.22,1.2649,157964.78
+2022-07-01,TapForge CN,Equity,Share Capital,96041.1,0.946,90854.88
+2022-07-01,WhaleCare PH,Asset,Cash,75693.29,0.8102,61326.7
+2022-07-01,WhaleCare PH,Asset,Accounts Receivable,69366.51,1.1515,79875.54
+2022-07-01,WhaleCare PH,Asset,Prepaid Expenses,129474.86,1.0735,138991.26
+2022-07-01,WhaleCare PH,Asset,PPE,58104.42,0.909,52816.92
+2022-07-01,WhaleCare PH,Liability,Accounts Payable,88019.1,0.9186,80854.35
+2022-07-01,WhaleCare PH,Liability,Deferred Revenue,104800.11,1.0866,113875.8
+2022-07-01,WhaleCare PH,Liability,Accrued Expenses,95561.62,1.0456,99919.23
+2022-07-01,WhaleCare PH,Equity,Retained Earnings,112494.7,1.0061,113180.92
+2022-07-01,WhaleCare PH,Equity,Share Capital,135239.45,0.9243,125001.82
+2022-07-01,SummonStorm BR,Asset,Cash,118560.24,0.8019,95073.46
+2022-07-01,SummonStorm BR,Asset,Accounts Receivable,101939.96,0.914,93173.12
+2022-07-01,SummonStorm BR,Asset,Prepaid Expenses,86610.09,1.1507,99662.23
+2022-07-01,SummonStorm BR,Asset,PPE,56995.3,1.286,73295.96
+2022-07-01,SummonStorm BR,Liability,Accounts Payable,98074.68,1.0252,100546.16
+2022-07-01,SummonStorm BR,Liability,Deferred Revenue,88758.52,1.012,89823.62
+2022-07-01,SummonStorm BR,Liability,Accrued Expenses,115844.87,0.9152,106021.23
+2022-07-01,SummonStorm BR,Equity,Retained Earnings,95918.57,1.1823,113404.53
+2022-07-01,SummonStorm BR,Equity,Share Capital,131188.01,0.8001,104963.53
+2022-08-01,Tapstorm SG,Asset,Cash,86793.34,0.852,73947.93
+2022-08-01,Tapstorm SG,Asset,Accounts Receivable,83214.15,1.1947,99415.95
+2022-08-01,Tapstorm SG,Asset,Prepaid Expenses,112686.83,1.0577,119188.86
+2022-08-01,Tapstorm SG,Asset,PPE,103225.32,1.0262,105929.82
+2022-08-01,Tapstorm SG,Liability,Accounts Payable,111395.44,0.922,102706.6
+2022-08-01,Tapstorm SG,Liability,Deferred Revenue,96045.76,1.0321,99128.83
+2022-08-01,Tapstorm SG,Liability,Accrued Expenses,100781.87,1.0939,110245.29
+2022-08-01,Tapstorm SG,Equity,Retained Earnings,91107.08,1.2538,114230.06
+2022-08-01,Tapstorm SG,Equity,Share Capital,103986.68,0.8727,90749.18
+2022-08-01,TapForge CN,Asset,Cash,137086.89,1.0026,137443.32
+2022-08-01,TapForge CN,Asset,Accounts Receivable,84725.1,1.1556,97908.33
+2022-08-01,TapForge CN,Asset,Prepaid Expenses,81817.55,0.9076,74257.61
+2022-08-01,TapForge CN,Asset,PPE,109587.23,1.0109,110781.73
+2022-08-01,TapForge CN,Liability,Accounts Payable,94440.79,1.134,107095.86
+2022-08-01,TapForge CN,Liability,Deferred Revenue,142377.69,1.2081,172006.49
+2022-08-01,TapForge CN,Liability,Accrued Expenses,120991.09,1.225,148214.09
+2022-08-01,TapForge CN,Equity,Retained Earnings,125659.5,1.0774,135385.55
+2022-08-01,TapForge CN,Equity,Share Capital,128358.96,0.8778,112673.5
+2022-08-01,WhaleCare PH,Asset,Cash,80307.46,0.88,70670.56
+2022-08-01,WhaleCare PH,Asset,Accounts Receivable,103378.34,0.8871,91706.93
+2022-08-01,WhaleCare PH,Asset,Prepaid Expenses,120319.95,1.1068,133170.12
+2022-08-01,WhaleCare PH,Asset,PPE,100137.28,0.9706,97193.24
+2022-08-01,WhaleCare PH,Liability,Accounts Payable,73091.58,0.8135,59460.0
+2022-08-01,WhaleCare PH,Liability,Deferred Revenue,127852.14,1.1894,152067.34
+2022-08-01,WhaleCare PH,Liability,Accrued Expenses,94763.58,0.8607,81563.01
+2022-08-01,WhaleCare PH,Equity,Retained Earnings,109066.09,0.9552,104179.93
+2022-08-01,WhaleCare PH,Equity,Share Capital,117468.22,0.9123,107166.26
+2022-08-01,SummonStorm BR,Asset,Cash,145380.12,0.9742,141629.31
+2022-08-01,SummonStorm BR,Asset,Accounts Receivable,106125.85,0.8508,90291.87
+2022-08-01,SummonStorm BR,Asset,Prepaid Expenses,39517.02,1.1068,43737.44
+2022-08-01,SummonStorm BR,Asset,PPE,105466.11,1.2922,136283.31
+2022-08-01,SummonStorm BR,Liability,Accounts Payable,108440.82,1.2436,134857.0
+2022-08-01,SummonStorm BR,Liability,Deferred Revenue,49953.36,0.8303,41476.27
+2022-08-01,SummonStorm BR,Liability,Accrued Expenses,144174.91,0.9607,138508.84
+2022-08-01,SummonStorm BR,Equity,Retained Earnings,20568.78,0.9796,20149.18
+2022-08-01,SummonStorm BR,Equity,Share Capital,117385.46,1.0265,120496.17
+2022-09-01,Tapstorm SG,Asset,Cash,54070.98,0.8211,44397.68
+2022-09-01,Tapstorm SG,Asset,Accounts Receivable,132062.37,0.861,113705.7
+2022-09-01,Tapstorm SG,Asset,Prepaid Expenses,116935.01,0.9014,105405.22
+2022-09-01,Tapstorm SG,Asset,PPE,144244.85,0.959,138330.81
+2022-09-01,Tapstorm SG,Liability,Accounts Payable,115548.35,0.8166,94356.78
+2022-09-01,Tapstorm SG,Liability,Deferred Revenue,110625.06,0.9016,99739.55
+2022-09-01,Tapstorm SG,Liability,Accrued Expenses,90169.87,1.1552,104164.23
+2022-09-01,Tapstorm SG,Equity,Retained Earnings,47944.05,0.8377,40162.73
+2022-09-01,Tapstorm SG,Equity,Share Capital,165412.35,0.8674,143478.67
+2022-09-01,TapForge CN,Asset,Cash,85478.01,1.2972,110882.07
+2022-09-01,TapForge CN,Asset,Accounts Receivable,110127.31,0.8847,97429.63
+2022-09-01,TapForge CN,Asset,Prepaid Expenses,75301.61,0.914,68825.67
+2022-09-01,TapForge CN,Asset,PPE,67810.6,1.0534,71431.69
+2022-09-01,TapForge CN,Liability,Accounts Payable,101785.94,1.0291,104747.91
+2022-09-01,TapForge CN,Liability,Deferred Revenue,112484.45,0.9778,109987.3
+2022-09-01,TapForge CN,Liability,Accrued Expenses,152722.62,1.1562,176577.89
+2022-09-01,TapForge CN,Equity,Retained Earnings,130180.74,1.1747,152923.32
+2022-09-01,TapForge CN,Equity,Share Capital,108435.09,0.9924,107610.98
+2022-09-01,WhaleCare PH,Asset,Cash,98198.88,0.938,92110.55
+2022-09-01,WhaleCare PH,Asset,Accounts Receivable,110340.32,1.0157,112072.66
+2022-09-01,WhaleCare PH,Asset,Prepaid Expenses,92158.81,0.925,85246.9
+2022-09-01,WhaleCare PH,Asset,PPE,107770.65,1.1204,120746.24
+2022-09-01,WhaleCare PH,Liability,Accounts Payable,76125.98,1.1482,87407.85
+2022-09-01,WhaleCare PH,Liability,Deferred Revenue,83380.52,0.9678,80695.67
+2022-09-01,WhaleCare PH,Liability,Accrued Expenses,98456.84,1.0664,104994.37
+2022-09-01,WhaleCare PH,Equity,Retained Earnings,109706.98,1.0078,110562.69
+2022-09-01,WhaleCare PH,Equity,Share Capital,96442.56,1.0707,103261.05
+2022-09-01,SummonStorm BR,Asset,Cash,105793.3,1.2555,132823.49
+2022-09-01,SummonStorm BR,Asset,Accounts Receivable,72629.35,1.0184,73965.73
+2022-09-01,SummonStorm BR,Asset,Prepaid Expenses,63968.69,1.0107,64653.15
+2022-09-01,SummonStorm BR,Asset,PPE,98501.46,1.1365,111946.91
+2022-09-01,SummonStorm BR,Liability,Accounts Payable,49401.91,1.2734,62908.39
+2022-09-01,SummonStorm BR,Liability,Deferred Revenue,125799.24,1.1503,144706.87
+2022-09-01,SummonStorm BR,Liability,Accrued Expenses,58758.85,1.0418,61214.97
+2022-09-01,SummonStorm BR,Equity,Retained Earnings,88281.09,1.027,90664.68
+2022-09-01,SummonStorm BR,Equity,Share Capital,115092.63,0.8478,97575.53
+2022-10-01,Tapstorm SG,Asset,Cash,127477.53,0.9839,125425.14
+2022-10-01,Tapstorm SG,Asset,Accounts Receivable,119261.64,0.9255,110376.65
+2022-10-01,Tapstorm SG,Asset,Prepaid Expenses,114555.02,1.1572,132563.07
+2022-10-01,Tapstorm SG,Asset,PPE,177173.26,1.2819,227118.4
+2022-10-01,Tapstorm SG,Liability,Accounts Payable,68399.5,1.1717,80143.69
+2022-10-01,Tapstorm SG,Liability,Deferred Revenue,109407.94,1.2339,134998.46
+2022-10-01,Tapstorm SG,Liability,Accrued Expenses,118988.15,0.8288,98617.38
+2022-10-01,Tapstorm SG,Equity,Retained Earnings,110698.94,0.8701,96319.15
+2022-10-01,Tapstorm SG,Equity,Share Capital,86069.17,1.2627,108679.54
+2022-10-01,TapForge CN,Asset,Cash,116348.87,0.9219,107262.02
+2022-10-01,TapForge CN,Asset,Accounts Receivable,114250.72,1.052,120191.76
+2022-10-01,TapForge CN,Asset,Prepaid Expenses,137329.98,0.9397,129048.98
+2022-10-01,TapForge CN,Asset,PPE,114199.53,0.9772,111595.78
+2022-10-01,TapForge CN,Liability,Accounts Payable,42997.18,1.14,49016.79
+2022-10-01,TapForge CN,Liability,Deferred Revenue,123675.76,1.2131,150031.06
+2022-10-01,TapForge CN,Liability,Accrued Expenses,87957.97,1.1286,99269.36
+2022-10-01,TapForge CN,Equity,Retained Earnings,94292.07,0.9756,91991.34
+2022-10-01,TapForge CN,Equity,Share Capital,65699.66,1.2356,81178.5
+2022-10-01,WhaleCare PH,Asset,Cash,104091.56,1.0445,108723.63
+2022-10-01,WhaleCare PH,Asset,Accounts Receivable,159221.17,1.1531,183597.93
+2022-10-01,WhaleCare PH,Asset,Prepaid Expenses,132009.12,0.88,116168.03
+2022-10-01,WhaleCare PH,Asset,PPE,64455.85,0.8792,56669.58
+2022-10-01,WhaleCare PH,Liability,Accounts Payable,94009.77,1.2958,121817.86
+2022-10-01,WhaleCare PH,Liability,Deferred Revenue,130260.44,0.8137,105992.92
+2022-10-01,WhaleCare PH,Liability,Accrued Expenses,94622.51,1.0489,99249.55
+2022-10-01,WhaleCare PH,Equity,Retained Earnings,38585.11,1.0314,39796.68
+2022-10-01,WhaleCare PH,Equity,Share Capital,83617.47,1.0819,90465.74
+2022-10-01,SummonStorm BR,Asset,Cash,141414.53,0.8954,126622.57
+2022-10-01,SummonStorm BR,Asset,Accounts Receivable,145212.95,0.9148,132840.81
+2022-10-01,SummonStorm BR,Asset,Prepaid Expenses,94700.29,1.2842,121614.11
+2022-10-01,SummonStorm BR,Asset,PPE,91766.47,1.1079,101668.07
+2022-10-01,SummonStorm BR,Liability,Accounts Payable,31168.19,1.0108,31504.81
+2022-10-01,SummonStorm BR,Liability,Deferred Revenue,97118.74,0.8208,79715.06
+2022-10-01,SummonStorm BR,Liability,Accrued Expenses,82871.55,0.9071,75172.78
+2022-10-01,SummonStorm BR,Equity,Retained Earnings,43192.68,0.8335,36001.1
+2022-10-01,SummonStorm BR,Equity,Share Capital,71399.31,1.1464,81852.17
+2022-11-01,Tapstorm SG,Asset,Cash,60681.65,1.1796,71580.07
+2022-11-01,Tapstorm SG,Asset,Accounts Receivable,101739.6,0.9576,97425.84
+2022-11-01,Tapstorm SG,Asset,Prepaid Expenses,146525.85,1.0888,159537.35
+2022-11-01,Tapstorm SG,Asset,PPE,95423.8,0.857,81778.2
+2022-11-01,Tapstorm SG,Liability,Accounts Payable,107842.46,0.9499,102439.55
+2022-11-01,Tapstorm SG,Liability,Deferred Revenue,173878.25,0.9562,166262.38
+2022-11-01,Tapstorm SG,Liability,Accrued Expenses,42852.63,0.8774,37598.9
+2022-11-01,Tapstorm SG,Equity,Retained Earnings,105753.23,0.803,84919.84
+2022-11-01,Tapstorm SG,Equity,Share Capital,134330.94,1.2085,162338.94
+2022-11-01,TapForge CN,Asset,Cash,109381.29,1.0954,119816.27
+2022-11-01,TapForge CN,Asset,Accounts Receivable,51201.29,0.8926,45702.27
+2022-11-01,TapForge CN,Asset,Prepaid Expenses,157860.36,1.0001,157876.15
+2022-11-01,TapForge CN,Asset,PPE,125170.17,0.9104,113954.92
+2022-11-01,TapForge CN,Liability,Accounts Payable,108058.53,1.0963,118464.57
+2022-11-01,TapForge CN,Liability,Deferred Revenue,58544.53,0.9234,54060.02
+2022-11-01,TapForge CN,Liability,Accrued Expenses,168735.07,0.9739,164331.08
+2022-11-01,TapForge CN,Equity,Retained Earnings,117602.71,0.9657,113568.94
+2022-11-01,TapForge CN,Equity,Share Capital,113376.47,0.8318,94306.55
+2022-11-01,WhaleCare PH,Asset,Cash,117567.4,1.286,151191.68
+2022-11-01,WhaleCare PH,Asset,Accounts Receivable,128741.63,1.2014,154670.19
+2022-11-01,WhaleCare PH,Asset,Prepaid Expenses,103424.6,0.8308,85925.16
+2022-11-01,WhaleCare PH,Asset,PPE,96460.86,0.8414,81162.17
+2022-11-01,WhaleCare PH,Liability,Accounts Payable,32733.87,0.9831,32180.67
+2022-11-01,WhaleCare PH,Liability,Deferred Revenue,76447.58,1.1844,90544.51
+2022-11-01,WhaleCare PH,Liability,Accrued Expenses,159418.12,0.8838,140893.73
+2022-11-01,WhaleCare PH,Equity,Retained Earnings,75085.18,0.9446,70925.46
+2022-11-01,WhaleCare PH,Equity,Share Capital,91092.13,1.0196,92877.54
+2022-11-01,SummonStorm BR,Asset,Cash,65414.19,1.1245,73558.26
+2022-11-01,SummonStorm BR,Asset,Accounts Receivable,115290.47,0.9096,104868.21
+2022-11-01,SummonStorm BR,Asset,Prepaid Expenses,92319.91,0.9523,87916.25
+2022-11-01,SummonStorm BR,Asset,PPE,91259.21,1.1995,109465.42
+2022-11-01,SummonStorm BR,Liability,Accounts Payable,75979.6,1.0887,82718.99
+2022-11-01,SummonStorm BR,Liability,Deferred Revenue,112518.99,0.8292,93300.75
+2022-11-01,SummonStorm BR,Liability,Accrued Expenses,144155.54,0.8588,123800.78
+2022-11-01,SummonStorm BR,Equity,Retained Earnings,49225.8,1.0618,52267.95
+2022-11-01,SummonStorm BR,Equity,Share Capital,90895.11,1.2161,110537.54
+2022-12-01,Tapstorm SG,Asset,Cash,95134.28,1.1647,110802.9
+2022-12-01,Tapstorm SG,Asset,Accounts Receivable,77089.4,1.2879,99283.44
+2022-12-01,Tapstorm SG,Asset,Prepaid Expenses,134700.83,0.8587,115667.6
+2022-12-01,Tapstorm SG,Asset,PPE,135077.79,0.9528,128702.12
+2022-12-01,Tapstorm SG,Liability,Accounts Payable,106886.56,1.1418,122043.07
+2022-12-01,Tapstorm SG,Liability,Deferred Revenue,79638.42,1.2906,102781.34
+2022-12-01,Tapstorm SG,Liability,Accrued Expenses,134434.23,1.1497,154559.03
+2022-12-01,Tapstorm SG,Equity,Retained Earnings,91150.07,0.8936,81451.7
+2022-12-01,Tapstorm SG,Equity,Share Capital,129356.16,1.0035,129808.91
+2022-12-01,TapForge CN,Asset,Cash,173289.02,1.2551,217495.05
+2022-12-01,TapForge CN,Asset,Accounts Receivable,100015.52,1.0549,105506.37
+2022-12-01,TapForge CN,Asset,Prepaid Expenses,104743.35,1.0077,105549.87
+2022-12-01,TapForge CN,Asset,PPE,79056.1,1.08,85380.59
+2022-12-01,TapForge CN,Liability,Accounts Payable,130565.94,1.0766,140567.29
+2022-12-01,TapForge CN,Liability,Deferred Revenue,106335.65,0.8994,95638.28
+2022-12-01,TapForge CN,Liability,Accrued Expenses,62273.34,0.8185,50970.73
+2022-12-01,TapForge CN,Equity,Retained Earnings,78585.99,1.274,100118.55
+2022-12-01,TapForge CN,Equity,Share Capital,158752.82,1.0245,162642.26
+2022-12-01,WhaleCare PH,Asset,Cash,92634.25,0.8363,77470.02
+2022-12-01,WhaleCare PH,Asset,Accounts Receivable,67119.02,1.2554,84261.22
+2022-12-01,WhaleCare PH,Asset,Prepaid Expenses,105625.15,0.9286,98083.51
+2022-12-01,WhaleCare PH,Asset,PPE,84066.12,1.291,108529.36
+2022-12-01,WhaleCare PH,Liability,Accounts Payable,94443.84,0.9251,87370.0
+2022-12-01,WhaleCare PH,Liability,Deferred Revenue,116238.15,1.222,142043.02
+2022-12-01,WhaleCare PH,Liability,Accrued Expenses,110148.15,1.1418,125767.16
+2022-12-01,WhaleCare PH,Equity,Retained Earnings,101029.19,0.9069,91623.37
+2022-12-01,WhaleCare PH,Equity,Share Capital,81610.91,0.9449,77114.15
+2022-12-01,SummonStorm BR,Asset,Cash,46576.99,0.8665,40358.96
+2022-12-01,SummonStorm BR,Asset,Accounts Receivable,157621.87,1.0513,165707.87
+2022-12-01,SummonStorm BR,Asset,Prepaid Expenses,155821.69,0.8841,137761.96
+2022-12-01,SummonStorm BR,Asset,PPE,100725.44,0.8203,82625.08
+2022-12-01,SummonStorm BR,Liability,Accounts Payable,125040.11,0.9988,124890.06
+2022-12-01,SummonStorm BR,Liability,Deferred Revenue,99028.93,1.0412,103108.92
+2022-12-01,SummonStorm BR,Liability,Accrued Expenses,76830.67,0.9435,72489.74
+2022-12-01,SummonStorm BR,Equity,Retained Earnings,102211.61,0.9679,98930.62
+2022-12-01,SummonStorm BR,Equity,Share Capital,104226.34,1.1306,117838.3
+2023-01-01,Tapstorm SG,Asset,Cash,144682.92,1.1634,168324.11
+2023-01-01,Tapstorm SG,Asset,Accounts Receivable,102851.04,1.2377,127298.73
+2023-01-01,Tapstorm SG,Asset,Prepaid Expenses,151139.15,1.0452,157970.64
+2023-01-01,Tapstorm SG,Asset,PPE,95176.56,1.2419,118199.77
+2023-01-01,Tapstorm SG,Liability,Accounts Payable,82991.82,1.225,101664.98
+2023-01-01,Tapstorm SG,Liability,Deferred Revenue,144683.03,1.1442,165546.32
+2023-01-01,Tapstorm SG,Liability,Accrued Expenses,141841.42,1.1138,157982.97
+2023-01-01,Tapstorm SG,Equity,Retained Earnings,102308.28,1.0914,111659.26
+2023-01-01,Tapstorm SG,Equity,Share Capital,110269.65,1.2225,134804.65
+2023-01-01,TapForge CN,Asset,Cash,108558.08,1.2342,133982.38
+2023-01-01,TapForge CN,Asset,Accounts Receivable,106340.46,1.1102,118059.18
+2023-01-01,TapForge CN,Asset,Prepaid Expenses,88852.85,1.259,111865.74
+2023-01-01,TapForge CN,Asset,PPE,171879.67,0.9369,161034.06
+2023-01-01,TapForge CN,Liability,Accounts Payable,88001.54,0.9348,82263.84
+2023-01-01,TapForge CN,Liability,Deferred Revenue,116681.62,0.997,116331.58
+2023-01-01,TapForge CN,Liability,Accrued Expenses,105711.07,1.24,131081.73
+2023-01-01,TapForge CN,Equity,Retained Earnings,24463.64,1.158,28328.9
+2023-01-01,TapForge CN,Equity,Share Capital,103534.04,0.9001,93190.99
+2023-01-01,WhaleCare PH,Asset,Cash,91555.08,0.851,77913.37
+2023-01-01,WhaleCare PH,Asset,Accounts Receivable,83303.66,0.9049,75381.48
+2023-01-01,WhaleCare PH,Asset,Prepaid Expenses,68834.22,0.9841,67739.76
+2023-01-01,WhaleCare PH,Asset,PPE,154085.13,1.1278,173777.21
+2023-01-01,WhaleCare PH,Liability,Accounts Payable,66611.39,1.2596,83903.71
+2023-01-01,WhaleCare PH,Liability,Deferred Revenue,94257.87,0.8262,77875.85
+2023-01-01,WhaleCare PH,Liability,Accrued Expenses,84321.51,1.0994,92703.07
+2023-01-01,WhaleCare PH,Equity,Retained Earnings,68275.25,0.8922,60915.18
+2023-01-01,WhaleCare PH,Equity,Share Capital,123025.23,1.1422,140519.42
+2023-01-01,SummonStorm BR,Asset,Cash,113344.47,0.9603,108844.69
+2023-01-01,SummonStorm BR,Asset,Accounts Receivable,85061.34,0.8085,68772.09
+2023-01-01,SummonStorm BR,Asset,Prepaid Expenses,72389.21,1.2221,88466.85
+2023-01-01,SummonStorm BR,Asset,PPE,115721.08,0.9124,105583.91
+2023-01-01,SummonStorm BR,Liability,Accounts Payable,113078.15,0.8208,92814.55
+2023-01-01,SummonStorm BR,Liability,Deferred Revenue,95643.45,1.1237,107474.54
+2023-01-01,SummonStorm BR,Liability,Accrued Expenses,143102.96,1.017,145535.71
+2023-01-01,SummonStorm BR,Equity,Retained Earnings,147117.96,1.0937,160902.91
+2023-01-01,SummonStorm BR,Equity,Share Capital,84748.86,0.8864,75121.39
+2023-02-01,Tapstorm SG,Asset,Cash,162650.77,1.1944,194270.08
+2023-02-01,Tapstorm SG,Asset,Accounts Receivable,91741.88,1.1384,104438.96
+2023-02-01,Tapstorm SG,Asset,Prepaid Expenses,92130.11,0.9649,88896.34
+2023-02-01,Tapstorm SG,Asset,PPE,121391.65,0.9323,113173.44
+2023-02-01,Tapstorm SG,Liability,Accounts Payable,110436.19,1.1901,131430.11
+2023-02-01,Tapstorm SG,Liability,Deferred Revenue,100978.78,1.0532,106350.85
+2023-02-01,Tapstorm SG,Liability,Accrued Expenses,42545.98,0.8489,36117.28
+2023-02-01,Tapstorm SG,Equity,Retained Earnings,52118.62,0.8696,45322.35
+2023-02-01,Tapstorm SG,Equity,Share Capital,61483.22,1.2552,77173.74
+2023-02-01,TapForge CN,Asset,Cash,100316.59,0.9212,92411.64
+2023-02-01,TapForge CN,Asset,Accounts Receivable,84451.17,1.158,97794.45
+2023-02-01,TapForge CN,Asset,Prepaid Expenses,88672.2,0.8657,76763.52
+2023-02-01,TapForge CN,Asset,PPE,91114.66,1.014,92390.27
+2023-02-01,TapForge CN,Liability,Accounts Payable,129327.39,0.9685,125253.58
+2023-02-01,TapForge CN,Liability,Deferred Revenue,123219.98,1.1929,146989.11
+2023-02-01,TapForge CN,Liability,Accrued Expenses,87523.79,1.0708,93720.47
+2023-02-01,TapForge CN,Equity,Retained Earnings,90866.65,0.9757,88658.59
+2023-02-01,TapForge CN,Equity,Share Capital,74105.15,1.2327,91349.42
+2023-02-01,WhaleCare PH,Asset,Cash,89910.41,1.1407,102560.8
+2023-02-01,WhaleCare PH,Asset,Accounts Receivable,138980.34,0.9759,135630.91
+2023-02-01,WhaleCare PH,Asset,Prepaid Expenses,127569.79,0.8573,109365.58
+2023-02-01,WhaleCare PH,Asset,PPE,111494.79,1.0829,120737.71
+2023-02-01,WhaleCare PH,Liability,Accounts Payable,67815.21,0.8165,55371.12
+2023-02-01,WhaleCare PH,Liability,Deferred Revenue,98412.25,0.8308,81760.9
+2023-02-01,WhaleCare PH,Liability,Accrued Expenses,88459.9,0.8847,78260.47
+2023-02-01,WhaleCare PH,Equity,Retained Earnings,95386.84,0.9136,87145.42
+2023-02-01,WhaleCare PH,Equity,Share Capital,123708.83,0.827,102307.2
+2023-02-01,SummonStorm BR,Asset,Cash,132331.39,1.0489,138802.39
+2023-02-01,SummonStorm BR,Asset,Accounts Receivable,173395.01,0.971,168366.55
+2023-02-01,SummonStorm BR,Asset,Prepaid Expenses,73065.5,1.1543,84339.51
+2023-02-01,SummonStorm BR,Asset,PPE,136907.99,1.126,154158.4
+2023-02-01,SummonStorm BR,Liability,Accounts Payable,95900.13,0.9738,93387.55
+2023-02-01,SummonStorm BR,Liability,Deferred Revenue,78582.27,1.2846,100946.78
+2023-02-01,SummonStorm BR,Liability,Accrued Expenses,165198.45,1.2823,211833.97
+2023-02-01,SummonStorm BR,Equity,Retained Earnings,152840.71,1.1031,168598.59
+2023-02-01,SummonStorm BR,Equity,Share Capital,91568.86,1.2032,110175.65
+2023-03-01,Tapstorm SG,Asset,Cash,78326.13,0.8179,64062.94
+2023-03-01,Tapstorm SG,Asset,Accounts Receivable,47211.43,1.0263,48453.09
+2023-03-01,Tapstorm SG,Asset,Prepaid Expenses,137634.91,1.0621,146182.04
+2023-03-01,Tapstorm SG,Asset,PPE,38596.6,1.13,43614.16
+2023-03-01,Tapstorm SG,Liability,Accounts Payable,95634.64,1.2076,115488.39
+2023-03-01,Tapstorm SG,Liability,Deferred Revenue,73195.46,1.2598,92211.64
+2023-03-01,Tapstorm SG,Liability,Accrued Expenses,141815.13,0.9286,131689.53
+2023-03-01,Tapstorm SG,Equity,Retained Earnings,155342.78,0.878,136390.96
+2023-03-01,Tapstorm SG,Equity,Share Capital,48881.62,1.2085,59073.44
+2023-03-01,TapForge CN,Asset,Cash,102447.0,1.2373,126757.67
+2023-03-01,TapForge CN,Asset,Accounts Receivable,108096.62,0.8562,92552.33
+2023-03-01,TapForge CN,Asset,Prepaid Expenses,91357.19,0.9709,88698.7
+2023-03-01,TapForge CN,Asset,PPE,80763.42,0.9478,76547.57
+2023-03-01,TapForge CN,Liability,Accounts Payable,146934.58,0.8951,131521.14
+2023-03-01,TapForge CN,Liability,Deferred Revenue,84310.68,0.9699,81772.93
+2023-03-01,TapForge CN,Liability,Accrued Expenses,159477.12,0.806,128538.56
+2023-03-01,TapForge CN,Equity,Retained Earnings,80140.76,1.1755,94205.46
+2023-03-01,TapForge CN,Equity,Share Capital,123158.29,1.2926,159194.41
+2023-03-01,WhaleCare PH,Asset,Cash,125059.37,1.1583,144856.27
+2023-03-01,WhaleCare PH,Asset,Accounts Receivable,80112.69,0.8884,71172.11
+2023-03-01,WhaleCare PH,Asset,Prepaid Expenses,46652.43,1.0893,50818.49
+2023-03-01,WhaleCare PH,Asset,PPE,74222.81,0.8527,63289.79
+2023-03-01,WhaleCare PH,Liability,Accounts Payable,64617.76,1.2355,79835.24
+2023-03-01,WhaleCare PH,Liability,Deferred Revenue,124718.09,1.0221,127474.36
+2023-03-01,WhaleCare PH,Liability,Accrued Expenses,88624.5,1.2104,107271.09
+2023-03-01,WhaleCare PH,Equity,Retained Earnings,141220.83,0.9856,139187.25
+2023-03-01,WhaleCare PH,Equity,Share Capital,117184.73,0.8421,98681.26
+2023-03-01,SummonStorm BR,Asset,Cash,94225.43,0.833,78489.78
+2023-03-01,SummonStorm BR,Asset,Accounts Receivable,102513.69,1.227,125784.3
+2023-03-01,SummonStorm BR,Asset,Prepaid Expenses,60186.29,0.8831,53150.51
+2023-03-01,SummonStorm BR,Asset,PPE,94169.69,0.9921,93425.75
+2023-03-01,SummonStorm BR,Liability,Accounts Payable,104305.86,1.0607,110637.23
+2023-03-01,SummonStorm BR,Liability,Deferred Revenue,88470.55,0.8071,71404.58
+2023-03-01,SummonStorm BR,Liability,Accrued Expenses,83116.68,0.8337,69294.38
+2023-03-01,SummonStorm BR,Equity,Retained Earnings,130165.34,0.9436,122824.01
+2023-03-01,SummonStorm BR,Equity,Share Capital,71702.57,1.1376,81568.84
+2023-04-01,Tapstorm SG,Asset,Cash,117543.58,1.1075,130179.51
+2023-04-01,Tapstorm SG,Asset,Accounts Receivable,133004.53,1.027,136595.65
+2023-04-01,Tapstorm SG,Asset,Prepaid Expenses,114842.61,1.2593,144621.3
+2023-04-01,Tapstorm SG,Asset,PPE,63872.97,1.1553,73792.44
+2023-04-01,Tapstorm SG,Liability,Accounts Payable,103422.87,1.242,128451.2
+2023-04-01,Tapstorm SG,Liability,Deferred Revenue,126803.9,1.1198,141995.01
+2023-04-01,Tapstorm SG,Liability,Accrued Expenses,91337.45,0.9222,84231.4
+2023-04-01,Tapstorm SG,Equity,Retained Earnings,74394.29,1.2929,96184.38
+2023-04-01,Tapstorm SG,Equity,Share Capital,73345.32,0.9202,67492.36
+2023-04-01,TapForge CN,Asset,Cash,109656.78,1.2,131588.14
+2023-04-01,TapForge CN,Asset,Accounts Receivable,90026.52,0.9036,81347.96
+2023-04-01,TapForge CN,Asset,Prepaid Expenses,81458.32,1.0323,84089.42
+2023-04-01,TapForge CN,Asset,PPE,37036.58,1.2964,48014.22
+2023-04-01,TapForge CN,Liability,Accounts Payable,154098.61,0.9465,145854.33
+2023-04-01,TapForge CN,Liability,Deferred Revenue,90571.29,1.0457,94710.4
+2023-04-01,TapForge CN,Liability,Accrued Expenses,124422.22,0.882,109740.4
+2023-04-01,TapForge CN,Equity,Retained Earnings,140151.64,1.1651,163290.68
+2023-04-01,TapForge CN,Equity,Share Capital,202169.31,1.2317,249011.94
+2023-04-01,WhaleCare PH,Asset,Cash,120456.67,1.2248,147535.33
+2023-04-01,WhaleCare PH,Asset,Accounts Receivable,110054.75,1.0172,111947.69
+2023-04-01,WhaleCare PH,Asset,Prepaid Expenses,53506.64,0.9239,49434.78
+2023-04-01,WhaleCare PH,Asset,PPE,39194.69,1.0595,41526.77
+2023-04-01,WhaleCare PH,Liability,Accounts Payable,28391.12,0.8418,23899.64
+2023-04-01,WhaleCare PH,Liability,Deferred Revenue,94920.01,1.0369,98422.56
+2023-04-01,WhaleCare PH,Liability,Accrued Expenses,70059.55,1.2717,89094.73
+2023-04-01,WhaleCare PH,Equity,Retained Earnings,85432.17,1.1839,101143.15
+2023-04-01,WhaleCare PH,Equity,Share Capital,143120.96,0.8445,120865.65
+2023-04-01,SummonStorm BR,Asset,Cash,115502.77,0.8476,97900.15
+2023-04-01,SummonStorm BR,Asset,Accounts Receivable,99585.45,0.8286,82516.5
+2023-04-01,SummonStorm BR,Asset,Prepaid Expenses,105868.16,1.0547,111659.15
+2023-04-01,SummonStorm BR,Asset,PPE,79100.63,1.2879,101873.7
+2023-04-01,SummonStorm BR,Liability,Accounts Payable,85636.03,0.8501,72799.19
+2023-04-01,SummonStorm BR,Liability,Deferred Revenue,58510.3,0.9913,58001.26
+2023-04-01,SummonStorm BR,Liability,Accrued Expenses,123321.3,0.9895,122026.43
+2023-04-01,SummonStorm BR,Equity,Retained Earnings,153120.62,0.8391,128483.51
+2023-04-01,SummonStorm BR,Equity,Share Capital,140847.08,1.103,155354.33
+2023-05-01,Tapstorm SG,Asset,Cash,100744.63,1.2253,123442.4
+2023-05-01,Tapstorm SG,Asset,Accounts Receivable,128703.38,1.2647,162771.16
+2023-05-01,Tapstorm SG,Asset,Prepaid Expenses,116325.42,1.078,125398.8
+2023-05-01,Tapstorm SG,Asset,PPE,105183.04,1.0818,113787.01
+2023-05-01,Tapstorm SG,Liability,Accounts Payable,110561.47,1.0205,112827.98
+2023-05-01,Tapstorm SG,Liability,Deferred Revenue,60452.11,1.2458,75311.24
+2023-05-01,Tapstorm SG,Liability,Accrued Expenses,85596.87,0.9251,79185.66
+2023-05-01,Tapstorm SG,Equity,Retained Earnings,79532.96,1.0531,83756.16
+2023-05-01,Tapstorm SG,Equity,Share Capital,54641.7,1.0651,58198.87
+2023-05-01,TapForge CN,Asset,Cash,117306.56,1.195,140181.34
+2023-05-01,TapForge CN,Asset,Accounts Receivable,121070.88,0.844,102183.82
+2023-05-01,TapForge CN,Asset,Prepaid Expenses,23962.21,1.2509,29974.33
+2023-05-01,TapForge CN,Asset,PPE,99557.91,1.1912,118593.38
+2023-05-01,TapForge CN,Liability,Accounts Payable,89828.62,1.0378,93224.14
+2023-05-01,TapForge CN,Liability,Deferred Revenue,81267.55,0.8586,69776.32
+2023-05-01,TapForge CN,Liability,Accrued Expenses,50567.37,0.9559,48337.35
+2023-05-01,TapForge CN,Equity,Retained Earnings,101822.95,1.178,119947.44
+2023-05-01,TapForge CN,Equity,Share Capital,100561.4,1.0429,104875.48
+2023-05-01,WhaleCare PH,Asset,Cash,88690.14,1.0077,89373.05
+2023-05-01,WhaleCare PH,Asset,Accounts Receivable,124257.16,1.2549,155930.31
+2023-05-01,WhaleCare PH,Asset,Prepaid Expenses,122945.81,1.1637,143072.04
+2023-05-01,WhaleCare PH,Asset,PPE,44108.35,0.9162,40412.07
+2023-05-01,WhaleCare PH,Liability,Accounts Payable,122883.24,0.8187,100604.51
+2023-05-01,WhaleCare PH,Liability,Deferred Revenue,71324.23,1.1368,81081.38
+2023-05-01,WhaleCare PH,Liability,Accrued Expenses,91815.44,1.2771,117257.5
+2023-05-01,WhaleCare PH,Equity,Retained Earnings,149449.62,1.0112,151123.46
+2023-05-01,WhaleCare PH,Equity,Share Capital,98702.89,1.0648,105098.84
+2023-05-01,SummonStorm BR,Asset,Cash,130826.01,0.9366,122531.64
+2023-05-01,SummonStorm BR,Asset,Accounts Receivable,92387.88,0.8521,78723.71
+2023-05-01,SummonStorm BR,Asset,Prepaid Expenses,128091.35,1.1186,143282.98
+2023-05-01,SummonStorm BR,Asset,PPE,98369.84,1.0077,99127.29
+2023-05-01,SummonStorm BR,Liability,Accounts Payable,91931.49,1.2166,111843.85
+2023-05-01,SummonStorm BR,Liability,Deferred Revenue,103684.46,0.9795,101558.93
+2023-05-01,SummonStorm BR,Liability,Accrued Expenses,66436.16,0.9007,59839.05
+2023-05-01,SummonStorm BR,Equity,Retained Earnings,84535.9,0.9461,79979.41
+2023-05-01,SummonStorm BR,Equity,Share Capital,118331.05,0.8739,103409.5
+2023-06-01,Tapstorm SG,Asset,Cash,125139.66,0.8643,108158.21
+2023-06-01,Tapstorm SG,Asset,Accounts Receivable,72654.3,1.076,78176.03
+2023-06-01,Tapstorm SG,Asset,Prepaid Expenses,151689.63,1.0141,153828.45
+2023-06-01,Tapstorm SG,Asset,PPE,154229.68,0.8418,129830.54
+2023-06-01,Tapstorm SG,Liability,Accounts Payable,72262.91,1.0392,75095.62
+2023-06-01,Tapstorm SG,Liability,Deferred Revenue,86319.49,1.2698,109608.49
+2023-06-01,Tapstorm SG,Liability,Accrued Expenses,99085.15,1.005,99580.58
+2023-06-01,Tapstorm SG,Equity,Retained Earnings,136435.48,0.8778,119763.06
+2023-06-01,Tapstorm SG,Equity,Share Capital,117190.97,0.8118,95135.63
+2023-06-01,TapForge CN,Asset,Cash,90813.77,1.2676,115115.53
+2023-06-01,TapForge CN,Asset,Accounts Receivable,62090.19,0.9292,57694.2
+2023-06-01,TapForge CN,Asset,Prepaid Expenses,41299.11,1.1138,45998.95
+2023-06-01,TapForge CN,Asset,PPE,108573.93,1.0655,115685.52
+2023-06-01,TapForge CN,Liability,Accounts Payable,154612.32,1.0557,163224.23
+2023-06-01,TapForge CN,Liability,Deferred Revenue,100114.35,0.8439,84486.5
+2023-06-01,TapForge CN,Liability,Accrued Expenses,112455.38,1.1563,130032.16
+2023-06-01,TapForge CN,Equity,Retained Earnings,106325.43,0.9227,98106.47
+2023-06-01,TapForge CN,Equity,Share Capital,50834.24,1.2642,64264.65
+2023-06-01,WhaleCare PH,Asset,Cash,147136.78,1.0694,157348.07
+2023-06-01,WhaleCare PH,Asset,Accounts Receivable,76360.91,1.276,97436.52
+2023-06-01,WhaleCare PH,Asset,Prepaid Expenses,76003.48,0.8796,66852.66
+2023-06-01,WhaleCare PH,Asset,PPE,113994.02,1.0741,122440.98
+2023-06-01,WhaleCare PH,Liability,Accounts Payable,78448.66,0.8101,63551.26
+2023-06-01,WhaleCare PH,Liability,Deferred Revenue,60899.0,0.9245,56301.13
+2023-06-01,WhaleCare PH,Liability,Accrued Expenses,129036.4,1.1369,146701.48
+2023-06-01,WhaleCare PH,Equity,Retained Earnings,103837.54,0.9285,96413.16
+2023-06-01,WhaleCare PH,Equity,Share Capital,128780.84,0.8414,108356.2
+2023-06-01,SummonStorm BR,Asset,Cash,88960.57,1.2392,110239.94
+2023-06-01,SummonStorm BR,Asset,Accounts Receivable,86357.77,0.9841,84984.68
+2023-06-01,SummonStorm BR,Asset,Prepaid Expenses,107578.84,1.1237,120886.34
+2023-06-01,SummonStorm BR,Asset,PPE,110545.31,1.2321,136202.88
+2023-06-01,SummonStorm BR,Liability,Accounts Payable,80736.67,1.0049,81132.28
+2023-06-01,SummonStorm BR,Liability,Deferred Revenue,77154.62,1.1109,85711.07
+2023-06-01,SummonStorm BR,Liability,Accrued Expenses,127203.81,0.8148,103645.66
+2023-06-01,SummonStorm BR,Equity,Retained Earnings,110015.95,0.8637,95020.78
+2023-06-01,SummonStorm BR,Equity,Share Capital,108242.96,1.1821,127954.0
+2023-07-01,Tapstorm SG,Asset,Cash,40749.15,0.9951,40549.48
+2023-07-01,Tapstorm SG,Asset,Accounts Receivable,107740.18,0.9643,103893.86
+2023-07-01,Tapstorm SG,Asset,Prepaid Expenses,111164.96,1.1448,127261.65
+2023-07-01,Tapstorm SG,Asset,PPE,90399.45,1.0155,91800.64
+2023-07-01,Tapstorm SG,Liability,Accounts Payable,116936.73,0.8497,99361.14
+2023-07-01,Tapstorm SG,Liability,Deferred Revenue,79215.67,1.2692,100540.53
+2023-07-01,Tapstorm SG,Liability,Accrued Expenses,110281.26,0.8154,89923.34
+2023-07-01,Tapstorm SG,Equity,Retained Earnings,54246.14,1.1433,62019.61
+2023-07-01,Tapstorm SG,Equity,Share Capital,127130.87,1.293,164380.21
+2023-07-01,TapForge CN,Asset,Cash,76835.57,1.0742,82536.77
+2023-07-01,TapForge CN,Asset,Accounts Receivable,113032.24,1.0645,120322.82
+2023-07-01,TapForge CN,Asset,Prepaid Expenses,137298.67,1.02,140044.64
+2023-07-01,TapForge CN,Asset,PPE,129618.02,1.1193,145081.45
+2023-07-01,TapForge CN,Liability,Accounts Payable,112915.15,1.0658,120344.97
+2023-07-01,TapForge CN,Liability,Deferred Revenue,124656.9,0.8128,101321.13
+2023-07-01,TapForge CN,Liability,Accrued Expenses,144828.92,1.1337,164192.55
+2023-07-01,TapForge CN,Equity,Retained Earnings,103607.06,0.9791,101441.67
+2023-07-01,TapForge CN,Equity,Share Capital,129107.94,1.0188,131535.17
+2023-07-01,WhaleCare PH,Asset,Cash,64642.87,1.2496,80777.73
+2023-07-01,WhaleCare PH,Asset,Accounts Receivable,78367.6,1.2637,99033.14
+2023-07-01,WhaleCare PH,Asset,Prepaid Expenses,145199.4,1.1211,162783.05
+2023-07-01,WhaleCare PH,Asset,PPE,92557.65,0.8452,78229.73
+2023-07-01,WhaleCare PH,Liability,Accounts Payable,84264.84,0.8217,69240.42
+2023-07-01,WhaleCare PH,Liability,Deferred Revenue,91431.23,0.9233,84418.45
+2023-07-01,WhaleCare PH,Liability,Accrued Expenses,78640.82,1.0074,79222.76
+2023-07-01,WhaleCare PH,Equity,Retained Earnings,94886.77,1.1094,105267.38
+2023-07-01,WhaleCare PH,Equity,Share Capital,68531.12,1.1929,81750.77
+2023-07-01,SummonStorm BR,Asset,Cash,82953.91,0.9944,82489.37
+2023-07-01,SummonStorm BR,Asset,Accounts Receivable,102358.19,0.976,99901.59
+2023-07-01,SummonStorm BR,Asset,Prepaid Expenses,147173.01,0.8903,131028.13
+2023-07-01,SummonStorm BR,Asset,PPE,98660.99,0.895,88301.59
+2023-07-01,SummonStorm BR,Liability,Accounts Payable,48239.66,1.038,50072.77
+2023-07-01,SummonStorm BR,Liability,Deferred Revenue,130181.93,1.116,145283.03
+2023-07-01,SummonStorm BR,Liability,Accrued Expenses,124173.74,0.9101,113010.52
+2023-07-01,SummonStorm BR,Equity,Retained Earnings,76175.56,1.003,76404.09
+2023-07-01,SummonStorm BR,Equity,Share Capital,123680.59,0.9743,120502.0
+2023-08-01,Tapstorm SG,Asset,Cash,96054.36,1.1527,110721.86
+2023-08-01,Tapstorm SG,Asset,Accounts Receivable,143327.25,1.0941,156814.34
+2023-08-01,Tapstorm SG,Asset,Prepaid Expenses,171632.85,0.8114,139262.89
+2023-08-01,Tapstorm SG,Asset,PPE,111951.36,1.0046,112466.34
+2023-08-01,Tapstorm SG,Liability,Accounts Payable,123034.7,1.071,131770.16
+2023-08-01,Tapstorm SG,Liability,Deferred Revenue,148088.0,1.0727,158854.0
+2023-08-01,Tapstorm SG,Liability,Accrued Expenses,128842.75,1.2819,165163.52
+2023-08-01,Tapstorm SG,Equity,Retained Earnings,113646.25,1.1846,134625.35
+2023-08-01,Tapstorm SG,Equity,Share Capital,96722.75,0.8006,77436.23
+2023-08-01,TapForge CN,Asset,Cash,65972.59,1.2904,85131.03
+2023-08-01,TapForge CN,Asset,Accounts Receivable,91684.82,1.226,112405.59
+2023-08-01,TapForge CN,Asset,Prepaid Expenses,92920.34,0.8705,80887.16
+2023-08-01,TapForge CN,Asset,PPE,100645.98,0.9196,92554.04
+2023-08-01,TapForge CN,Liability,Accounts Payable,45015.29,1.2758,57430.51
+2023-08-01,TapForge CN,Liability,Deferred Revenue,89190.22,1.2445,110997.23
+2023-08-01,TapForge CN,Liability,Accrued Expenses,92229.8,1.2764,117722.12
+2023-08-01,TapForge CN,Equity,Retained Earnings,58216.8,0.9533,55498.08
+2023-08-01,TapForge CN,Equity,Share Capital,112184.13,1.1132,124883.37
+2023-08-01,WhaleCare PH,Asset,Cash,127799.36,1.1972,153001.39
+2023-08-01,WhaleCare PH,Asset,Accounts Receivable,99876.55,0.9071,90598.02
+2023-08-01,WhaleCare PH,Asset,Prepaid Expenses,62747.72,0.8176,51302.54
+2023-08-01,WhaleCare PH,Asset,PPE,96902.38,1.1227,108792.3
+2023-08-01,WhaleCare PH,Liability,Accounts Payable,122001.66,0.8165,99614.36
+2023-08-01,WhaleCare PH,Liability,Deferred Revenue,120956.02,1.1426,138204.35
+2023-08-01,WhaleCare PH,Liability,Accrued Expenses,98601.51,1.2254,120826.29
+2023-08-01,WhaleCare PH,Equity,Retained Earnings,112295.96,1.1291,126793.37
+2023-08-01,WhaleCare PH,Equity,Share Capital,80947.67,1.1002,89058.63
+2023-08-01,SummonStorm BR,Asset,Cash,122351.79,1.0171,124444.01
+2023-08-01,SummonStorm BR,Asset,Accounts Receivable,87731.06,0.928,81414.42
+2023-08-01,SummonStorm BR,Asset,Prepaid Expenses,77070.68,1.2799,98642.76
+2023-08-01,SummonStorm BR,Asset,PPE,128557.99,1.0934,140565.31
+2023-08-01,SummonStorm BR,Liability,Accounts Payable,104001.37,0.9715,101037.33
+2023-08-01,SummonStorm BR,Liability,Deferred Revenue,102467.75,1.2255,125574.23
+2023-08-01,SummonStorm BR,Liability,Accrued Expenses,116011.58,0.8908,103343.12
+2023-08-01,SummonStorm BR,Equity,Retained Earnings,97971.24,1.1755,115165.19
+2023-08-01,SummonStorm BR,Equity,Share Capital,72043.46,1.1536,83109.34
+2023-09-01,Tapstorm SG,Asset,Cash,93258.82,1.2745,118858.37
+2023-09-01,Tapstorm SG,Asset,Accounts Receivable,55314.7,1.2208,67528.19
+2023-09-01,Tapstorm SG,Asset,Prepaid Expenses,135174.19,0.8631,116668.84
+2023-09-01,Tapstorm SG,Asset,PPE,66726.04,1.0857,72444.46
+2023-09-01,Tapstorm SG,Liability,Accounts Payable,158307.74,1.1983,189700.16
+2023-09-01,Tapstorm SG,Liability,Deferred Revenue,76328.88,1.0826,82633.65
+2023-09-01,Tapstorm SG,Liability,Accrued Expenses,118490.76,1.0076,119391.29
+2023-09-01,Tapstorm SG,Equity,Retained Earnings,156337.36,0.9633,150599.78
+2023-09-01,Tapstorm SG,Equity,Share Capital,107840.24,1.022,110212.73
+2023-09-01,TapForge CN,Asset,Cash,90336.16,0.9653,87201.5
+2023-09-01,TapForge CN,Asset,Accounts Receivable,100970.76,0.9158,92469.02
+2023-09-01,TapForge CN,Asset,Prepaid Expenses,74039.97,1.0013,74136.22
+2023-09-01,TapForge CN,Asset,PPE,39220.89,1.0856,42578.2
+2023-09-01,TapForge CN,Liability,Accounts Payable,117884.5,0.9342,110127.7
+2023-09-01,TapForge CN,Liability,Deferred Revenue,39212.11,1.0015,39270.93
+2023-09-01,TapForge CN,Liability,Accrued Expenses,58947.96,0.9195,54202.65
+2023-09-01,TapForge CN,Equity,Retained Earnings,101727.68,1.0602,107851.69
+2023-09-01,TapForge CN,Equity,Share Capital,80207.53,1.1511,92326.89
+2023-09-01,WhaleCare PH,Asset,Cash,114718.58,1.2835,147241.3
+2023-09-01,WhaleCare PH,Asset,Accounts Receivable,147970.41,0.8707,128837.84
+2023-09-01,WhaleCare PH,Asset,Prepaid Expenses,92319.82,1.165,107552.59
+2023-09-01,WhaleCare PH,Asset,PPE,81761.81,0.8793,71893.16
+2023-09-01,WhaleCare PH,Liability,Accounts Payable,153052.49,0.9122,139614.48
+2023-09-01,WhaleCare PH,Liability,Deferred Revenue,120505.46,1.0765,129724.13
+2023-09-01,WhaleCare PH,Liability,Accrued Expenses,127715.68,0.827,105620.87
+2023-09-01,WhaleCare PH,Equity,Retained Earnings,125337.55,1.0473,131266.02
+2023-09-01,WhaleCare PH,Equity,Share Capital,92603.09,1.1089,102687.57
+2023-09-01,SummonStorm BR,Asset,Cash,88724.25,0.9594,85122.05
+2023-09-01,SummonStorm BR,Asset,Accounts Receivable,71472.33,1.1897,85030.63
+2023-09-01,SummonStorm BR,Asset,Prepaid Expenses,121801.3,0.943,114858.63
+2023-09-01,SummonStorm BR,Asset,PPE,111562.38,1.1707,130606.08
+2023-09-01,SummonStorm BR,Liability,Accounts Payable,119378.71,0.9314,111189.33
+2023-09-01,SummonStorm BR,Liability,Deferred Revenue,43859.54,0.8226,36078.86
+2023-09-01,SummonStorm BR,Liability,Accrued Expenses,127923.61,0.8726,111626.14
+2023-09-01,SummonStorm BR,Equity,Retained Earnings,86215.16,1.2737,109812.25
+2023-09-01,SummonStorm BR,Equity,Share Capital,37007.6,0.8425,31178.9
+2023-10-01,Tapstorm SG,Asset,Cash,61026.92,1.2728,77675.06
+2023-10-01,Tapstorm SG,Asset,Accounts Receivable,84964.57,0.9633,81846.37
+2023-10-01,Tapstorm SG,Asset,Prepaid Expenses,78497.93,0.8079,63418.48
+2023-10-01,Tapstorm SG,Asset,PPE,100382.42,1.2444,124915.88
+2023-10-01,Tapstorm SG,Liability,Accounts Payable,113756.06,0.9831,111833.58
+2023-10-01,Tapstorm SG,Liability,Deferred Revenue,96565.88,1.2443,120156.92
+2023-10-01,Tapstorm SG,Liability,Accrued Expenses,85826.04,1.0428,89499.39
+2023-10-01,Tapstorm SG,Equity,Retained Earnings,104256.63,0.8733,91047.31
+2023-10-01,Tapstorm SG,Equity,Share Capital,104674.73,1.2883,134852.45
+2023-10-01,TapForge CN,Asset,Cash,138062.81,0.9525,131504.83
+2023-10-01,TapForge CN,Asset,Accounts Receivable,81675.72,1.2227,99864.9
+2023-10-01,TapForge CN,Asset,Prepaid Expenses,96667.48,0.8421,81403.68
+2023-10-01,TapForge CN,Asset,PPE,149435.11,0.9851,147208.53
+2023-10-01,TapForge CN,Liability,Accounts Payable,63414.77,0.8526,54067.43
+2023-10-01,TapForge CN,Liability,Deferred Revenue,89049.98,0.8857,78871.57
+2023-10-01,TapForge CN,Liability,Accrued Expenses,72567.52,0.8046,58387.83
+2023-10-01,TapForge CN,Equity,Retained Earnings,62376.39,1.0907,68033.93
+2023-10-01,TapForge CN,Equity,Share Capital,106758.31,1.2722,135817.92
+2023-10-01,WhaleCare PH,Asset,Cash,139911.7,0.9804,137169.43
+2023-10-01,WhaleCare PH,Asset,Accounts Receivable,162930.56,0.9003,146686.38
+2023-10-01,WhaleCare PH,Asset,Prepaid Expenses,98737.67,1.2433,122760.55
+2023-10-01,WhaleCare PH,Asset,PPE,115144.59,1.2058,138841.35
+2023-10-01,WhaleCare PH,Liability,Accounts Payable,116243.27,0.8009,93099.23
+2023-10-01,WhaleCare PH,Liability,Deferred Revenue,93818.95,1.1862,111288.04
+2023-10-01,WhaleCare PH,Liability,Accrued Expenses,138418.45,1.1639,161105.23
+2023-10-01,WhaleCare PH,Equity,Retained Earnings,95065.0,1.0069,95720.95
+2023-10-01,WhaleCare PH,Equity,Share Capital,132577.39,1.2415,164594.83
+2023-10-01,SummonStorm BR,Asset,Cash,89303.53,0.98,87517.46
+2023-10-01,SummonStorm BR,Asset,Accounts Receivable,65407.53,1.0793,70594.35
+2023-10-01,SummonStorm BR,Asset,Prepaid Expenses,67274.73,1.265,85102.53
+2023-10-01,SummonStorm BR,Asset,PPE,51446.22,1.189,61169.56
+2023-10-01,SummonStorm BR,Liability,Accounts Payable,137904.3,1.2447,171649.48
+2023-10-01,SummonStorm BR,Liability,Deferred Revenue,138315.61,0.8177,113100.67
+2023-10-01,SummonStorm BR,Liability,Accrued Expenses,78570.47,0.9987,78468.33
+2023-10-01,SummonStorm BR,Equity,Retained Earnings,67972.78,1.0136,68897.21
+2023-10-01,SummonStorm BR,Equity,Share Capital,76708.69,0.8039,61666.12
+2023-11-01,Tapstorm SG,Asset,Cash,105340.45,0.8619,90792.93
+2023-11-01,Tapstorm SG,Asset,Accounts Receivable,71923.53,1.2951,93148.16
+2023-11-01,Tapstorm SG,Asset,Prepaid Expenses,116496.1,1.1733,136684.87
+2023-11-01,Tapstorm SG,Asset,PPE,90876.75,1.2367,112387.28
+2023-11-01,Tapstorm SG,Liability,Accounts Payable,132512.44,0.9851,130538.0
+2023-11-01,Tapstorm SG,Liability,Deferred Revenue,120233.73,0.8063,96944.46
+2023-11-01,Tapstorm SG,Liability,Accrued Expenses,66338.2,1.0142,67280.2
+2023-11-01,Tapstorm SG,Equity,Retained Earnings,62183.74,0.8449,52539.04
+2023-11-01,Tapstorm SG,Equity,Share Capital,106228.18,1.2608,133932.49
+2023-11-01,TapForge CN,Asset,Cash,94542.92,0.8973,84833.36
+2023-11-01,TapForge CN,Asset,Accounts Receivable,138221.15,0.9162,126638.22
+2023-11-01,TapForge CN,Asset,Prepaid Expenses,111696.02,0.8212,91724.77
+2023-11-01,TapForge CN,Asset,PPE,86267.4,0.8485,73197.89
+2023-11-01,TapForge CN,Liability,Accounts Payable,150444.39,0.9602,144456.7
+2023-11-01,TapForge CN,Liability,Deferred Revenue,87138.11,1.1762,102491.84
+2023-11-01,TapForge CN,Liability,Accrued Expenses,59843.1,1.0163,60818.54
+2023-11-01,TapForge CN,Equity,Retained Earnings,93826.52,1.0214,95834.41
+2023-11-01,TapForge CN,Equity,Share Capital,75828.12,1.2489,94701.74
+2023-11-01,WhaleCare PH,Asset,Cash,129619.32,1.133,146858.69
+2023-11-01,WhaleCare PH,Asset,Accounts Receivable,66121.05,0.8964,59270.91
+2023-11-01,WhaleCare PH,Asset,Prepaid Expenses,125471.68,1.0352,129888.28
+2023-11-01,WhaleCare PH,Asset,PPE,92185.09,0.9119,84063.58
+2023-11-01,WhaleCare PH,Liability,Accounts Payable,52455.77,1.0486,55005.12
+2023-11-01,WhaleCare PH,Liability,Deferred Revenue,112790.28,1.1703,131998.46
+2023-11-01,WhaleCare PH,Liability,Accrued Expenses,135595.2,0.8507,115350.84
+2023-11-01,WhaleCare PH,Equity,Retained Earnings,103074.59,1.2171,125452.08
+2023-11-01,WhaleCare PH,Equity,Share Capital,94276.76,1.2219,115196.77
+2023-11-01,SummonStorm BR,Asset,Cash,155760.9,1.2831,199856.81
+2023-11-01,SummonStorm BR,Asset,Accounts Receivable,135997.93,1.2485,169793.42
+2023-11-01,SummonStorm BR,Asset,Prepaid Expenses,123137.4,1.1778,145031.23
+2023-11-01,SummonStorm BR,Asset,PPE,39677.34,1.2118,48081.0
+2023-11-01,SummonStorm BR,Liability,Accounts Payable,79064.66,1.2704,100443.74
+2023-11-01,SummonStorm BR,Liability,Deferred Revenue,93591.18,1.1859,110989.78
+2023-11-01,SummonStorm BR,Liability,Accrued Expenses,113893.67,0.8567,97572.71
+2023-11-01,SummonStorm BR,Equity,Retained Earnings,126880.24,1.0614,134670.69
+2023-11-01,SummonStorm BR,Equity,Share Capital,68755.76,1.1685,80341.11
+2023-12-01,Tapstorm SG,Asset,Cash,117384.49,1.1873,139370.6
+2023-12-01,Tapstorm SG,Asset,Accounts Receivable,65066.19,1.2202,79393.77
+2023-12-01,Tapstorm SG,Asset,Prepaid Expenses,121327.26,1.1723,142231.95
+2023-12-01,Tapstorm SG,Asset,PPE,66911.07,1.2841,85920.5
+2023-12-01,Tapstorm SG,Liability,Accounts Payable,137276.03,0.8662,118908.5
+2023-12-01,Tapstorm SG,Liability,Deferred Revenue,107629.69,0.8963,96468.49
+2023-12-01,Tapstorm SG,Liability,Accrued Expenses,88477.7,1.2111,107155.34
+2023-12-01,Tapstorm SG,Equity,Retained Earnings,109108.48,1.0743,117215.24
+2023-12-01,Tapstorm SG,Equity,Share Capital,80363.66,0.8308,66766.13
+2023-12-01,TapForge CN,Asset,Cash,100678.21,0.9637,97023.59
+2023-12-01,TapForge CN,Asset,Accounts Receivable,70056.07,1.2184,85356.32
+2023-12-01,TapForge CN,Asset,Prepaid Expenses,108900.59,1.1113,121021.23
+2023-12-01,TapForge CN,Asset,PPE,92424.54,1.1031,101953.51
+2023-12-01,TapForge CN,Liability,Accounts Payable,93808.62,1.2553,117757.96
+2023-12-01,TapForge CN,Liability,Deferred Revenue,98741.27,1.2787,126260.46
+2023-12-01,TapForge CN,Liability,Accrued Expenses,73316.09,1.058,77568.42
+2023-12-01,TapForge CN,Equity,Retained Earnings,162336.67,1.1264,182856.03
+2023-12-01,TapForge CN,Equity,Share Capital,93873.94,1.1701,109841.9
+2023-12-01,WhaleCare PH,Asset,Cash,132963.23,0.8399,111675.82
+2023-12-01,WhaleCare PH,Asset,Accounts Receivable,65064.49,1.1933,77641.46
+2023-12-01,WhaleCare PH,Asset,Prepaid Expenses,32377.03,1.2721,41186.82
+2023-12-01,WhaleCare PH,Asset,PPE,107715.78,0.9163,98699.97
+2023-12-01,WhaleCare PH,Liability,Accounts Payable,131979.62,1.255,165634.42
+2023-12-01,WhaleCare PH,Liability,Deferred Revenue,136454.8,1.0057,137232.59
+2023-12-01,WhaleCare PH,Liability,Accrued Expenses,128011.65,1.1034,141248.05
+2023-12-01,WhaleCare PH,Equity,Retained Earnings,93664.03,1.0295,96427.12
+2023-12-01,WhaleCare PH,Equity,Share Capital,117277.24,1.251,146713.83
+2023-12-01,SummonStorm BR,Asset,Cash,80904.27,1.2354,99949.14
+2023-12-01,SummonStorm BR,Asset,Accounts Receivable,81641.45,1.0271,83853.93
+2023-12-01,SummonStorm BR,Asset,Prepaid Expenses,106570.85,1.0553,112464.22
+2023-12-01,SummonStorm BR,Asset,PPE,107111.67,0.8108,86846.14
+2023-12-01,SummonStorm BR,Liability,Accounts Payable,84096.45,1.1573,97324.82
+2023-12-01,SummonStorm BR,Liability,Deferred Revenue,105473.14,1.1872,125217.71
+2023-12-01,SummonStorm BR,Liability,Accrued Expenses,134242.81,1.1724,157386.27
+2023-12-01,SummonStorm BR,Equity,Retained Earnings,73396.64,1.0229,75077.42
+2023-12-01,SummonStorm BR,Equity,Share Capital,120192.67,1.1735,141046.1
+2024-01-01,Tapstorm SG,Asset,Cash,59075.35,1.0576,62478.09
+2024-01-01,Tapstorm SG,Asset,Accounts Receivable,49575.04,0.8304,41167.11
+2024-01-01,Tapstorm SG,Asset,Prepaid Expenses,109081.22,0.9051,98729.41
+2024-01-01,Tapstorm SG,Asset,PPE,98062.23,1.2555,123117.13
+2024-01-01,Tapstorm SG,Liability,Accounts Payable,103459.85,0.9882,102239.02
+2024-01-01,Tapstorm SG,Liability,Deferred Revenue,102973.32,1.2162,125236.15
+2024-01-01,Tapstorm SG,Liability,Accrued Expenses,128677.83,0.9043,116363.36
+2024-01-01,Tapstorm SG,Equity,Retained Earnings,115957.39,1.2013,139299.61
+2024-01-01,Tapstorm SG,Equity,Share Capital,114050.92,1.1883,135526.71
+2024-01-01,TapForge CN,Asset,Cash,141501.37,0.8381,118592.3
+2024-01-01,TapForge CN,Asset,Accounts Receivable,127093.24,1.1931,151634.94
+2024-01-01,TapForge CN,Asset,Prepaid Expenses,105385.7,1.1933,125756.76
+2024-01-01,TapForge CN,Asset,PPE,131669.51,0.855,112577.43
+2024-01-01,TapForge CN,Liability,Accounts Payable,91726.19,1.0145,93056.22
+2024-01-01,TapForge CN,Liability,Deferred Revenue,92519.5,1.2753,117990.12
+2024-01-01,TapForge CN,Liability,Accrued Expenses,139439.54,1.1643,162349.46
+2024-01-01,TapForge CN,Equity,Retained Earnings,93182.65,1.099,102407.73
+2024-01-01,TapForge CN,Equity,Share Capital,112145.66,0.8395,94146.28
+2024-01-01,WhaleCare PH,Asset,Cash,110552.43,1.2235,135260.9
+2024-01-01,WhaleCare PH,Asset,Accounts Receivable,104652.09,0.852,89163.58
+2024-01-01,WhaleCare PH,Asset,Prepaid Expenses,154017.19,1.2718,195879.06
+2024-01-01,WhaleCare PH,Asset,PPE,96307.2,0.9835,94718.13
+2024-01-01,WhaleCare PH,Liability,Accounts Payable,153195.99,1.2271,187986.8
+2024-01-01,WhaleCare PH,Liability,Deferred Revenue,67734.53,1.0069,68201.9
+2024-01-01,WhaleCare PH,Liability,Accrued Expenses,98579.38,1.0893,107382.52
+2024-01-01,WhaleCare PH,Equity,Retained Earnings,92808.03,1.2832,119091.26
+2024-01-01,WhaleCare PH,Equity,Share Capital,123244.59,0.8293,102206.74
+2024-01-01,SummonStorm BR,Asset,Cash,59285.66,1.1957,70887.86
+2024-01-01,SummonStorm BR,Asset,Accounts Receivable,111452.55,1.0209,113781.91
+2024-01-01,SummonStorm BR,Asset,Prepaid Expenses,127743.88,0.9404,120130.34
+2024-01-01,SummonStorm BR,Asset,PPE,90184.16,0.9544,86071.76
+2024-01-01,SummonStorm BR,Liability,Accounts Payable,81359.45,1.0854,88307.55
+2024-01-01,SummonStorm BR,Liability,Deferred Revenue,81581.04,1.0274,83816.36
+2024-01-01,SummonStorm BR,Liability,Accrued Expenses,114829.39,0.8576,98477.68
+2024-01-01,SummonStorm BR,Equity,Retained Earnings,52429.68,1.1399,59764.59
+2024-01-01,SummonStorm BR,Equity,Share Capital,60746.5,1.1765,71468.26
+2024-02-01,Tapstorm SG,Asset,Cash,102501.2,1.2809,131293.79
+2024-02-01,Tapstorm SG,Asset,Accounts Receivable,117527.59,0.9151,107549.5
+2024-02-01,Tapstorm SG,Asset,Prepaid Expenses,108256.26,1.208,130773.56
+2024-02-01,Tapstorm SG,Asset,PPE,118037.58,1.045,123349.27
+2024-02-01,Tapstorm SG,Liability,Accounts Payable,68590.48,1.1637,79818.74
+2024-02-01,Tapstorm SG,Liability,Deferred Revenue,47550.84,1.1524,54797.59
+2024-02-01,Tapstorm SG,Liability,Accrued Expenses,126486.45,1.2379,156577.58
+2024-02-01,Tapstorm SG,Equity,Retained Earnings,61968.72,1.2438,77076.69
+2024-02-01,Tapstorm SG,Equity,Share Capital,115447.73,0.9484,109490.63
+2024-02-01,TapForge CN,Asset,Cash,45133.38,1.1176,50441.07
+2024-02-01,TapForge CN,Asset,Accounts Receivable,120304.18,0.9,108273.76
+2024-02-01,TapForge CN,Asset,Prepaid Expenses,99948.11,0.9952,99468.36
+2024-02-01,TapForge CN,Asset,PPE,131226.54,1.0159,133313.04
+2024-02-01,TapForge CN,Liability,Accounts Payable,123768.32,1.2912,159809.65
+2024-02-01,TapForge CN,Liability,Deferred Revenue,89648.17,1.2875,115422.02
+2024-02-01,TapForge CN,Liability,Accrued Expenses,83578.77,1.1269,94184.92
+2024-02-01,TapForge CN,Equity,Retained Earnings,109483.25,0.8789,96224.83
+2024-02-01,TapForge CN,Equity,Share Capital,84953.08,1.2002,101960.69
+2024-02-01,WhaleCare PH,Asset,Cash,1696.49,1.0322,1751.12
+2024-02-01,WhaleCare PH,Asset,Accounts Receivable,91577.33,0.8557,78362.72
+2024-02-01,WhaleCare PH,Asset,Prepaid Expenses,74182.78,1.2758,94642.39
+2024-02-01,WhaleCare PH,Asset,PPE,83942.3,0.9439,79233.14
+2024-02-01,WhaleCare PH,Liability,Accounts Payable,108916.08,0.8234,89681.5
+2024-02-01,WhaleCare PH,Liability,Deferred Revenue,137232.93,1.0823,148527.2
+2024-02-01,WhaleCare PH,Liability,Accrued Expenses,155129.52,1.0423,161691.5
+2024-02-01,WhaleCare PH,Equity,Retained Earnings,114688.76,1.0428,119597.44
+2024-02-01,WhaleCare PH,Equity,Share Capital,82148.08,1.2094,99349.89
+2024-02-01,SummonStorm BR,Asset,Cash,129081.06,0.9243,119309.62
+2024-02-01,SummonStorm BR,Asset,Accounts Receivable,54670.46,1.1369,62154.85
+2024-02-01,SummonStorm BR,Asset,Prepaid Expenses,79278.03,0.8312,65895.9
+2024-02-01,SummonStorm BR,Asset,PPE,93111.14,0.907,84451.8
+2024-02-01,SummonStorm BR,Liability,Accounts Payable,42241.55,1.2793,54039.61
+2024-02-01,SummonStorm BR,Liability,Deferred Revenue,107406.59,0.9316,100059.98
+2024-02-01,SummonStorm BR,Liability,Accrued Expenses,75334.69,0.9116,68675.1
+2024-02-01,SummonStorm BR,Equity,Retained Earnings,107354.45,0.8576,92067.18
+2024-02-01,SummonStorm BR,Equity,Share Capital,92029.57,1.0063,92609.36
+2024-03-01,Tapstorm SG,Asset,Cash,74760.38,0.9858,73698.78
+2024-03-01,Tapstorm SG,Asset,Accounts Receivable,70025.35,1.1475,80354.09
+2024-03-01,Tapstorm SG,Asset,Prepaid Expenses,98547.93,1.1833,116611.77
+2024-03-01,Tapstorm SG,Asset,PPE,121745.72,1.0459,127333.85
+2024-03-01,Tapstorm SG,Liability,Accounts Payable,120818.68,1.1829,142916.42
+2024-03-01,Tapstorm SG,Liability,Deferred Revenue,108805.21,1.0374,112874.52
+2024-03-01,Tapstorm SG,Liability,Accrued Expenses,117177.49,0.9351,109572.67
+2024-03-01,Tapstorm SG,Equity,Retained Earnings,102229.67,1.026,104887.64
+2024-03-01,Tapstorm SG,Equity,Share Capital,80266.22,1.0757,86342.37
+2024-03-01,TapForge CN,Asset,Cash,142132.28,0.8044,114331.21
+2024-03-01,TapForge CN,Asset,Accounts Receivable,80345.79,0.9979,80177.06
+2024-03-01,TapForge CN,Asset,Prepaid Expenses,147277.6,0.9584,141150.85
+2024-03-01,TapForge CN,Asset,PPE,119089.23,0.9446,112491.69
+2024-03-01,TapForge CN,Liability,Accounts Payable,92409.93,1.2419,114763.89
+2024-03-01,TapForge CN,Liability,Deferred Revenue,61457.33,1.1623,71431.85
+2024-03-01,TapForge CN,Liability,Accrued Expenses,110104.78,1.2269,135087.55
+2024-03-01,TapForge CN,Equity,Retained Earnings,98573.58,0.9112,89820.25
+2024-03-01,TapForge CN,Equity,Share Capital,136402.1,1.1911,162468.54
+2024-03-01,WhaleCare PH,Asset,Cash,68845.78,1.013,69740.78
+2024-03-01,WhaleCare PH,Asset,Accounts Receivable,131708.15,0.8092,106578.23
+2024-03-01,WhaleCare PH,Asset,Prepaid Expenses,144245.97,0.8908,128494.31
+2024-03-01,WhaleCare PH,Asset,PPE,78419.63,1.2893,101106.43
+2024-03-01,WhaleCare PH,Liability,Accounts Payable,122139.12,0.9936,121357.43
+2024-03-01,WhaleCare PH,Liability,Deferred Revenue,142110.56,1.1806,167775.73
+2024-03-01,WhaleCare PH,Liability,Accrued Expenses,140831.38,1.1996,168941.32
+2024-03-01,WhaleCare PH,Equity,Retained Earnings,131576.24,0.9001,118431.77
+2024-03-01,WhaleCare PH,Equity,Share Capital,151595.0,0.9729,147486.78
+2024-03-01,SummonStorm BR,Asset,Cash,102002.07,1.2956,132153.88
+2024-03-01,SummonStorm BR,Asset,Accounts Receivable,98654.28,1.001,98752.93
+2024-03-01,SummonStorm BR,Asset,Prepaid Expenses,147078.31,0.8766,128928.85
+2024-03-01,SummonStorm BR,Asset,PPE,29212.75,0.9432,27553.47
+2024-03-01,SummonStorm BR,Liability,Accounts Payable,91457.27,1.0246,93707.12
+2024-03-01,SummonStorm BR,Liability,Deferred Revenue,75508.97,1.2336,93147.87
+2024-03-01,SummonStorm BR,Liability,Accrued Expenses,101253.88,0.9795,99178.18
+2024-03-01,SummonStorm BR,Equity,Retained Earnings,112510.18,1.234,138837.56
+2024-03-01,SummonStorm BR,Equity,Share Capital,117613.8,0.9778,115002.77
+2024-04-01,Tapstorm SG,Asset,Cash,102352.27,0.937,95904.08
+2024-04-01,Tapstorm SG,Asset,Accounts Receivable,105171.58,0.9165,96389.75
+2024-04-01,Tapstorm SG,Asset,Prepaid Expenses,129076.95,1.1788,152155.91
+2024-04-01,Tapstorm SG,Asset,PPE,82858.29,1.2849,106464.62
+2024-04-01,Tapstorm SG,Liability,Accounts Payable,89662.71,1.1641,104376.36
+2024-04-01,Tapstorm SG,Liability,Deferred Revenue,72539.52,0.8822,63994.36
+2024-04-01,Tapstorm SG,Liability,Accrued Expenses,99612.93,0.8434,84013.55
+2024-04-01,Tapstorm SG,Equity,Retained Earnings,51351.95,0.8004,41102.1
+2024-04-01,Tapstorm SG,Equity,Share Capital,138989.59,1.264,175682.84
+2024-04-01,TapForge CN,Asset,Cash,123873.65,1.256,155585.3
+2024-04-01,TapForge CN,Asset,Accounts Receivable,70542.45,0.863,60878.13
+2024-04-01,TapForge CN,Asset,Prepaid Expenses,137058.13,1.1624,159316.37
+2024-04-01,TapForge CN,Asset,PPE,92019.04,1.0496,96583.18
+2024-04-01,TapForge CN,Liability,Accounts Payable,78967.19,1.172,92549.55
+2024-04-01,TapForge CN,Liability,Deferred Revenue,111209.33,1.2274,136498.33
+2024-04-01,TapForge CN,Liability,Accrued Expenses,50465.73,1.2236,61749.87
+2024-04-01,TapForge CN,Equity,Retained Earnings,89609.38,1.2266,109914.87
+2024-04-01,TapForge CN,Equity,Share Capital,111189.06,1.1453,127344.83
+2024-04-01,WhaleCare PH,Asset,Cash,153476.66,0.829,127232.15
+2024-04-01,WhaleCare PH,Asset,Accounts Receivable,61821.33,1.2503,77295.21
+2024-04-01,WhaleCare PH,Asset,Prepaid Expenses,64221.45,1.2058,77438.22
+2024-04-01,WhaleCare PH,Asset,PPE,92797.0,1.1821,109695.33
+2024-04-01,WhaleCare PH,Liability,Accounts Payable,90296.78,1.0905,98468.64
+2024-04-01,WhaleCare PH,Liability,Deferred Revenue,123523.26,1.099,135752.06
+2024-04-01,WhaleCare PH,Liability,Accrued Expenses,145688.97,1.2405,180727.17
+2024-04-01,WhaleCare PH,Equity,Retained Earnings,130815.28,0.9756,127623.39
+2024-04-01,WhaleCare PH,Equity,Share Capital,86760.95,1.2937,112242.64
+2024-04-01,SummonStorm BR,Asset,Cash,143543.52,1.0066,144490.91
+2024-04-01,SummonStorm BR,Asset,Accounts Receivable,97694.83,0.9634,94119.2
+2024-04-01,SummonStorm BR,Asset,Prepaid Expenses,115559.84,1.2284,141953.71
+2024-04-01,SummonStorm BR,Asset,PPE,112572.21,0.8269,93085.96
+2024-04-01,SummonStorm BR,Liability,Accounts Payable,113421.05,0.902,102305.79
+2024-04-01,SummonStorm BR,Liability,Deferred Revenue,126215.99,1.2131,153112.62
+2024-04-01,SummonStorm BR,Liability,Accrued Expenses,124168.14,1.2004,149051.44
+2024-04-01,SummonStorm BR,Equity,Retained Earnings,121769.4,1.1739,142945.1
+2024-04-01,SummonStorm BR,Equity,Share Capital,84261.13,1.2199,102790.15
+2024-05-01,Tapstorm SG,Asset,Cash,73932.8,0.8241,60928.02
+2024-05-01,Tapstorm SG,Asset,Accounts Receivable,122330.07,0.9858,120592.98
+2024-05-01,Tapstorm SG,Asset,Prepaid Expenses,110043.56,1.1273,124052.11
+2024-05-01,Tapstorm SG,Asset,PPE,126358.63,0.8959,113204.7
+2024-05-01,Tapstorm SG,Liability,Accounts Payable,86125.08,1.225,105503.22
+2024-05-01,Tapstorm SG,Liability,Deferred Revenue,122248.22,1.1114,135866.67
+2024-05-01,Tapstorm SG,Liability,Accrued Expenses,90900.49,0.9746,88591.62
+2024-05-01,Tapstorm SG,Equity,Retained Earnings,89049.39,0.9084,80892.47
+2024-05-01,Tapstorm SG,Equity,Share Capital,135208.02,0.946,127906.79
+2024-05-01,TapForge CN,Asset,Cash,132992.18,1.013,134721.08
+2024-05-01,TapForge CN,Asset,Accounts Receivable,106558.15,0.8661,92290.01
+2024-05-01,TapForge CN,Asset,Prepaid Expenses,89606.74,1.1204,100395.39
+2024-05-01,TapForge CN,Asset,PPE,97509.61,1.1571,112828.37
+2024-05-01,TapForge CN,Liability,Accounts Payable,104428.8,0.9087,94894.45
+2024-05-01,TapForge CN,Liability,Deferred Revenue,88373.76,1.0172,89893.79
+2024-05-01,TapForge CN,Liability,Accrued Expenses,109657.71,0.8378,91871.23
+2024-05-01,TapForge CN,Equity,Retained Earnings,84831.01,1.1219,95171.91
+2024-05-01,TapForge CN,Equity,Share Capital,146603.74,0.9404,137866.16
+2024-05-01,WhaleCare PH,Asset,Cash,40510.22,1.1536,46732.59
+2024-05-01,WhaleCare PH,Asset,Accounts Receivable,80989.52,1.0872,88051.81
+2024-05-01,WhaleCare PH,Asset,Prepaid Expenses,123189.75,0.8878,109367.86
+2024-05-01,WhaleCare PH,Asset,PPE,147309.18,1.0535,155190.22
+2024-05-01,WhaleCare PH,Liability,Accounts Payable,82050.2,0.8415,69045.24
+2024-05-01,WhaleCare PH,Liability,Deferred Revenue,93090.22,1.2369,115143.29
+2024-05-01,WhaleCare PH,Liability,Accrued Expenses,113787.51,1.0461,119033.11
+2024-05-01,WhaleCare PH,Equity,Retained Earnings,114984.3,0.9055,104118.28
+2024-05-01,WhaleCare PH,Equity,Share Capital,104075.49,1.2905,134309.42
+2024-05-01,SummonStorm BR,Asset,Cash,123419.89,0.943,116384.96
+2024-05-01,SummonStorm BR,Asset,Accounts Receivable,108875.25,0.941,102451.61
+2024-05-01,SummonStorm BR,Asset,Prepaid Expenses,109482.79,0.8596,94111.41
+2024-05-01,SummonStorm BR,Asset,PPE,147049.84,1.0709,157475.67
+2024-05-01,SummonStorm BR,Liability,Accounts Payable,95020.49,0.8763,83266.46
+2024-05-01,SummonStorm BR,Liability,Deferred Revenue,92758.68,1.0492,97322.41
+2024-05-01,SummonStorm BR,Liability,Accrued Expenses,90876.57,1.2451,113150.42
+2024-05-01,SummonStorm BR,Equity,Retained Earnings,82304.78,1.0727,88288.34
+2024-05-01,SummonStorm BR,Equity,Share Capital,96542.01,1.0982,106022.44
+2024-06-01,Tapstorm SG,Asset,Cash,81539.84,1.1769,95964.24
+2024-06-01,Tapstorm SG,Asset,Accounts Receivable,113849.58,0.9521,108396.19
+2024-06-01,Tapstorm SG,Asset,Prepaid Expenses,114252.48,1.0887,124386.67
+2024-06-01,Tapstorm SG,Asset,PPE,107253.67,1.2735,136587.55
+2024-06-01,Tapstorm SG,Liability,Accounts Payable,111958.26,0.8525,95444.42
+2024-06-01,Tapstorm SG,Liability,Deferred Revenue,124362.23,1.245,154830.98
+2024-06-01,Tapstorm SG,Liability,Accrued Expenses,69237.77,0.821,56844.21
+2024-06-01,Tapstorm SG,Equity,Retained Earnings,108184.75,0.8295,89739.25
+2024-06-01,Tapstorm SG,Equity,Share Capital,148192.71,0.9599,142250.18
+2024-06-01,TapForge CN,Asset,Cash,84049.62,0.9224,77527.37
+2024-06-01,TapForge CN,Asset,Accounts Receivable,175188.48,1.0833,189781.68
+2024-06-01,TapForge CN,Asset,Prepaid Expenses,90922.42,0.8781,79838.98
+2024-06-01,TapForge CN,Asset,PPE,107447.02,1.2121,130236.53
+2024-06-01,TapForge CN,Liability,Accounts Payable,108768.51,1.2832,139571.75
+2024-06-01,TapForge CN,Liability,Deferred Revenue,57066.38,0.8975,51217.08
+2024-06-01,TapForge CN,Liability,Accrued Expenses,76015.4,1.2705,96577.57
+2024-06-01,TapForge CN,Equity,Retained Earnings,119814.27,1.1816,141572.54
+2024-06-01,TapForge CN,Equity,Share Capital,93041.89,1.1983,111492.1
+2024-06-01,WhaleCare PH,Asset,Cash,73912.1,1.1976,88517.13
+2024-06-01,WhaleCare PH,Asset,Accounts Receivable,136472.23,0.874,119276.73
+2024-06-01,WhaleCare PH,Asset,Prepaid Expenses,109262.86,1.295,141495.4
+2024-06-01,WhaleCare PH,Asset,PPE,95760.04,0.801,76703.79
+2024-06-01,WhaleCare PH,Liability,Accounts Payable,168534.47,0.8819,148630.55
+2024-06-01,WhaleCare PH,Liability,Deferred Revenue,70008.88,0.9045,63323.03
+2024-06-01,WhaleCare PH,Liability,Accrued Expenses,69013.41,1.1201,77301.92
+2024-06-01,WhaleCare PH,Equity,Retained Earnings,88063.85,0.8813,77610.67
+2024-06-01,WhaleCare PH,Equity,Share Capital,108368.25,0.812,87995.02
+2024-06-01,SummonStorm BR,Asset,Cash,113561.34,0.8921,101308.07
+2024-06-01,SummonStorm BR,Asset,Accounts Receivable,78181.63,1.2027,94029.05
+2024-06-01,SummonStorm BR,Asset,Prepaid Expenses,58238.19,0.8709,50719.64
+2024-06-01,SummonStorm BR,Asset,PPE,117521.58,1.2624,148359.24
+2024-06-01,SummonStorm BR,Liability,Accounts Payable,86748.3,1.1793,102302.27
+2024-06-01,SummonStorm BR,Liability,Deferred Revenue,100239.49,1.143,114573.74
+2024-06-01,SummonStorm BR,Liability,Accrued Expenses,102589.04,0.9591,98393.15
+2024-06-01,SummonStorm BR,Equity,Retained Earnings,128690.94,1.0588,136257.97
+2024-06-01,SummonStorm BR,Equity,Share Capital,84620.53,1.2776,108111.19
+2024-07-01,Tapstorm SG,Asset,Cash,147662.75,1.247,184135.45
+2024-07-01,Tapstorm SG,Asset,Accounts Receivable,95601.0,1.1294,107971.77
+2024-07-01,Tapstorm SG,Asset,Prepaid Expenses,59734.81,0.9885,59047.86
+2024-07-01,Tapstorm SG,Asset,PPE,69758.56,0.8251,57557.79
+2024-07-01,Tapstorm SG,Liability,Accounts Payable,68410.17,1.1651,79704.69
+2024-07-01,Tapstorm SG,Liability,Deferred Revenue,78150.06,0.8511,66513.52
+2024-07-01,Tapstorm SG,Liability,Accrued Expenses,107744.69,0.8026,86475.89
+2024-07-01,Tapstorm SG,Equity,Retained Earnings,130184.12,1.2275,159801.01
+2024-07-01,Tapstorm SG,Equity,Share Capital,33358.36,1.0743,35836.89
+2024-07-01,TapForge CN,Asset,Cash,126849.63,0.8428,106908.87
+2024-07-01,TapForge CN,Asset,Accounts Receivable,142397.49,0.9775,139193.55
+2024-07-01,TapForge CN,Asset,Prepaid Expenses,161537.93,1.0577,170858.67
+2024-07-01,TapForge CN,Asset,PPE,112591.54,0.8794,99013.0
+2024-07-01,TapForge CN,Liability,Accounts Payable,46652.35,1.0855,50641.13
+2024-07-01,TapForge CN,Liability,Deferred Revenue,59684.83,1.1078,66118.85
+2024-07-01,TapForge CN,Liability,Accrued Expenses,126769.96,1.2072,153036.7
+2024-07-01,TapForge CN,Equity,Retained Earnings,102799.61,0.9058,93115.89
+2024-07-01,TapForge CN,Equity,Share Capital,81099.46,1.1196,90798.96
+2024-07-01,WhaleCare PH,Asset,Cash,55237.26,1.0227,56491.15
+2024-07-01,WhaleCare PH,Asset,Accounts Receivable,67703.73,1.0091,68319.83
+2024-07-01,WhaleCare PH,Asset,Prepaid Expenses,115746.11,0.9003,104206.22
+2024-07-01,WhaleCare PH,Asset,PPE,114374.95,0.845,96646.83
+2024-07-01,WhaleCare PH,Liability,Accounts Payable,128989.59,0.9763,125932.54
+2024-07-01,WhaleCare PH,Liability,Deferred Revenue,139595.79,0.9777,136482.8
+2024-07-01,WhaleCare PH,Liability,Accrued Expenses,73669.35,0.9092,66980.17
+2024-07-01,WhaleCare PH,Equity,Retained Earnings,127685.31,0.9182,117240.65
+2024-07-01,WhaleCare PH,Equity,Share Capital,77742.33,1.1995,93251.92
+2024-07-01,SummonStorm BR,Asset,Cash,96250.24,0.9255,89079.6
+2024-07-01,SummonStorm BR,Asset,Accounts Receivable,78022.36,1.1882,92706.17
+2024-07-01,SummonStorm BR,Asset,Prepaid Expenses,123102.56,1.2906,158876.16
+2024-07-01,SummonStorm BR,Asset,PPE,82612.1,1.0725,88601.48
+2024-07-01,SummonStorm BR,Liability,Accounts Payable,119428.98,1.0835,129401.3
+2024-07-01,SummonStorm BR,Liability,Deferred Revenue,114364.36,0.9548,109195.09
+2024-07-01,SummonStorm BR,Liability,Accrued Expenses,134165.33,1.1035,148051.44
+2024-07-01,SummonStorm BR,Equity,Retained Earnings,117534.06,1.2508,147011.6
+2024-07-01,SummonStorm BR,Equity,Share Capital,156074.4,1.1002,171713.05
+2024-08-01,Tapstorm SG,Asset,Cash,80723.01,1.1626,93848.57
+2024-08-01,Tapstorm SG,Asset,Accounts Receivable,123849.58,1.0913,135157.05
+2024-08-01,Tapstorm SG,Asset,Prepaid Expenses,112037.19,1.0491,117538.22
+2024-08-01,Tapstorm SG,Asset,PPE,77363.23,0.8846,68435.51
+2024-08-01,Tapstorm SG,Liability,Accounts Payable,128701.78,1.0755,138418.76
+2024-08-01,Tapstorm SG,Liability,Deferred Revenue,125529.2,1.0283,129081.68
+2024-08-01,Tapstorm SG,Liability,Accrued Expenses,80649.41,1.0616,85617.41
+2024-08-01,Tapstorm SG,Equity,Retained Earnings,49851.06,0.8131,40533.9
+2024-08-01,Tapstorm SG,Equity,Share Capital,96868.05,1.2168,117869.04
+2024-08-01,TapForge CN,Asset,Cash,79428.99,1.1862,94218.67
+2024-08-01,TapForge CN,Asset,Accounts Receivable,104887.8,1.201,125970.25
+2024-08-01,TapForge CN,Asset,Prepaid Expenses,100329.26,0.8697,87256.36
+2024-08-01,TapForge CN,Asset,PPE,153446.75,1.0777,165369.56
+2024-08-01,TapForge CN,Liability,Accounts Payable,77871.27,0.92,71641.57
+2024-08-01,TapForge CN,Liability,Deferred Revenue,117751.55,1.0749,126571.14
+2024-08-01,TapForge CN,Liability,Accrued Expenses,59447.14,1.1635,69166.75
+2024-08-01,TapForge CN,Equity,Retained Earnings,70628.16,1.2936,91364.59
+2024-08-01,TapForge CN,Equity,Share Capital,86724.68,1.1329,98250.39
+2024-08-01,WhaleCare PH,Asset,Cash,74638.54,1.1434,85341.71
+2024-08-01,WhaleCare PH,Asset,Accounts Receivable,113090.26,0.8674,98094.49
+2024-08-01,WhaleCare PH,Asset,Prepaid Expenses,99161.46,0.931,92319.32
+2024-08-01,WhaleCare PH,Asset,PPE,124738.36,1.1382,141977.2
+2024-08-01,WhaleCare PH,Liability,Accounts Payable,69212.44,1.0433,72209.34
+2024-08-01,WhaleCare PH,Liability,Deferred Revenue,105361.77,0.8835,93087.12
+2024-08-01,WhaleCare PH,Liability,Accrued Expenses,77677.34,1.0393,80730.06
+2024-08-01,WhaleCare PH,Equity,Retained Earnings,138169.77,1.0346,142950.44
+2024-08-01,WhaleCare PH,Equity,Share Capital,69215.76,0.81,56064.77
+2024-08-01,SummonStorm BR,Asset,Cash,47269.78,1.1612,54889.67
+2024-08-01,SummonStorm BR,Asset,Accounts Receivable,82394.52,1.148,94588.91
+2024-08-01,SummonStorm BR,Asset,Prepaid Expenses,66356.0,0.9177,60894.9
+2024-08-01,SummonStorm BR,Asset,PPE,104295.96,0.9117,95086.63
+2024-08-01,SummonStorm BR,Liability,Accounts Payable,117456.39,1.0619,124726.94
+2024-08-01,SummonStorm BR,Liability,Deferred Revenue,121893.26,1.1614,141566.83
+2024-08-01,SummonStorm BR,Liability,Accrued Expenses,35936.28,1.0943,39325.07
+2024-08-01,SummonStorm BR,Equity,Retained Earnings,121668.23,1.113,135416.74
+2024-08-01,SummonStorm BR,Equity,Share Capital,106814.78,1.0134,108246.1
+2024-09-01,Tapstorm SG,Asset,Cash,121044.99,1.2924,156438.55
+2024-09-01,Tapstorm SG,Asset,Accounts Receivable,126383.55,0.9517,120279.22
+2024-09-01,Tapstorm SG,Asset,Prepaid Expenses,81488.17,1.1687,95235.22
+2024-09-01,Tapstorm SG,Asset,PPE,72855.46,1.1785,85860.16
+2024-09-01,Tapstorm SG,Liability,Accounts Payable,109826.2,0.9284,101962.64
+2024-09-01,Tapstorm SG,Liability,Deferred Revenue,128945.51,1.0654,137378.55
+2024-09-01,Tapstorm SG,Liability,Accrued Expenses,62448.63,1.1742,73327.18
+2024-09-01,Tapstorm SG,Equity,Retained Earnings,101896.99,0.8992,91625.77
+2024-09-01,Tapstorm SG,Equity,Share Capital,84436.27,0.8818,74455.9
+2024-09-01,TapForge CN,Asset,Cash,84328.37,1.1728,98900.31
+2024-09-01,TapForge CN,Asset,Accounts Receivable,88307.55,1.0377,91636.74
+2024-09-01,TapForge CN,Asset,Prepaid Expenses,119650.93,1.2526,149874.75
+2024-09-01,TapForge CN,Asset,PPE,117363.01,0.983,115367.84
+2024-09-01,TapForge CN,Liability,Accounts Payable,73358.8,0.9972,73153.4
+2024-09-01,TapForge CN,Liability,Deferred Revenue,58786.47,0.9474,55694.3
+2024-09-01,TapForge CN,Liability,Accrued Expenses,132233.43,1.2628,166984.38
+2024-09-01,TapForge CN,Equity,Retained Earnings,124073.21,0.8732,108340.73
+2024-09-01,TapForge CN,Equity,Share Capital,137157.94,1.0493,143919.83
+2024-09-01,WhaleCare PH,Asset,Cash,116433.82,0.9578,111520.31
+2024-09-01,WhaleCare PH,Asset,Accounts Receivable,139991.18,1.0163,142273.04
+2024-09-01,WhaleCare PH,Asset,Prepaid Expenses,30520.62,1.0915,33313.26
+2024-09-01,WhaleCare PH,Asset,PPE,96520.05,0.9151,88325.5
+2024-09-01,WhaleCare PH,Liability,Accounts Payable,79180.99,1.2343,97733.1
+2024-09-01,WhaleCare PH,Liability,Deferred Revenue,159557.64,0.8696,138751.32
+2024-09-01,WhaleCare PH,Liability,Accrued Expenses,64022.52,1.245,79708.04
+2024-09-01,WhaleCare PH,Equity,Retained Earnings,59701.74,1.1836,70662.98
+2024-09-01,WhaleCare PH,Equity,Share Capital,81186.55,1.1021,89475.7
+2024-09-01,SummonStorm BR,Asset,Cash,84245.36,1.0131,85348.97
+2024-09-01,SummonStorm BR,Asset,Accounts Receivable,88708.63,0.9601,85169.16
+2024-09-01,SummonStorm BR,Asset,Prepaid Expenses,127107.13,0.9248,117548.67
+2024-09-01,SummonStorm BR,Asset,PPE,144458.01,0.9794,141482.17
+2024-09-01,SummonStorm BR,Liability,Accounts Payable,129101.25,1.0591,136731.13
+2024-09-01,SummonStorm BR,Liability,Deferred Revenue,174348.78,0.9805,170948.98
+2024-09-01,SummonStorm BR,Liability,Accrued Expenses,138515.14,1.1843,164043.48
+2024-09-01,SummonStorm BR,Equity,Retained Earnings,81014.17,1.1524,93360.73
+2024-09-01,SummonStorm BR,Equity,Share Capital,96626.15,0.8242,79639.27
+2024-10-01,Tapstorm SG,Asset,Cash,123726.52,1.2475,154348.83
+2024-10-01,Tapstorm SG,Asset,Accounts Receivable,65305.95,1.1088,72411.24
+2024-10-01,Tapstorm SG,Asset,Prepaid Expenses,90648.26,1.1372,103085.2
+2024-10-01,Tapstorm SG,Asset,PPE,119520.46,1.2574,150285.03
+2024-10-01,Tapstorm SG,Liability,Accounts Payable,157362.46,1.0004,157425.4
+2024-10-01,Tapstorm SG,Liability,Deferred Revenue,101000.28,1.0002,101020.48
+2024-10-01,Tapstorm SG,Liability,Accrued Expenses,105788.83,0.8255,87328.68
+2024-10-01,Tapstorm SG,Equity,Retained Earnings,115489.86,1.1364,131242.68
+2024-10-01,Tapstorm SG,Equity,Share Capital,47976.59,0.9842,47218.56
+2024-10-01,TapForge CN,Asset,Cash,89171.85,1.1037,98418.97
+2024-10-01,TapForge CN,Asset,Accounts Receivable,74356.76,0.8203,60994.85
+2024-10-01,TapForge CN,Asset,Prepaid Expenses,123322.73,1.2922,159357.63
+2024-10-01,TapForge CN,Asset,PPE,86841.64,0.8282,71922.25
+2024-10-01,TapForge CN,Liability,Accounts Payable,136484.14,0.8216,112135.37
+2024-10-01,TapForge CN,Liability,Deferred Revenue,113078.54,1.0716,121174.96
+2024-10-01,TapForge CN,Liability,Accrued Expenses,95220.06,0.9506,90516.19
+2024-10-01,TapForge CN,Equity,Retained Earnings,83132.0,0.8944,74353.26
+2024-10-01,TapForge CN,Equity,Share Capital,78589.3,0.924,72616.51
+2024-10-01,WhaleCare PH,Asset,Cash,148368.42,1.086,161128.1
+2024-10-01,WhaleCare PH,Asset,Accounts Receivable,38930.72,1.2683,49375.83
+2024-10-01,WhaleCare PH,Asset,Prepaid Expenses,97490.26,1.0947,106722.59
+2024-10-01,WhaleCare PH,Asset,PPE,102568.49,1.06,108722.6
+2024-10-01,WhaleCare PH,Liability,Accounts Payable,32229.47,1.0254,33048.1
+2024-10-01,WhaleCare PH,Liability,Deferred Revenue,139268.18,1.262,175756.44
+2024-10-01,WhaleCare PH,Liability,Accrued Expenses,106324.51,0.9286,98732.94
+2024-10-01,WhaleCare PH,Equity,Retained Earnings,121930.07,1.0256,125051.48
+2024-10-01,WhaleCare PH,Equity,Share Capital,122311.51,1.079,131974.12
+2024-10-01,SummonStorm BR,Asset,Cash,127307.93,0.9998,127282.47
+2024-10-01,SummonStorm BR,Asset,Accounts Receivable,124290.03,0.8157,101383.38
+2024-10-01,SummonStorm BR,Asset,Prepaid Expenses,124273.47,1.2789,158933.34
+2024-10-01,SummonStorm BR,Asset,PPE,111713.94,0.8226,91895.89
+2024-10-01,SummonStorm BR,Liability,Accounts Payable,129666.03,1.0643,138003.56
+2024-10-01,SummonStorm BR,Liability,Deferred Revenue,181770.28,1.1122,202164.91
+2024-10-01,SummonStorm BR,Liability,Accrued Expenses,74380.25,1.0936,81342.24
+2024-10-01,SummonStorm BR,Equity,Retained Earnings,115440.85,0.9849,113697.69
+2024-10-01,SummonStorm BR,Equity,Share Capital,125158.98,1.182,147937.91
+2024-11-01,Tapstorm SG,Asset,Cash,53839.49,0.8497,45747.41
+2024-11-01,Tapstorm SG,Asset,Accounts Receivable,156793.18,1.1786,184796.44
+2024-11-01,Tapstorm SG,Asset,Prepaid Expenses,119514.32,1.2101,144624.28
+2024-11-01,Tapstorm SG,Asset,PPE,109354.52,0.9816,107342.4
+2024-11-01,Tapstorm SG,Liability,Accounts Payable,89208.01,1.216,108476.94
+2024-11-01,Tapstorm SG,Liability,Deferred Revenue,125368.43,0.8234,103228.37
+2024-11-01,Tapstorm SG,Liability,Accrued Expenses,66494.73,0.8479,56380.88
+2024-11-01,Tapstorm SG,Equity,Retained Earnings,151902.67,1.2809,194572.13
+2024-11-01,Tapstorm SG,Equity,Share Capital,131434.17,0.8054,105857.08
+2024-11-01,TapForge CN,Asset,Cash,96311.64,1.2704,122354.31
+2024-11-01,TapForge CN,Asset,Accounts Receivable,143240.94,0.8617,123430.72
+2024-11-01,TapForge CN,Asset,Prepaid Expenses,47787.17,0.8491,40576.09
+2024-11-01,TapForge CN,Asset,PPE,69777.94,1.2267,85596.6
+2024-11-01,TapForge CN,Liability,Accounts Payable,101875.93,1.1116,113245.28
+2024-11-01,TapForge CN,Liability,Deferred Revenue,103146.91,0.9308,96009.14
+2024-11-01,TapForge CN,Liability,Accrued Expenses,113601.05,1.2056,136957.43
+2024-11-01,TapForge CN,Equity,Retained Earnings,106347.23,1.231,130913.44
+2024-11-01,TapForge CN,Equity,Share Capital,137511.79,0.88,121010.38
+2024-11-01,WhaleCare PH,Asset,Cash,56408.33,1.1757,66319.27
+2024-11-01,WhaleCare PH,Asset,Accounts Receivable,42687.64,1.2881,54985.95
+2024-11-01,WhaleCare PH,Asset,Prepaid Expenses,58192.95,0.826,48067.38
+2024-11-01,WhaleCare PH,Asset,PPE,61211.87,0.8412,51491.43
+2024-11-01,WhaleCare PH,Liability,Accounts Payable,101391.84,0.9402,95328.61
+2024-11-01,WhaleCare PH,Liability,Deferred Revenue,96100.62,0.8032,77188.02
+2024-11-01,WhaleCare PH,Liability,Accrued Expenses,110074.48,1.0143,111648.55
+2024-11-01,WhaleCare PH,Equity,Retained Earnings,111360.61,0.9646,107418.44
+2024-11-01,WhaleCare PH,Equity,Share Capital,108839.35,1.0996,119679.75
+2024-11-01,SummonStorm BR,Asset,Cash,54476.43,0.8983,48936.18
+2024-11-01,SummonStorm BR,Asset,Accounts Receivable,94191.74,0.9618,90593.62
+2024-11-01,SummonStorm BR,Asset,Prepaid Expenses,85390.68,0.9668,82555.71
+2024-11-01,SummonStorm BR,Asset,PPE,137531.02,0.9007,123874.19
+2024-11-01,SummonStorm BR,Liability,Accounts Payable,111343.47,1.2967,144379.08
+2024-11-01,SummonStorm BR,Liability,Deferred Revenue,156729.23,1.0353,162261.77
+2024-11-01,SummonStorm BR,Liability,Accrued Expenses,71297.16,0.8959,63875.13
+2024-11-01,SummonStorm BR,Equity,Retained Earnings,91963.2,0.8835,81249.49
+2024-11-01,SummonStorm BR,Equity,Share Capital,128397.95,1.1948,153409.87
+2024-12-01,Tapstorm SG,Asset,Cash,86096.21,1.1338,97615.88
+2024-12-01,Tapstorm SG,Asset,Accounts Receivable,112273.15,1.0101,113407.11
+2024-12-01,Tapstorm SG,Asset,Prepaid Expenses,82747.48,1.276,105585.78
+2024-12-01,Tapstorm SG,Asset,PPE,135959.99,1.0072,136938.9
+2024-12-01,Tapstorm SG,Liability,Accounts Payable,58862.04,1.0571,62223.06
+2024-12-01,Tapstorm SG,Liability,Deferred Revenue,158492.77,1.2422,196879.72
+2024-12-01,Tapstorm SG,Liability,Accrued Expenses,124108.26,1.0399,129060.18
+2024-12-01,Tapstorm SG,Equity,Retained Earnings,115959.82,0.8123,94194.16
+2024-12-01,Tapstorm SG,Equity,Share Capital,112842.77,0.9815,110755.18
+2024-12-01,TapForge CN,Asset,Cash,80206.71,1.1252,90248.59
+2024-12-01,TapForge CN,Asset,Accounts Receivable,122331.68,1.1936,146015.09
+2024-12-01,TapForge CN,Asset,Prepaid Expenses,85556.85,1.1921,101992.32
+2024-12-01,TapForge CN,Asset,PPE,38008.22,1.143,43443.4
+2024-12-01,TapForge CN,Liability,Accounts Payable,103911.16,1.0119,105147.7
+2024-12-01,TapForge CN,Liability,Deferred Revenue,78825.31,0.9622,75845.71
+2024-12-01,TapForge CN,Liability,Accrued Expenses,105502.33,1.0256,108203.19
+2024-12-01,TapForge CN,Equity,Retained Earnings,100663.87,1.018,102475.82
+2024-12-01,TapForge CN,Equity,Share Capital,58638.3,0.8472,49678.37
+2024-12-01,WhaleCare PH,Asset,Cash,149116.81,1.2497,186351.28
+2024-12-01,WhaleCare PH,Asset,Accounts Receivable,81147.38,1.0029,81382.71
+2024-12-01,WhaleCare PH,Asset,Prepaid Expenses,133149.4,0.8388,111685.72
+2024-12-01,WhaleCare PH,Asset,PPE,79720.45,0.8525,67961.68
+2024-12-01,WhaleCare PH,Liability,Accounts Payable,101499.47,1.0981,111456.57
+2024-12-01,WhaleCare PH,Liability,Deferred Revenue,109505.74,1.086,118923.23
+2024-12-01,WhaleCare PH,Liability,Accrued Expenses,40028.04,1.2118,48505.98
+2024-12-01,WhaleCare PH,Equity,Retained Earnings,82450.77,0.8078,66603.73
+2024-12-01,WhaleCare PH,Equity,Share Capital,108854.64,1.0573,115092.01
+2024-12-01,SummonStorm BR,Asset,Cash,102688.56,1.1492,118009.69
+2024-12-01,SummonStorm BR,Asset,Accounts Receivable,101996.72,1.1645,118775.18
+2024-12-01,SummonStorm BR,Asset,Prepaid Expenses,128297.46,1.2191,156407.43
+2024-12-01,SummonStorm BR,Asset,PPE,76649.06,1.1846,90798.48
+2024-12-01,SummonStorm BR,Liability,Accounts Payable,102923.19,1.0892,112103.94
+2024-12-01,SummonStorm BR,Liability,Deferred Revenue,60095.39,1.1282,67799.62
+2024-12-01,SummonStorm BR,Liability,Accrued Expenses,85644.4,0.9619,82381.35
+2024-12-01,SummonStorm BR,Equity,Retained Earnings,137642.47,1.1062,152260.1
+2024-12-01,SummonStorm BR,Equity,Share Capital,101133.46,1.2912,130583.52

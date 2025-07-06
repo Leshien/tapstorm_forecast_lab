@@ -1,0 +1,1681 @@
+Date,Entity,Flow Type,Account Group,Local Currency Flow,FX Rate,EUR Flow
+2020-01-01,Tapstorm SG,Operating,Net Income,-19626.42,1.0133,-19887.45
+2020-01-01,Tapstorm SG,Operating,Depreciation,-11836.44,0.8251,-9766.25
+2020-01-01,Tapstorm SG,Operating,Change in Working Capital,-15793.27,0.9289,-14670.37
+2020-01-01,Tapstorm SG,Investing,CapEx,23714.9,0.8824,20926.03
+2020-01-01,Tapstorm SG,Investing,Purchase of Intangibles,30440.19,1.2784,38914.74
+2020-01-01,Tapstorm SG,Financing,Equity Issuance,-7476.42,1.165,-8710.03
+2020-01-01,Tapstorm SG,Financing,Loan Repayment,-16538.78,1.0046,-16614.86
+2020-01-01,TapForge CN,Operating,Net Income,-25395.71,1.1205,-28455.89
+2020-01-01,TapForge CN,Operating,Depreciation,-9876.99,1.2852,-12693.91
+2020-01-01,TapForge CN,Operating,Change in Working Capital,-29707.82,1.2335,-36644.6
+2020-01-01,TapForge CN,Investing,CapEx,-45685.53,1.0326,-47174.88
+2020-01-01,TapForge CN,Investing,Purchase of Intangibles,-23781.39,0.8266,-19657.7
+2020-01-01,TapForge CN,Financing,Equity Issuance,-33821.16,0.8121,-27466.16
+2020-01-01,TapForge CN,Financing,Loan Repayment,9690.4,1.0776,10442.38
+2020-01-01,WhaleCare PH,Operating,Net Income,-17432.34,0.9025,-15732.69
+2020-01-01,WhaleCare PH,Operating,Depreciation,-36934.92,1.2601,-46541.69
+2020-01-01,WhaleCare PH,Operating,Change in Working Capital,8629.61,1.1787,10171.72
+2020-01-01,WhaleCare PH,Investing,CapEx,16481.9,1.2727,20976.51
+2020-01-01,WhaleCare PH,Investing,Purchase of Intangibles,-38714.82,1.2376,-47913.46
+2020-01-01,WhaleCare PH,Financing,Equity Issuance,-17680.52,0.9913,-17526.7
+2020-01-01,WhaleCare PH,Financing,Loan Repayment,1001.13,0.8514,852.36
+2020-01-01,SummonStorm BR,Operating,Net Income,-18235.39,1.2569,-22920.06
+2020-01-01,SummonStorm BR,Operating,Depreciation,45925.95,1.2884,59170.99
+2020-01-01,SummonStorm BR,Operating,Change in Working Capital,42276.81,0.9973,42162.66
+2020-01-01,SummonStorm BR,Investing,CapEx,-24052.27,1.2361,-29731.01
+2020-01-01,SummonStorm BR,Investing,Purchase of Intangibles,-22199.9,1.2245,-27183.78
+2020-01-01,SummonStorm BR,Financing,Equity Issuance,53309.07,0.8563,45648.56
+2020-01-01,SummonStorm BR,Financing,Loan Repayment,13769.42,1.208,16633.46
+2020-02-01,Tapstorm SG,Operating,Net Income,17299.45,0.9433,16318.57
+2020-02-01,Tapstorm SG,Operating,Depreciation,37712.49,1.2462,46997.31
+2020-02-01,Tapstorm SG,Operating,Change in Working Capital,-14603.65,1.0227,-14935.15
+2020-02-01,Tapstorm SG,Investing,CapEx,29400.58,1.1326,33299.1
+2020-02-01,Tapstorm SG,Investing,Purchase of Intangibles,10163.38,0.9299,9450.93
+2020-02-01,Tapstorm SG,Financing,Equity Issuance,42882.18,1.1609,49781.92
+2020-02-01,Tapstorm SG,Financing,Loan Repayment,19811.57,1.2822,25402.4
+2020-02-01,TapForge CN,Operating,Net Income,-17204.52,0.966,-16619.57
+2020-02-01,TapForge CN,Operating,Depreciation,-14882.9,1.1771,-17518.66
+2020-02-01,TapForge CN,Operating,Change in Working Capital,11202.18,0.876,9813.11
+2020-02-01,TapForge CN,Investing,CapEx,-20807.47,1.1531,-23993.09
+2020-02-01,TapForge CN,Investing,Purchase of Intangibles,3300.34,0.9923,3274.93
+2020-02-01,TapForge CN,Financing,Equity Issuance,-11918.26,1.0273,-12243.63
+2020-02-01,TapForge CN,Financing,Loan Repayment,-25202.68,1.2954,-32647.55
+2020-02-01,WhaleCare PH,Operating,Net Income,26058.25,1.257,32755.22
+2020-02-01,WhaleCare PH,Operating,Depreciation,-24152.58,0.8269,-19971.77
+2020-02-01,WhaleCare PH,Operating,Change in Working Capital,-15892.13,0.9783,-15547.27
+2020-02-01,WhaleCare PH,Investing,CapEx,43163.57,0.8072,34841.63
+2020-02-01,WhaleCare PH,Investing,Purchase of Intangibles,35430.34,1.1874,42069.99
+2020-02-01,WhaleCare PH,Financing,Equity Issuance,23750.69,1.2394,29436.61
+2020-02-01,WhaleCare PH,Financing,Loan Repayment,23617.11,1.1064,26129.97
+2020-02-01,SummonStorm BR,Operating,Net Income,-19308.55,1.18,-22784.09
+2020-02-01,SummonStorm BR,Operating,Depreciation,-17283.03,0.9803,-16942.55
+2020-02-01,SummonStorm BR,Operating,Change in Working Capital,-23119.56,1.2896,-29814.98
+2020-02-01,SummonStorm BR,Investing,CapEx,36342.65,1.1225,40794.62
+2020-02-01,SummonStorm BR,Investing,Purchase of Intangibles,-19638.06,1.0653,-20920.43
+2020-02-01,SummonStorm BR,Financing,Equity Issuance,40365.69,1.0159,41007.5
+2020-02-01,SummonStorm BR,Financing,Loan Repayment,-17188.79,1.1285,-19397.55
+2020-03-01,Tapstorm SG,Operating,Net Income,-42896.29,0.9789,-41991.18
+2020-03-01,Tapstorm SG,Operating,Depreciation,-21432.36,1.2628,-27064.78
+2020-03-01,Tapstorm SG,Operating,Change in Working Capital,33164.58,1.1714,38848.99
+2020-03-01,Tapstorm SG,Investing,CapEx,52309.63,1.0244,53585.98
+2020-03-01,Tapstorm SG,Investing,Purchase of Intangibles,54019.59,0.8981,48514.99
+2020-03-01,Tapstorm SG,Financing,Equity Issuance,8893.61,0.9949,8848.25
+2020-03-01,Tapstorm SG,Financing,Loan Repayment,37404.45,1.0835,40527.72
+2020-03-01,TapForge CN,Operating,Net Income,13670.01,0.8548,11685.12
+2020-03-01,TapForge CN,Operating,Depreciation,29502.79,0.8841,26083.42
+2020-03-01,TapForge CN,Operating,Change in Working Capital,30865.86,1.0647,32862.88
+2020-03-01,TapForge CN,Investing,CapEx,-35334.67,1.1989,-42362.74
+2020-03-01,TapForge CN,Investing,Purchase of Intangibles,-9643.3,0.975,-9402.22
+2020-03-01,TapForge CN,Financing,Equity Issuance,-10856.57,1.0378,-11266.95
+2020-03-01,TapForge CN,Financing,Loan Repayment,15071.0,1.0343,15587.94
+2020-03-01,WhaleCare PH,Operating,Net Income,31998.53,0.9672,30948.98
+2020-03-01,WhaleCare PH,Operating,Depreciation,27946.96,1.0663,29799.84
+2020-03-01,WhaleCare PH,Operating,Change in Working Capital,-29937.98,0.919,-27513.0
+2020-03-01,WhaleCare PH,Investing,CapEx,10882.24,1.2044,13106.57
+2020-03-01,WhaleCare PH,Investing,Purchase of Intangibles,27009.41,0.9853,26612.37
+2020-03-01,WhaleCare PH,Financing,Equity Issuance,-17093.31,1.0973,-18756.49
+2020-03-01,WhaleCare PH,Financing,Loan Repayment,17614.14,1.1506,20266.83
+2020-03-01,SummonStorm BR,Operating,Net Income,23464.23,0.978,22948.02
+2020-03-01,SummonStorm BR,Operating,Depreciation,-6809.67,0.8666,-5901.26
+2020-03-01,SummonStorm BR,Operating,Change in Working Capital,31366.2,1.1473,35986.44
+2020-03-01,SummonStorm BR,Investing,CapEx,7801.3,1.1954,9325.67
+2020-03-01,SummonStorm BR,Investing,Purchase of Intangibles,20065.39,1.2252,24584.12
+2020-03-01,SummonStorm BR,Financing,Equity Issuance,33901.5,1.2637,42841.33
+2020-03-01,SummonStorm BR,Financing,Loan Repayment,6862.03,1.0888,7471.38
+2020-04-01,Tapstorm SG,Operating,Net Income,8166.3,1.2885,10522.28
+2020-04-01,Tapstorm SG,Operating,Depreciation,37426.97,1.0467,39174.81
+2020-04-01,Tapstorm SG,Operating,Change in Working Capital,-12101.39,0.9722,-11764.97
+2020-04-01,Tapstorm SG,Investing,CapEx,36613.71,1.2771,46759.37
+2020-04-01,Tapstorm SG,Investing,Purchase of Intangibles,30271.54,0.829,25095.11
+2020-04-01,Tapstorm SG,Financing,Equity Issuance,8921.32,1.0551,9412.88
+2020-04-01,Tapstorm SG,Financing,Loan Repayment,27054.5,1.2555,33966.92
+2020-04-01,TapForge CN,Operating,Net Income,30435.69,0.8488,25833.81
+2020-04-01,TapForge CN,Operating,Depreciation,-8266.74,0.9538,-7884.82
+2020-04-01,TapForge CN,Operating,Change in Working Capital,25729.43,0.9205,23683.94
+2020-04-01,TapForge CN,Investing,CapEx,35028.8,0.8106,28394.35
+2020-04-01,TapForge CN,Investing,Purchase of Intangibles,24018.91,1.2517,30064.47
+2020-04-01,TapForge CN,Financing,Equity Issuance,-26798.06,1.1925,-31956.69
+2020-04-01,TapForge CN,Financing,Loan Repayment,-23319.24,1.1493,-26800.8
+2020-04-01,WhaleCare PH,Operating,Net Income,37281.77,1.068,39816.93
+2020-04-01,WhaleCare PH,Operating,Depreciation,-23834.61,1.0569,-25190.8
+2020-04-01,WhaleCare PH,Operating,Change in Working Capital,16627.05,1.1705,19461.96
+2020-04-01,WhaleCare PH,Investing,CapEx,-22305.52,1.0742,-23960.59
+2020-04-01,WhaleCare PH,Investing,Purchase of Intangibles,6234.33,0.8046,5016.14
+2020-04-01,WhaleCare PH,Financing,Equity Issuance,-11171.0,1.2885,-14393.83
+2020-04-01,WhaleCare PH,Financing,Loan Repayment,-15065.03,0.9128,-13751.36
+2020-04-01,SummonStorm BR,Operating,Net Income,-43290.1,1.1204,-48502.23
+2020-04-01,SummonStorm BR,Operating,Depreciation,37226.01,1.0679,39753.66
+2020-04-01,SummonStorm BR,Operating,Change in Working Capital,-5283.03,1.1997,-6338.05
+2020-04-01,SummonStorm BR,Investing,CapEx,-12410.79,0.9589,-11900.71
+2020-04-01,SummonStorm BR,Investing,Purchase of Intangibles,17512.93,0.914,16006.82
+2020-04-01,SummonStorm BR,Financing,Equity Issuance,22707.66,1.2212,27730.59
+2020-04-01,SummonStorm BR,Financing,Loan Repayment,-12634.29,1.1985,-15142.2
+2020-05-01,Tapstorm SG,Operating,Net Income,17649.93,1.0714,18910.14
+2020-05-01,Tapstorm SG,Operating,Depreciation,-37297.36,0.9159,-34160.65
+2020-05-01,Tapstorm SG,Operating,Change in Working Capital,-13003.03,0.9751,-12679.25
+2020-05-01,Tapstorm SG,Investing,CapEx,-31742.92,0.8543,-27117.98
+2020-05-01,Tapstorm SG,Investing,Purchase of Intangibles,34143.01,0.8811,30083.41
+2020-05-01,Tapstorm SG,Financing,Equity Issuance,53783.48,0.9029,48561.1
+2020-05-01,Tapstorm SG,Financing,Loan Repayment,16752.07,0.9383,15718.47
+2020-05-01,TapForge CN,Operating,Net Income,-11582.12,1.0378,-12019.92
+2020-05-01,TapForge CN,Operating,Depreciation,-4361.13,0.9184,-4005.26
+2020-05-01,TapForge CN,Operating,Change in Working Capital,-32925.67,1.2771,-42049.37
+2020-05-01,TapForge CN,Investing,CapEx,-30142.83,1.0847,-32695.93
+2020-05-01,TapForge CN,Investing,Purchase of Intangibles,23757.84,1.0705,25432.77
+2020-05-01,TapForge CN,Financing,Equity Issuance,-28877.6,0.8765,-25311.22
+2020-05-01,TapForge CN,Financing,Loan Repayment,25995.74,0.8155,21199.53
+2020-05-01,WhaleCare PH,Operating,Net Income,-20096.02,1.2169,-24454.85
+2020-05-01,WhaleCare PH,Operating,Depreciation,-20971.5,1.1402,-23911.7
+2020-05-01,WhaleCare PH,Operating,Change in Working Capital,23838.47,0.8397,20017.16
+2020-05-01,WhaleCare PH,Investing,CapEx,54415.92,1.0942,59541.9
+2020-05-01,WhaleCare PH,Investing,Purchase of Intangibles,-35925.77,1.0889,-39119.57
+2020-05-01,WhaleCare PH,Financing,Equity Issuance,-11018.9,0.8958,-9870.73
+2020-05-01,WhaleCare PH,Financing,Loan Repayment,29765.74,1.2567,37406.61
+2020-05-01,SummonStorm BR,Operating,Net Income,24915.73,1.1833,29482.78
+2020-05-01,SummonStorm BR,Operating,Depreciation,46670.07,1.0778,50301.0
+2020-05-01,SummonStorm BR,Operating,Change in Working Capital,-40105.62,1.1725,-47023.84
+2020-05-01,SummonStorm BR,Investing,CapEx,-23791.4,0.9337,-22214.03
+2020-05-01,SummonStorm BR,Investing,Purchase of Intangibles,24660.24,1.1156,27510.96
+2020-05-01,SummonStorm BR,Financing,Equity Issuance,11361.11,0.8666,9845.54
+2020-05-01,SummonStorm BR,Financing,Loan Repayment,-32859.67,0.8108,-26642.62
+2020-06-01,Tapstorm SG,Operating,Net Income,38758.5,1.1957,46343.54
+2020-06-01,Tapstorm SG,Operating,Depreciation,26460.99,0.891,23576.74
+2020-06-01,Tapstorm SG,Operating,Change in Working Capital,28174.22,1.2192,34350.01
+2020-06-01,Tapstorm SG,Investing,CapEx,-21081.91,1.1774,-24821.84
+2020-06-01,Tapstorm SG,Investing,Purchase of Intangibles,35581.45,1.2613,44878.88
+2020-06-01,Tapstorm SG,Financing,Equity Issuance,8905.85,0.8769,7809.54
+2020-06-01,Tapstorm SG,Financing,Loan Repayment,11577.67,1.0209,11819.64
+2020-06-01,TapForge CN,Operating,Net Income,36149.07,0.9798,35418.86
+2020-06-01,TapForge CN,Operating,Depreciation,8073.37,0.8959,7232.93
+2020-06-01,TapForge CN,Operating,Change in Working Capital,-17398.15,1.2372,-21524.99
+2020-06-01,TapForge CN,Investing,CapEx,21657.96,1.1671,25277.01
+2020-06-01,TapForge CN,Investing,Purchase of Intangibles,30654.2,0.8229,25225.34
+2020-06-01,TapForge CN,Financing,Equity Issuance,-26847.03,1.0434,-28012.19
+2020-06-01,TapForge CN,Financing,Loan Repayment,-11932.72,1.137,-13567.5
+2020-06-01,WhaleCare PH,Operating,Net Income,-31971.92,1.2144,-38826.7
+2020-06-01,WhaleCare PH,Operating,Depreciation,22348.4,1.1746,26250.43
+2020-06-01,WhaleCare PH,Operating,Change in Working Capital,37798.44,1.0582,39998.31
+2020-06-01,WhaleCare PH,Investing,CapEx,13361.93,0.838,11197.3
+2020-06-01,WhaleCare PH,Investing,Purchase of Intangibles,43908.99,0.8969,39381.97
+2020-06-01,WhaleCare PH,Financing,Equity Issuance,10893.34,1.2934,14089.45
+2020-06-01,WhaleCare PH,Financing,Loan Repayment,-19448.36,1.1062,-21513.78
+2020-06-01,SummonStorm BR,Operating,Net Income,40122.02,0.8663,34757.71
+2020-06-01,SummonStorm BR,Operating,Depreciation,-52059.85,1.2543,-65298.67
+2020-06-01,SummonStorm BR,Operating,Change in Working Capital,10915.59,1.1784,12862.93
+2020-06-01,SummonStorm BR,Investing,CapEx,54920.37,0.9325,51213.25
+2020-06-01,SummonStorm BR,Investing,Purchase of Intangibles,3556.27,1.0547,3750.8
+2020-06-01,SummonStorm BR,Financing,Equity Issuance,-34071.07,1.1344,-38650.22
+2020-06-01,SummonStorm BR,Financing,Loan Repayment,-46137.03,1.0744,-49569.63
+2020-07-01,Tapstorm SG,Operating,Net Income,12616.24,1.2603,15900.25
+2020-07-01,Tapstorm SG,Operating,Depreciation,-39746.53,0.8911,-35418.13
+2020-07-01,Tapstorm SG,Operating,Change in Working Capital,-18864.93,1.1012,-20774.06
+2020-07-01,Tapstorm SG,Investing,CapEx,16001.54,1.0652,17044.84
+2020-07-01,Tapstorm SG,Investing,Purchase of Intangibles,-8726.62,1.0054,-8773.74
+2020-07-01,Tapstorm SG,Financing,Equity Issuance,24053.84,1.2299,29583.82
+2020-07-01,Tapstorm SG,Financing,Loan Repayment,26716.93,1.1432,30542.79
+2020-07-01,TapForge CN,Operating,Net Income,-10673.95,0.9782,-10441.26
+2020-07-01,TapForge CN,Operating,Depreciation,42092.53,1.0171,42812.31
+2020-07-01,TapForge CN,Operating,Change in Working Capital,17706.49,0.9471,16769.82
+2020-07-01,TapForge CN,Investing,CapEx,-24538.11,1.1527,-28285.08
+2020-07-01,TapForge CN,Investing,Purchase of Intangibles,-27780.47,0.8032,-22313.27
+2020-07-01,TapForge CN,Financing,Equity Issuance,-60949.7,0.97,-59121.21
+2020-07-01,TapForge CN,Financing,Loan Repayment,-40391.96,0.906,-36595.12
+2020-07-01,WhaleCare PH,Operating,Net Income,-34786.92,1.146,-39865.81
+2020-07-01,WhaleCare PH,Operating,Depreciation,19702.88,1.0908,21491.9
+2020-07-01,WhaleCare PH,Operating,Change in Working Capital,-29486.55,1.0134,-29881.67
+2020-07-01,WhaleCare PH,Investing,CapEx,30725.35,1.231,37822.91
+2020-07-01,WhaleCare PH,Investing,Purchase of Intangibles,24629.94,0.932,22955.1
+2020-07-01,WhaleCare PH,Financing,Equity Issuance,-36497.12,1.1235,-41004.51
+2020-07-01,WhaleCare PH,Financing,Loan Repayment,62572.62,0.9383,58711.89
+2020-07-01,SummonStorm BR,Operating,Net Income,11679.32,0.9051,10570.95
+2020-07-01,SummonStorm BR,Operating,Depreciation,-29966.31,0.9639,-28884.53
+2020-07-01,SummonStorm BR,Operating,Change in Working Capital,29693.39,1.0957,32535.05
+2020-07-01,SummonStorm BR,Investing,CapEx,-22155.34,0.8205,-18178.46
+2020-07-01,SummonStorm BR,Investing,Purchase of Intangibles,16966.84,0.9101,15441.52
+2020-07-01,SummonStorm BR,Financing,Equity Issuance,-16345.83,1.278,-20889.97
+2020-07-01,SummonStorm BR,Financing,Loan Repayment,-51897.09,1.1725,-60849.34
+2020-08-01,Tapstorm SG,Operating,Net Income,-26902.53,0.9874,-26563.56
+2020-08-01,Tapstorm SG,Operating,Depreciation,37159.11,1.0176,37813.11
+2020-08-01,Tapstorm SG,Operating,Change in Working Capital,21641.56,1.1866,25679.88
+2020-08-01,Tapstorm SG,Investing,CapEx,30195.68,0.8995,27161.01
+2020-08-01,Tapstorm SG,Investing,Purchase of Intangibles,31198.52,1.1981,37378.95
+2020-08-01,Tapstorm SG,Financing,Equity Issuance,22130.65,1.073,23746.19
+2020-08-01,Tapstorm SG,Financing,Loan Repayment,-28167.68,1.137,-32026.65
+2020-08-01,TapForge CN,Operating,Net Income,40405.65,1.2617,50979.81
+2020-08-01,TapForge CN,Operating,Depreciation,-11647.18,0.9615,-11198.76
+2020-08-01,TapForge CN,Operating,Change in Working Capital,27708.92,0.8324,23064.91
+2020-08-01,TapForge CN,Investing,CapEx,-31867.38,1.0953,-34904.34
+2020-08-01,TapForge CN,Investing,Purchase of Intangibles,34580.8,0.9426,32595.86
+2020-08-01,TapForge CN,Financing,Equity Issuance,-36518.61,1.2484,-45589.83
+2020-08-01,TapForge CN,Financing,Loan Repayment,-33690.11,1.1443,-38551.59
+2020-08-01,WhaleCare PH,Operating,Net Income,39334.2,1.2662,49804.96
+2020-08-01,WhaleCare PH,Operating,Depreciation,20134.0,1.0961,22068.88
+2020-08-01,WhaleCare PH,Operating,Change in Working Capital,42502.69,0.8398,35693.76
+2020-08-01,WhaleCare PH,Investing,CapEx,26483.36,1.2944,34280.06
+2020-08-01,WhaleCare PH,Investing,Purchase of Intangibles,35482.41,1.2982,46063.26
+2020-08-01,WhaleCare PH,Financing,Equity Issuance,9291.72,1.1125,10337.04
+2020-08-01,WhaleCare PH,Financing,Loan Repayment,-32956.61,0.9043,-29802.66
+2020-08-01,SummonStorm BR,Operating,Net Income,-26850.84,0.9237,-24802.12
+2020-08-01,SummonStorm BR,Operating,Depreciation,21392.1,0.9462,20241.21
+2020-08-01,SummonStorm BR,Operating,Change in Working Capital,-40531.68,1.1918,-48305.66
+2020-08-01,SummonStorm BR,Investing,CapEx,-27693.23,0.8548,-23672.17
+2020-08-01,SummonStorm BR,Investing,Purchase of Intangibles,27419.74,1.1038,30265.91
+2020-08-01,SummonStorm BR,Financing,Equity Issuance,7856.74,0.9469,7439.55
+2020-08-01,SummonStorm BR,Financing,Loan Repayment,16767.12,1.1608,19463.27
+2020-09-01,Tapstorm SG,Operating,Net Income,27208.02,1.0076,27414.8
+2020-09-01,Tapstorm SG,Operating,Depreciation,16907.99,1.0147,17156.54
+2020-09-01,Tapstorm SG,Operating,Change in Working Capital,-42423.64,1.1119,-47170.85
+2020-09-01,Tapstorm SG,Investing,CapEx,-21479.14,1.0887,-23384.34
+2020-09-01,Tapstorm SG,Investing,Purchase of Intangibles,-13431.02,0.8505,-11423.08
+2020-09-01,Tapstorm SG,Financing,Equity Issuance,-11604.83,0.8323,-9658.7
+2020-09-01,Tapstorm SG,Financing,Loan Repayment,-23399.85,1.2791,-29930.75
+2020-09-01,TapForge CN,Operating,Net Income,-35215.77,1.19,-41906.77
+2020-09-01,TapForge CN,Operating,Depreciation,13726.71,1.2232,16790.51
+2020-09-01,TapForge CN,Operating,Change in Working Capital,12455.3,1.1295,14068.26
+2020-09-01,TapForge CN,Investing,CapEx,18086.27,1.126,20365.14
+2020-09-01,TapForge CN,Investing,Purchase of Intangibles,24190.92,1.0153,24561.04
+2020-09-01,TapForge CN,Financing,Equity Issuance,-12315.16,0.8803,-10841.04
+2020-09-01,TapForge CN,Financing,Loan Repayment,-26455.11,1.2382,-32756.72
+2020-09-01,WhaleCare PH,Operating,Net Income,-43676.77,1.0001,-43681.14
+2020-09-01,WhaleCare PH,Operating,Depreciation,-24835.6,0.8397,-20854.45
+2020-09-01,WhaleCare PH,Operating,Change in Working Capital,-20103.99,1.2001,-24126.8
+2020-09-01,WhaleCare PH,Investing,CapEx,38419.55,0.9446,36291.11
+2020-09-01,WhaleCare PH,Investing,Purchase of Intangibles,11178.01,0.8596,9608.62
+2020-09-01,WhaleCare PH,Financing,Equity Issuance,-31367.54,0.9146,-28688.75
+2020-09-01,WhaleCare PH,Financing,Loan Repayment,25321.69,0.9977,25263.45
+2020-09-01,SummonStorm BR,Operating,Net Income,-45310.28,1.0267,-46520.06
+2020-09-01,SummonStorm BR,Operating,Depreciation,-40049.26,1.126,-45095.47
+2020-09-01,SummonStorm BR,Operating,Change in Working Capital,-1531.04,1.1768,-1801.73
+2020-09-01,SummonStorm BR,Investing,CapEx,-27512.22,1.0662,-29333.53
+2020-09-01,SummonStorm BR,Investing,Purchase of Intangibles,-7488.3,1.2689,-9501.9
+2020-09-01,SummonStorm BR,Financing,Equity Issuance,-38687.87,1.023,-39577.69
+2020-09-01,SummonStorm BR,Financing,Loan Repayment,-13565.69,0.902,-12236.25
+2020-10-01,Tapstorm SG,Operating,Net Income,-34444.01,1.0286,-35429.11
+2020-10-01,Tapstorm SG,Operating,Depreciation,-38817.88,1.0094,-39182.77
+2020-10-01,Tapstorm SG,Operating,Change in Working Capital,3138.96,1.1533,3620.16
+2020-10-01,Tapstorm SG,Investing,CapEx,42682.46,1.178,50279.94
+2020-10-01,Tapstorm SG,Investing,Purchase of Intangibles,-38474.95,1.1074,-42607.16
+2020-10-01,Tapstorm SG,Financing,Equity Issuance,-12359.81,1.2479,-15423.81
+2020-10-01,Tapstorm SG,Financing,Loan Repayment,38935.75,1.0923,42529.52
+2020-10-01,TapForge CN,Operating,Net Income,10614.32,1.2993,13791.19
+2020-10-01,TapForge CN,Operating,Depreciation,35902.77,0.9369,33637.31
+2020-10-01,TapForge CN,Operating,Change in Working Capital,-23905.26,0.9385,-22435.09
+2020-10-01,TapForge CN,Investing,CapEx,7963.94,0.9854,7847.67
+2020-10-01,TapForge CN,Investing,Purchase of Intangibles,42713.65,0.8458,36127.21
+2020-10-01,TapForge CN,Financing,Equity Issuance,-42684.15,0.9632,-41113.37
+2020-10-01,TapForge CN,Financing,Loan Repayment,-27309.31,0.9766,-26670.27
+2020-10-01,WhaleCare PH,Operating,Net Income,25269.67,0.9299,23498.27
+2020-10-01,WhaleCare PH,Operating,Depreciation,20187.26,1.1358,22928.69
+2020-10-01,WhaleCare PH,Operating,Change in Working Capital,-31638.67,1.1179,-35368.87
+2020-10-01,WhaleCare PH,Investing,CapEx,29906.04,1.0837,32409.18
+2020-10-01,WhaleCare PH,Investing,Purchase of Intangibles,-43316.35,1.0058,-43567.58
+2020-10-01,WhaleCare PH,Financing,Equity Issuance,-27522.43,1.2049,-33161.78
+2020-10-01,WhaleCare PH,Financing,Loan Repayment,-41798.31,0.8841,-36953.89
+2020-10-01,SummonStorm BR,Operating,Net Income,2674.84,1.1823,3162.46
+2020-10-01,SummonStorm BR,Operating,Depreciation,-34725.34,1.0504,-36475.5
+2020-10-01,SummonStorm BR,Operating,Change in Working Capital,27135.61,1.1883,32245.25
+2020-10-01,SummonStorm BR,Investing,CapEx,29307.78,1.1522,33768.42
+2020-10-01,SummonStorm BR,Investing,Purchase of Intangibles,46821.66,1.038,48600.88
+2020-10-01,SummonStorm BR,Financing,Equity Issuance,38285.46,1.2456,47688.37
+2020-10-01,SummonStorm BR,Financing,Loan Repayment,20796.07,0.8054,16749.15
+2020-11-01,Tapstorm SG,Operating,Net Income,-14772.67,1.2619,-18641.63
+2020-11-01,Tapstorm SG,Operating,Depreciation,-2004.04,1.0198,-2043.72
+2020-11-01,Tapstorm SG,Operating,Change in Working Capital,-30404.24,1.2315,-37442.82
+2020-11-01,Tapstorm SG,Investing,CapEx,39759.12,0.9007,35811.04
+2020-11-01,Tapstorm SG,Investing,Purchase of Intangibles,40216.93,0.8708,35020.9
+2020-11-01,Tapstorm SG,Financing,Equity Issuance,-20157.15,1.1549,-23279.49
+2020-11-01,Tapstorm SG,Financing,Loan Repayment,40010.3,1.29,51613.29
+2020-11-01,TapForge CN,Operating,Net Income,-40247.16,1.2819,-51592.83
+2020-11-01,TapForge CN,Operating,Depreciation,-36591.41,0.8517,-31164.9
+2020-11-01,TapForge CN,Operating,Change in Working Capital,-25629.91,1.0528,-26983.17
+2020-11-01,TapForge CN,Investing,CapEx,24456.66,1.1752,28741.47
+2020-11-01,TapForge CN,Investing,Purchase of Intangibles,31420.43,1.0648,33456.47
+2020-11-01,TapForge CN,Financing,Equity Issuance,-33187.36,0.9716,-32244.84
+2020-11-01,TapForge CN,Financing,Loan Repayment,19305.18,0.9897,19106.34
+2020-11-01,WhaleCare PH,Operating,Net Income,-20658.26,0.9766,-20174.86
+2020-11-01,WhaleCare PH,Operating,Depreciation,28228.05,1.233,34805.19
+2020-11-01,WhaleCare PH,Operating,Change in Working Capital,-17577.51,1.0654,-18727.08
+2020-11-01,WhaleCare PH,Investing,CapEx,-18899.72,1.0917,-20632.82
+2020-11-01,WhaleCare PH,Investing,Purchase of Intangibles,3881.64,0.8412,3265.24
+2020-11-01,WhaleCare PH,Financing,Equity Issuance,-12891.17,1.0202,-13151.57
+2020-11-01,WhaleCare PH,Financing,Loan Repayment,33933.32,0.8627,29274.28
+2020-11-01,SummonStorm BR,Operating,Net Income,37084.64,1.1304,41920.48
+2020-11-01,SummonStorm BR,Operating,Depreciation,-24528.97,1.1995,-29422.5
+2020-11-01,SummonStorm BR,Operating,Change in Working Capital,-34489.33,1.282,-44215.32
+2020-11-01,SummonStorm BR,Investing,CapEx,1774.79,1.0137,1799.1
+2020-11-01,SummonStorm BR,Investing,Purchase of Intangibles,-30136.75,1.0446,-31480.85
+2020-11-01,SummonStorm BR,Financing,Equity Issuance,7489.28,1.007,7541.7
+2020-11-01,SummonStorm BR,Financing,Loan Repayment,14920.69,1.2399,18500.16
+2020-12-01,Tapstorm SG,Operating,Net Income,32790.92,1.0,32790.92
+2020-12-01,Tapstorm SG,Operating,Depreciation,34829.16,1.1856,41293.45
+2020-12-01,Tapstorm SG,Operating,Change in Working Capital,-2136.27,0.8865,-1893.8
+2020-12-01,Tapstorm SG,Investing,CapEx,4990.5,1.0557,5268.47
+2020-12-01,Tapstorm SG,Investing,Purchase of Intangibles,16949.75,1.1302,19156.61
+2020-12-01,Tapstorm SG,Financing,Equity Issuance,3498.29,1.2256,4287.5
+2020-12-01,Tapstorm SG,Financing,Loan Repayment,-20033.75,1.2321,-24683.58
+2020-12-01,TapForge CN,Operating,Net Income,-35400.02,0.8104,-28688.18
+2020-12-01,TapForge CN,Operating,Depreciation,6375.31,1.2223,7792.54
+2020-12-01,TapForge CN,Operating,Change in Working Capital,-49152.42,0.8664,-42585.66
+2020-12-01,TapForge CN,Investing,CapEx,21871.73,0.8203,17941.38
+2020-12-01,TapForge CN,Investing,Purchase of Intangibles,29466.29,1.0545,31072.2
+2020-12-01,TapForge CN,Financing,Equity Issuance,12660.17,0.835,10571.24
+2020-12-01,TapForge CN,Financing,Loan Repayment,-37496.75,1.2776,-47905.85
+2020-12-01,WhaleCare PH,Operating,Net Income,-27806.21,0.991,-27555.95
+2020-12-01,WhaleCare PH,Operating,Depreciation,-28054.04,1.1411,-32012.47
+2020-12-01,WhaleCare PH,Operating,Change in Working Capital,-29641.27,0.8356,-24768.25
+2020-12-01,WhaleCare PH,Investing,CapEx,9479.02,1.224,11602.32
+2020-12-01,WhaleCare PH,Investing,Purchase of Intangibles,-29926.76,0.9203,-27541.6
+2020-12-01,WhaleCare PH,Financing,Equity Issuance,33451.48,1.2272,41051.66
+2020-12-01,WhaleCare PH,Financing,Loan Repayment,-6630.92,1.2457,-8260.14
+2020-12-01,SummonStorm BR,Operating,Net Income,21766.32,1.0487,22826.34
+2020-12-01,SummonStorm BR,Operating,Depreciation,-21309.76,0.8345,-17782.99
+2020-12-01,SummonStorm BR,Operating,Change in Working Capital,25508.87,1.1921,30409.12
+2020-12-01,SummonStorm BR,Investing,CapEx,33659.48,1.2481,42010.4
+2020-12-01,SummonStorm BR,Investing,Purchase of Intangibles,34817.61,1.2021,41854.25
+2020-12-01,SummonStorm BR,Financing,Equity Issuance,-23802.11,0.9479,-22562.02
+2020-12-01,SummonStorm BR,Financing,Loan Repayment,-36470.41,0.9693,-35350.77
+2021-01-01,Tapstorm SG,Operating,Net Income,8470.39,0.9101,7708.9
+2021-01-01,Tapstorm SG,Operating,Depreciation,28136.59,0.8963,25218.83
+2021-01-01,Tapstorm SG,Operating,Change in Working Capital,-830.84,1.0078,-837.32
+2021-01-01,Tapstorm SG,Investing,CapEx,-19023.91,1.2164,-23140.68
+2021-01-01,Tapstorm SG,Investing,Purchase of Intangibles,30780.84,1.071,32966.28
+2021-01-01,Tapstorm SG,Financing,Equity Issuance,-33569.73,0.8408,-28225.43
+2021-01-01,Tapstorm SG,Financing,Loan Repayment,-28526.51,1.1699,-33373.16
+2021-01-01,TapForge CN,Operating,Net Income,43888.73,0.9332,40956.96
+2021-01-01,TapForge CN,Operating,Depreciation,-26302.76,0.8286,-21794.47
+2021-01-01,TapForge CN,Operating,Change in Working Capital,-4547.07,0.944,-4292.43
+2021-01-01,TapForge CN,Investing,CapEx,-2284.31,0.8148,-1861.26
+2021-01-01,TapForge CN,Investing,Purchase of Intangibles,13095.16,1.2729,16668.83
+2021-01-01,TapForge CN,Financing,Equity Issuance,13019.04,0.8079,10518.08
+2021-01-01,TapForge CN,Financing,Loan Repayment,25450.53,1.1046,28112.66
+2021-01-01,WhaleCare PH,Operating,Net Income,18383.76,1.0393,19106.24
+2021-01-01,WhaleCare PH,Operating,Depreciation,13578.53,0.9375,12729.87
+2021-01-01,WhaleCare PH,Operating,Change in Working Capital,18006.29,0.9232,16623.41
+2021-01-01,WhaleCare PH,Investing,CapEx,20943.53,1.101,23058.83
+2021-01-01,WhaleCare PH,Investing,Purchase of Intangibles,-14970.6,1.1664,-17461.71
+2021-01-01,WhaleCare PH,Financing,Equity Issuance,25467.33,1.2158,30963.18
+2021-01-01,WhaleCare PH,Financing,Loan Repayment,36368.93,0.9501,34554.12
+2021-01-01,SummonStorm BR,Operating,Net Income,17215.23,0.8246,14195.68
+2021-01-01,SummonStorm BR,Operating,Depreciation,-25994.53,1.2171,-31637.94
+2021-01-01,SummonStorm BR,Operating,Change in Working Capital,-49837.17,0.8827,-43991.27
+2021-01-01,SummonStorm BR,Investing,CapEx,27940.89,1.2636,35306.11
+2021-01-01,SummonStorm BR,Investing,Purchase of Intangibles,38084.59,0.9963,37943.68
+2021-01-01,SummonStorm BR,Financing,Equity Issuance,-19329.2,1.0595,-20479.29
+2021-01-01,SummonStorm BR,Financing,Loan Repayment,-39028.4,1.1924,-46537.46
+2021-02-01,Tapstorm SG,Operating,Net Income,15356.17,0.8974,13780.63
+2021-02-01,Tapstorm SG,Operating,Depreciation,-32219.64,0.9836,-31691.24
+2021-02-01,Tapstorm SG,Operating,Change in Working Capital,37926.47,0.9942,37706.5
+2021-02-01,Tapstorm SG,Investing,CapEx,-43505.62,1.2717,-55326.1
+2021-02-01,Tapstorm SG,Investing,Purchase of Intangibles,-26507.62,0.9067,-24034.46
+2021-02-01,Tapstorm SG,Financing,Equity Issuance,-21760.35,1.043,-22696.05
+2021-02-01,Tapstorm SG,Financing,Loan Repayment,8405.58,0.9225,7754.15
+2021-02-01,TapForge CN,Operating,Net Income,24117.64,0.8365,20174.41
+2021-02-01,TapForge CN,Operating,Depreciation,34650.58,0.8632,29910.38
+2021-02-01,TapForge CN,Operating,Change in Working Capital,33376.22,0.9241,30842.96
+2021-02-01,TapForge CN,Investing,CapEx,-24766.29,1.049,-25979.84
+2021-02-01,TapForge CN,Investing,Purchase of Intangibles,-29447.26,0.8731,-25710.4
+2021-02-01,TapForge CN,Financing,Equity Issuance,45051.93,0.9822,44250.01
+2021-02-01,TapForge CN,Financing,Loan Repayment,33173.95,0.9659,32042.72
+2021-02-01,WhaleCare PH,Operating,Net Income,-22191.44,1.2787,-28376.19
+2021-02-01,WhaleCare PH,Operating,Depreciation,-24967.35,0.8151,-20350.89
+2021-02-01,WhaleCare PH,Operating,Change in Working Capital,33107.42,1.1957,39586.54
+2021-02-01,WhaleCare PH,Investing,CapEx,32132.63,1.092,35088.83
+2021-02-01,WhaleCare PH,Investing,Purchase of Intangibles,52085.49,1.2371,64434.96
+2021-02-01,WhaleCare PH,Financing,Equity Issuance,44808.16,1.0051,45036.68
+2021-02-01,WhaleCare PH,Financing,Loan Repayment,-12699.26,1.1572,-14695.58
+2021-02-01,SummonStorm BR,Operating,Net Income,-17195.88,1.0978,-18877.64
+2021-02-01,SummonStorm BR,Operating,Depreciation,-40339.27,0.8643,-34865.23
+2021-02-01,SummonStorm BR,Operating,Change in Working Capital,15678.69,1.2759,20004.44
+2021-02-01,SummonStorm BR,Investing,CapEx,-27022.28,1.1774,-31816.03
+2021-02-01,SummonStorm BR,Investing,Purchase of Intangibles,44493.5,0.9127,40609.22
+2021-02-01,SummonStorm BR,Financing,Equity Issuance,-28745.11,0.8219,-23625.61
+2021-02-01,SummonStorm BR,Financing,Loan Repayment,36794.99,0.9965,36666.21
+2021-03-01,Tapstorm SG,Operating,Net Income,-27656.77,1.178,-32579.68
+2021-03-01,Tapstorm SG,Operating,Depreciation,24148.07,0.8445,20393.05
+2021-03-01,Tapstorm SG,Operating,Change in Working Capital,-2905.23,1.0993,-3193.72
+2021-03-01,Tapstorm SG,Investing,CapEx,-28083.99,1.041,-29235.43
+2021-03-01,Tapstorm SG,Investing,Purchase of Intangibles,18639.62,0.8431,15715.06
+2021-03-01,Tapstorm SG,Financing,Equity Issuance,41113.45,0.986,40537.86
+2021-03-01,Tapstorm SG,Financing,Loan Repayment,-5304.63,1.0737,-5695.58
+2021-03-01,TapForge CN,Operating,Net Income,-18910.64,1.0349,-19570.62
+2021-03-01,TapForge CN,Operating,Depreciation,-41663.14,1.2897,-53732.95
+2021-03-01,TapForge CN,Operating,Change in Working Capital,-48473.64,1.2723,-61673.01
+2021-03-01,TapForge CN,Investing,CapEx,38832.96,0.8764,34033.21
+2021-03-01,TapForge CN,Investing,Purchase of Intangibles,33031.87,1.0606,35033.6
+2021-03-01,TapForge CN,Financing,Equity Issuance,4310.89,0.81,3491.82
+2021-03-01,TapForge CN,Financing,Loan Repayment,-12286.64,1.0401,-12779.33
+2021-03-01,WhaleCare PH,Operating,Net Income,-36146.56,1.2956,-46831.48
+2021-03-01,WhaleCare PH,Operating,Depreciation,-9523.07,1.0373,-9878.28
+2021-03-01,WhaleCare PH,Operating,Change in Working Capital,22184.95,1.2297,27280.83
+2021-03-01,WhaleCare PH,Investing,CapEx,-21263.76,1.1404,-24249.19
+2021-03-01,WhaleCare PH,Investing,Purchase of Intangibles,-30032.51,1.2421,-37303.38
+2021-03-01,WhaleCare PH,Financing,Equity Issuance,-33045.73,1.0819,-35752.18
+2021-03-01,WhaleCare PH,Financing,Loan Repayment,5464.88,0.9432,5154.47
+2021-03-01,SummonStorm BR,Operating,Net Income,-28418.72,1.2843,-36498.16
+2021-03-01,SummonStorm BR,Operating,Depreciation,-16832.93,0.9072,-15270.83
+2021-03-01,SummonStorm BR,Operating,Change in Working Capital,31673.77,1.1897,37682.28
+2021-03-01,SummonStorm BR,Investing,CapEx,-3649.01,1.0303,-3759.58
+2021-03-01,SummonStorm BR,Investing,Purchase of Intangibles,37190.27,0.9879,36740.27
+2021-03-01,SummonStorm BR,Financing,Equity Issuance,-16430.61,0.8403,-13806.64
+2021-03-01,SummonStorm BR,Financing,Loan Repayment,20356.63,1.1278,22958.21
+2021-04-01,Tapstorm SG,Operating,Net Income,-44568.91,0.809,-36056.25
+2021-04-01,Tapstorm SG,Operating,Depreciation,23362.98,1.1381,26589.41
+2021-04-01,Tapstorm SG,Operating,Change in Working Capital,36855.16,1.1634,42877.29
+2021-04-01,Tapstorm SG,Investing,CapEx,-24706.69,1.0954,-27063.71
+2021-04-01,Tapstorm SG,Investing,Purchase of Intangibles,-44979.7,0.9891,-44489.42
+2021-04-01,Tapstorm SG,Financing,Equity Issuance,-29077.92,0.9341,-27161.69
+2021-04-01,Tapstorm SG,Financing,Loan Repayment,31201.26,1.123,35039.01
+2021-04-01,TapForge CN,Operating,Net Income,27161.59,1.1856,32202.78
+2021-04-01,TapForge CN,Operating,Depreciation,-21446.23,1.1519,-24703.91
+2021-04-01,TapForge CN,Operating,Change in Working Capital,35501.24,1.281,45477.09
+2021-04-01,TapForge CN,Investing,CapEx,16032.1,1.2384,19854.15
+2021-04-01,TapForge CN,Investing,Purchase of Intangibles,-33742.9,0.8766,-29579.03
+2021-04-01,TapForge CN,Financing,Equity Issuance,36533.63,0.8584,31360.47
+2021-04-01,TapForge CN,Financing,Loan Repayment,31441.04,1.1146,35044.18
+2021-04-01,WhaleCare PH,Operating,Net Income,-13699.04,1.1032,-15112.78
+2021-04-01,WhaleCare PH,Operating,Depreciation,-30370.09,1.1371,-34533.83
+2021-04-01,WhaleCare PH,Operating,Change in Working Capital,-37581.24,0.9272,-34845.33
+2021-04-01,WhaleCare PH,Investing,CapEx,-9795.95,0.8863,-8682.15
+2021-04-01,WhaleCare PH,Investing,Purchase of Intangibles,-6693.78,1.2087,-8090.77
+2021-04-01,WhaleCare PH,Financing,Equity Issuance,35145.69,0.8696,30562.69
+2021-04-01,WhaleCare PH,Financing,Loan Repayment,-17240.77,1.1395,-19645.86
+2021-04-01,SummonStorm BR,Operating,Net Income,-33957.71,1.0008,-33984.88
+2021-04-01,SummonStorm BR,Operating,Depreciation,45533.82,1.151,52409.43
+2021-04-01,SummonStorm BR,Operating,Change in Working Capital,-7339.18,0.9807,-7197.53
+2021-04-01,SummonStorm BR,Investing,CapEx,-6292.14,1.0327,-6497.89
+2021-04-01,SummonStorm BR,Investing,Purchase of Intangibles,34629.29,0.9415,32603.48
+2021-04-01,SummonStorm BR,Financing,Equity Issuance,40749.17,0.8276,33724.01
+2021-04-01,SummonStorm BR,Financing,Loan Repayment,-45572.23,0.8442,-38472.08
+2021-05-01,Tapstorm SG,Operating,Net Income,34679.51,1.0112,35067.92
+2021-05-01,Tapstorm SG,Operating,Depreciation,-23390.03,0.9545,-22325.78
+2021-05-01,Tapstorm SG,Operating,Change in Working Capital,-26150.57,0.8531,-22309.05
+2021-05-01,Tapstorm SG,Investing,CapEx,-29035.21,0.938,-27235.03
+2021-05-01,Tapstorm SG,Investing,Purchase of Intangibles,45203.92,1.1234,50782.08
+2021-05-01,Tapstorm SG,Financing,Equity Issuance,28515.78,0.827,23582.55
+2021-05-01,Tapstorm SG,Financing,Loan Repayment,-16723.33,1.248,-20870.72
+2021-05-01,TapForge CN,Operating,Net Income,-27676.74,1.287,-35619.96
+2021-05-01,TapForge CN,Operating,Depreciation,6247.95,1.1416,7132.66
+2021-05-01,TapForge CN,Operating,Change in Working Capital,18335.56,1.2204,22376.72
+2021-05-01,TapForge CN,Investing,CapEx,-21308.7,1.1608,-24735.14
+2021-05-01,TapForge CN,Investing,Purchase of Intangibles,-20323.44,1.1823,-24028.4
+2021-05-01,TapForge CN,Financing,Equity Issuance,-5960.4,0.8514,-5074.68
+2021-05-01,TapForge CN,Financing,Loan Repayment,-10758.75,1.2787,-13757.21
+2021-05-01,WhaleCare PH,Operating,Net Income,24762.14,0.8044,19918.67
+2021-05-01,WhaleCare PH,Operating,Depreciation,35061.8,0.9208,32284.91
+2021-05-01,WhaleCare PH,Operating,Change in Working Capital,-19987.97,1.1944,-23873.63
+2021-05-01,WhaleCare PH,Investing,CapEx,-25902.6,0.9413,-24382.12
+2021-05-01,WhaleCare PH,Investing,Purchase of Intangibles,35528.41,1.1088,39393.9
+2021-05-01,WhaleCare PH,Financing,Equity Issuance,57048.45,1.0671,60876.4
+2021-05-01,WhaleCare PH,Financing,Loan Repayment,-21205.64,1.193,-25298.33
+2021-05-01,SummonStorm BR,Operating,Net Income,-14901.36,0.8496,-12660.2
+2021-05-01,SummonStorm BR,Operating,Depreciation,-34480.88,1.1863,-40904.67
+2021-05-01,SummonStorm BR,Operating,Change in Working Capital,35222.77,0.9243,32556.41
+2021-05-01,SummonStorm BR,Investing,CapEx,-9305.26,1.1179,-10402.35
+2021-05-01,SummonStorm BR,Investing,Purchase of Intangibles,-11574.4,0.9284,-10745.67
+2021-05-01,SummonStorm BR,Financing,Equity Issuance,8561.39,0.9988,8551.12
+2021-05-01,SummonStorm BR,Financing,Loan Repayment,-16404.86,1.1311,-18555.54
+2021-06-01,Tapstorm SG,Operating,Net Income,35360.46,1.0777,38107.97
+2021-06-01,Tapstorm SG,Operating,Depreciation,-29285.34,1.1508,-33701.57
+2021-06-01,Tapstorm SG,Operating,Change in Working Capital,27022.44,0.932,25184.91
+2021-06-01,Tapstorm SG,Investing,CapEx,-13219.49,0.9414,-12444.83
+2021-06-01,Tapstorm SG,Investing,Purchase of Intangibles,12281.77,1.0339,12698.12
+2021-06-01,Tapstorm SG,Financing,Equity Issuance,25891.23,1.2493,32345.91
+2021-06-01,Tapstorm SG,Financing,Loan Repayment,24417.29,0.845,20632.61
+2021-06-01,TapForge CN,Operating,Net Income,30873.61,1.123,34671.06
+2021-06-01,TapForge CN,Operating,Depreciation,-41652.43,1.0921,-45488.62
+2021-06-01,TapForge CN,Operating,Change in Working Capital,11333.49,0.8029,9099.66
+2021-06-01,TapForge CN,Investing,CapEx,-23208.0,0.8741,-20286.11
+2021-06-01,TapForge CN,Investing,Purchase of Intangibles,26360.2,1.048,27625.49
+2021-06-01,TapForge CN,Financing,Equity Issuance,-27320.84,1.0986,-30014.67
+2021-06-01,TapForge CN,Financing,Loan Repayment,-25890.41,1.2684,-32839.4
+2021-06-01,WhaleCare PH,Operating,Net Income,24560.03,1.2602,30950.55
+2021-06-01,WhaleCare PH,Operating,Depreciation,27273.91,1.1984,32685.05
+2021-06-01,WhaleCare PH,Operating,Change in Working Capital,-31203.56,1.0882,-33955.71
+2021-06-01,WhaleCare PH,Investing,CapEx,16529.26,0.8519,14081.28
+2021-06-01,WhaleCare PH,Investing,Purchase of Intangibles,-30635.17,0.9139,-27997.48
+2021-06-01,WhaleCare PH,Financing,Equity Issuance,31176.4,0.869,27092.29
+2021-06-01,WhaleCare PH,Financing,Loan Repayment,27819.95,0.9688,26951.97
+2021-06-01,SummonStorm BR,Operating,Net Income,43915.56,0.9066,39813.85
+2021-06-01,SummonStorm BR,Operating,Depreciation,-27595.56,1.0649,-29386.51
+2021-06-01,SummonStorm BR,Operating,Change in Working Capital,-29376.75,1.2334,-36233.28
+2021-06-01,SummonStorm BR,Investing,CapEx,13273.06,1.2302,16328.52
+2021-06-01,SummonStorm BR,Investing,Purchase of Intangibles,37479.49,1.0563,39589.59
+2021-06-01,SummonStorm BR,Financing,Equity Issuance,47978.51,0.8063,38685.07
+2021-06-01,SummonStorm BR,Financing,Loan Repayment,26875.88,1.2336,33154.09
+2021-07-01,Tapstorm SG,Operating,Net Income,227.09,1.1546,262.2
+2021-07-01,Tapstorm SG,Operating,Depreciation,37901.02,1.1548,43768.1
+2021-07-01,Tapstorm SG,Operating,Change in Working Capital,41432.06,1.0789,44701.05
+2021-07-01,Tapstorm SG,Investing,CapEx,-27598.23,1.0867,-29991.0
+2021-07-01,Tapstorm SG,Investing,Purchase of Intangibles,-18780.57,0.8463,-15894.0
+2021-07-01,Tapstorm SG,Financing,Equity Issuance,40282.7,0.8464,34095.28
+2021-07-01,Tapstorm SG,Financing,Loan Repayment,-39374.38,1.24,-48824.23
+2021-07-01,TapForge CN,Operating,Net Income,-28019.57,1.0415,-29182.38
+2021-07-01,TapForge CN,Operating,Depreciation,38674.34,1.1375,43992.06
+2021-07-01,TapForge CN,Operating,Change in Working Capital,16298.49,1.0608,17289.44
+2021-07-01,TapForge CN,Investing,CapEx,-40507.0,1.2655,-51261.61
+2021-07-01,TapForge CN,Investing,Purchase of Intangibles,28283.36,1.2951,36629.78
+2021-07-01,TapForge CN,Financing,Equity Issuance,21339.62,0.8873,18934.64
+2021-07-01,TapForge CN,Financing,Loan Repayment,-26385.29,0.869,-22928.82
+2021-07-01,WhaleCare PH,Operating,Net Income,34695.51,1.2956,44951.5
+2021-07-01,WhaleCare PH,Operating,Depreciation,28702.41,1.0486,30097.35
+2021-07-01,WhaleCare PH,Operating,Change in Working Capital,47029.96,0.8674,40793.79
+2021-07-01,WhaleCare PH,Investing,CapEx,-39561.97,1.1519,-45571.43
+2021-07-01,WhaleCare PH,Investing,Purchase of Intangibles,10940.71,0.9645,10552.31
+2021-07-01,WhaleCare PH,Financing,Equity Issuance,-36091.96,0.8932,-32237.34
+2021-07-01,WhaleCare PH,Financing,Loan Repayment,37074.29,1.0664,39536.02
+2021-07-01,SummonStorm BR,Operating,Net Income,-32382.63,1.291,-41805.98
+2021-07-01,SummonStorm BR,Operating,Depreciation,13596.83,1.0293,13995.22
+2021-07-01,SummonStorm BR,Operating,Change in Working Capital,38430.35,1.2438,47799.67
+2021-07-01,SummonStorm BR,Investing,CapEx,28124.63,1.0771,30293.04
+2021-07-01,SummonStorm BR,Investing,Purchase of Intangibles,12865.1,0.9555,12292.6
+2021-07-01,SummonStorm BR,Financing,Equity Issuance,29280.34,1.2381,36251.99
+2021-07-01,SummonStorm BR,Financing,Loan Repayment,-38583.64,0.9984,-38521.91
+2021-08-01,Tapstorm SG,Operating,Net Income,14890.04,0.8625,12842.66
+2021-08-01,Tapstorm SG,Operating,Depreciation,14894.6,0.8173,12173.36
+2021-08-01,Tapstorm SG,Operating,Change in Working Capital,-33745.18,0.825,-27839.77
+2021-08-01,Tapstorm SG,Investing,CapEx,-29404.81,1.0245,-30125.23
+2021-08-01,Tapstorm SG,Investing,Purchase of Intangibles,34855.69,1.2257,42722.62
+2021-08-01,Tapstorm SG,Financing,Equity Issuance,-25852.11,1.2665,-32741.7
+2021-08-01,Tapstorm SG,Financing,Loan Repayment,55106.51,1.2255,67533.03
+2021-08-01,TapForge CN,Operating,Net Income,20781.76,0.8364,17381.86
+2021-08-01,TapForge CN,Operating,Depreciation,-33029.59,0.8829,-29161.83
+2021-08-01,TapForge CN,Operating,Change in Working Capital,19531.41,1.0749,20994.31
+2021-08-01,TapForge CN,Investing,CapEx,8196.43,0.8856,7258.76
+2021-08-01,TapForge CN,Investing,Purchase of Intangibles,23531.01,0.8625,20295.5
+2021-08-01,TapForge CN,Financing,Equity Issuance,21685.58,0.8777,19033.43
+2021-08-01,TapForge CN,Financing,Loan Repayment,-46442.09,0.8733,-40557.88
+2021-08-01,WhaleCare PH,Operating,Net Income,-30288.27,1.199,-36315.64
+2021-08-01,WhaleCare PH,Operating,Depreciation,-15783.96,1.2405,-19580.0
+2021-08-01,WhaleCare PH,Operating,Change in Working Capital,25787.09,0.8173,21075.79
+2021-08-01,WhaleCare PH,Investing,CapEx,14238.08,1.2758,18164.94
+2021-08-01,WhaleCare PH,Investing,Purchase of Intangibles,-22094.63,0.8051,-17788.39
+2021-08-01,WhaleCare PH,Financing,Equity Issuance,-37537.73,0.975,-36599.29
+2021-08-01,WhaleCare PH,Financing,Loan Repayment,30764.16,1.1933,36710.87
+2021-08-01,SummonStorm BR,Operating,Net Income,5268.64,0.8717,4592.67
+2021-08-01,SummonStorm BR,Operating,Depreciation,15557.52,0.9743,15157.69
+2021-08-01,SummonStorm BR,Operating,Change in Working Capital,15086.96,1.1936,18007.8
+2021-08-01,SummonStorm BR,Investing,CapEx,-16780.11,1.176,-19733.41
+2021-08-01,SummonStorm BR,Investing,Purchase of Intangibles,28562.28,0.9593,27399.8
+2021-08-01,SummonStorm BR,Financing,Equity Issuance,-37570.64,1.1343,-42616.38
+2021-08-01,SummonStorm BR,Financing,Loan Repayment,-20975.11,0.9202,-19301.3
+2021-09-01,Tapstorm SG,Operating,Net Income,-17464.77,1.0255,-17910.12
+2021-09-01,Tapstorm SG,Operating,Depreciation,35038.73,1.1063,38763.35
+2021-09-01,Tapstorm SG,Operating,Change in Working Capital,28767.63,1.1826,34020.6
+2021-09-01,Tapstorm SG,Investing,CapEx,-18750.51,1.0717,-20094.92
+2021-09-01,Tapstorm SG,Investing,Purchase of Intangibles,-20342.99,1.1005,-22387.46
+2021-09-01,Tapstorm SG,Financing,Equity Issuance,-21518.05,1.0318,-22202.32
+2021-09-01,Tapstorm SG,Financing,Loan Repayment,38332.38,1.0646,40808.65
+2021-09-01,TapForge CN,Operating,Net Income,-30300.97,1.011,-30634.28
+2021-09-01,TapForge CN,Operating,Depreciation,-47019.9,0.9941,-46742.48
+2021-09-01,TapForge CN,Operating,Change in Working Capital,31580.49,0.8701,27478.18
+2021-09-01,TapForge CN,Investing,CapEx,14367.27,0.9446,13571.32
+2021-09-01,TapForge CN,Investing,Purchase of Intangibles,-4994.5,0.8332,-4161.42
+2021-09-01,TapForge CN,Financing,Equity Issuance,-17533.04,0.9215,-16156.7
+2021-09-01,TapForge CN,Financing,Loan Repayment,-5426.48,0.9041,-4906.08
+2021-09-01,WhaleCare PH,Operating,Net Income,15665.93,0.9214,14434.59
+2021-09-01,WhaleCare PH,Operating,Depreciation,-25237.93,1.0178,-25687.17
+2021-09-01,WhaleCare PH,Operating,Change in Working Capital,-9404.53,0.9796,-9212.68
+2021-09-01,WhaleCare PH,Investing,CapEx,-34441.46,1.1434,-39380.37
+2021-09-01,WhaleCare PH,Investing,Purchase of Intangibles,-18925.98,0.9538,-18051.6
+2021-09-01,WhaleCare PH,Financing,Equity Issuance,-34604.99,1.1148,-38577.64
+2021-09-01,WhaleCare PH,Financing,Loan Repayment,13659.0,1.0012,13675.39
+2021-09-01,SummonStorm BR,Operating,Net Income,33687.42,1.243,41873.46
+2021-09-01,SummonStorm BR,Operating,Depreciation,-18942.48,0.9747,-18463.24
+2021-09-01,SummonStorm BR,Operating,Change in Working Capital,-22162.66,1.2028,-26657.25
+2021-09-01,SummonStorm BR,Investing,CapEx,-17377.72,0.9052,-15730.31
+2021-09-01,SummonStorm BR,Investing,Purchase of Intangibles,-23194.94,1.2353,-28652.71
+2021-09-01,SummonStorm BR,Financing,Equity Issuance,-31911.54,1.2958,-41350.97
+2021-09-01,SummonStorm BR,Financing,Loan Repayment,-8460.32,1.103,-9331.73
+2021-10-01,Tapstorm SG,Operating,Net Income,-51662.15,1.2137,-62702.35
+2021-10-01,Tapstorm SG,Operating,Depreciation,-51796.88,0.8861,-45897.22
+2021-10-01,Tapstorm SG,Operating,Change in Working Capital,18995.85,0.9316,17696.53
+2021-10-01,Tapstorm SG,Investing,CapEx,-36957.29,0.9672,-35745.09
+2021-10-01,Tapstorm SG,Investing,Purchase of Intangibles,10649.16,1.1025,11740.7
+2021-10-01,Tapstorm SG,Financing,Equity Issuance,5326.48,1.1908,6342.77
+2021-10-01,Tapstorm SG,Financing,Loan Repayment,-48194.94,0.8545,-41182.58
+2021-10-01,TapForge CN,Operating,Net Income,34524.87,1.2895,44519.82
+2021-10-01,TapForge CN,Operating,Depreciation,-26882.2,1.2851,-34546.32
+2021-10-01,TapForge CN,Operating,Change in Working Capital,34052.93,0.8743,29772.48
+2021-10-01,TapForge CN,Investing,CapEx,-17016.97,1.2839,-21848.09
+2021-10-01,TapForge CN,Investing,Purchase of Intangibles,-26284.55,1.1964,-31446.84
+2021-10-01,TapForge CN,Financing,Equity Issuance,27921.39,0.9708,27106.09
+2021-10-01,TapForge CN,Financing,Loan Repayment,7710.22,1.263,9738.01
+2021-10-01,WhaleCare PH,Operating,Net Income,38890.32,1.0693,41585.42
+2021-10-01,WhaleCare PH,Operating,Depreciation,19654.82,1.1867,23324.37
+2021-10-01,WhaleCare PH,Operating,Change in Working Capital,-10949.2,0.8878,-9720.7
+2021-10-01,WhaleCare PH,Investing,CapEx,-45303.24,0.9239,-41855.66
+2021-10-01,WhaleCare PH,Investing,Purchase of Intangibles,39865.4,0.9182,36604.41
+2021-10-01,WhaleCare PH,Financing,Equity Issuance,22527.76,0.9442,21270.71
+2021-10-01,WhaleCare PH,Financing,Loan Repayment,10009.59,1.2481,12492.97
+2021-10-01,SummonStorm BR,Operating,Net Income,-31419.12,1.0278,-32292.57
+2021-10-01,SummonStorm BR,Operating,Depreciation,-25931.67,0.8998,-23333.32
+2021-10-01,SummonStorm BR,Operating,Change in Working Capital,51404.4,1.1473,58976.27
+2021-10-01,SummonStorm BR,Investing,CapEx,41191.03,1.2045,49614.6
+2021-10-01,SummonStorm BR,Investing,Purchase of Intangibles,19611.88,0.9273,18186.1
+2021-10-01,SummonStorm BR,Financing,Equity Issuance,42621.18,0.8187,34893.96
+2021-10-01,SummonStorm BR,Financing,Loan Repayment,-41346.22,1.0725,-44343.82
+2021-11-01,Tapstorm SG,Operating,Net Income,4118.49,0.9985,4112.31
+2021-11-01,Tapstorm SG,Operating,Depreciation,-32127.7,0.8252,-26511.78
+2021-11-01,Tapstorm SG,Operating,Change in Working Capital,39677.33,1.1033,43776.0
+2021-11-01,Tapstorm SG,Investing,CapEx,20207.98,0.8706,17593.07
+2021-11-01,Tapstorm SG,Investing,Purchase of Intangibles,-10297.45,1.2032,-12389.89
+2021-11-01,Tapstorm SG,Financing,Equity Issuance,-61248.91,1.2991,-79568.46
+2021-11-01,Tapstorm SG,Financing,Loan Repayment,-44230.66,1.0747,-47534.69
+2021-11-01,TapForge CN,Operating,Net Income,-28526.42,1.0556,-30112.49
+2021-11-01,TapForge CN,Operating,Depreciation,-235.95,1.0925,-257.78
+2021-11-01,TapForge CN,Operating,Change in Working Capital,20534.16,0.8688,17840.08
+2021-11-01,TapForge CN,Investing,CapEx,49119.47,1.2369,60755.87
+2021-11-01,TapForge CN,Investing,Purchase of Intangibles,-41631.48,0.9137,-38038.68
+2021-11-01,TapForge CN,Financing,Equity Issuance,-22316.94,0.9367,-20904.28
+2021-11-01,TapForge CN,Financing,Loan Repayment,-19523.73,1.2712,-24818.57
+2021-11-01,WhaleCare PH,Operating,Net Income,43126.34,0.9347,40310.19
+2021-11-01,WhaleCare PH,Operating,Depreciation,-22697.55,1.0905,-24751.68
+2021-11-01,WhaleCare PH,Operating,Change in Working Capital,-24135.01,1.006,-24279.82
+2021-11-01,WhaleCare PH,Investing,CapEx,-30822.05,0.9193,-28334.71
+2021-11-01,WhaleCare PH,Investing,Purchase of Intangibles,-32731.52,0.8892,-29104.87
+2021-11-01,WhaleCare PH,Financing,Equity Issuance,12441.5,1.0457,13010.08
+2021-11-01,WhaleCare PH,Financing,Loan Repayment,-33078.73,0.867,-28679.26
+2021-11-01,SummonStorm BR,Operating,Net Income,-13682.8,1.2796,-17508.51
+2021-11-01,SummonStorm BR,Operating,Depreciation,41247.32,0.9225,38050.65
+2021-11-01,SummonStorm BR,Operating,Change in Working Capital,21603.86,0.9403,20314.11
+2021-11-01,SummonStorm BR,Investing,CapEx,-29165.46,1.0149,-29600.03
+2021-11-01,SummonStorm BR,Investing,Purchase of Intangibles,-8811.59,1.184,-10432.92
+2021-11-01,SummonStorm BR,Financing,Equity Issuance,35733.68,1.0869,38838.94
+2021-11-01,SummonStorm BR,Financing,Loan Repayment,37402.25,1.1344,42429.11
+2021-12-01,Tapstorm SG,Operating,Net Income,19448.73,0.8379,16296.09
+2021-12-01,Tapstorm SG,Operating,Depreciation,9204.61,1.1263,10367.15
+2021-12-01,Tapstorm SG,Operating,Change in Working Capital,8825.83,0.8259,7289.25
+2021-12-01,Tapstorm SG,Investing,CapEx,-25699.91,1.0073,-25887.52
+2021-12-01,Tapstorm SG,Investing,Purchase of Intangibles,-12280.28,1.1551,-14184.95
+2021-12-01,Tapstorm SG,Financing,Equity Issuance,24886.95,1.2167,30279.95
+2021-12-01,Tapstorm SG,Financing,Loan Repayment,27080.21,0.886,23993.07
+2021-12-01,TapForge CN,Operating,Net Income,-28430.61,1.1085,-31515.33
+2021-12-01,TapForge CN,Operating,Depreciation,42954.58,1.0304,44260.4
+2021-12-01,TapForge CN,Operating,Change in Working Capital,41395.31,1.1989,49628.84
+2021-12-01,TapForge CN,Investing,CapEx,27567.53,1.2596,34724.06
+2021-12-01,TapForge CN,Investing,Purchase of Intangibles,33732.49,1.2494,42145.37
+2021-12-01,TapForge CN,Financing,Equity Issuance,-30484.81,1.2152,-37045.14
+2021-12-01,TapForge CN,Financing,Loan Repayment,-43342.31,0.9523,-41274.88
+2021-12-01,WhaleCare PH,Operating,Net Income,27501.23,0.9248,25433.14
+2021-12-01,WhaleCare PH,Operating,Depreciation,36870.42,1.0016,36929.41
+2021-12-01,WhaleCare PH,Operating,Change in Working Capital,-52276.62,1.0325,-53975.61
+2021-12-01,WhaleCare PH,Investing,CapEx,30897.63,0.8049,24869.5
+2021-12-01,WhaleCare PH,Investing,Purchase of Intangibles,20104.33,1.0103,20311.4
+2021-12-01,WhaleCare PH,Financing,Equity Issuance,-20619.12,0.8907,-18365.45
+2021-12-01,WhaleCare PH,Financing,Loan Repayment,17022.04,1.1768,20031.54
+2021-12-01,SummonStorm BR,Operating,Net Income,-35010.9,1.033,-36166.26
+2021-12-01,SummonStorm BR,Operating,Depreciation,-30225.01,0.9481,-28656.33
+2021-12-01,SummonStorm BR,Operating,Change in Working Capital,21574.98,1.2559,27096.02
+2021-12-01,SummonStorm BR,Investing,CapEx,44382.19,1.1739,52100.25
+2021-12-01,SummonStorm BR,Investing,Purchase of Intangibles,21158.59,1.0326,21848.36
+2021-12-01,SummonStorm BR,Financing,Equity Issuance,-27028.8,1.1388,-30780.4
+2021-12-01,SummonStorm BR,Financing,Loan Repayment,-16507.87,1.0347,-17080.69
+2022-01-01,Tapstorm SG,Operating,Net Income,-24568.64,1.0928,-26848.61
+2022-01-01,Tapstorm SG,Operating,Depreciation,-16246.6,1.2015,-19520.29
+2022-01-01,Tapstorm SG,Operating,Change in Working Capital,-24636.87,1.1415,-28122.99
+2022-01-01,Tapstorm SG,Investing,CapEx,-13292.84,0.8813,-11714.98
+2022-01-01,Tapstorm SG,Investing,Purchase of Intangibles,-19739.11,0.8382,-16545.32
+2022-01-01,Tapstorm SG,Financing,Equity Issuance,17334.73,1.2225,21191.71
+2022-01-01,Tapstorm SG,Financing,Loan Repayment,-17933.23,1.1393,-20431.33
+2022-01-01,TapForge CN,Operating,Net Income,14996.78,0.8657,12982.71
+2022-01-01,TapForge CN,Operating,Depreciation,-21728.49,1.0761,-23382.03
+2022-01-01,TapForge CN,Operating,Change in Working Capital,4453.98,1.1038,4916.3
+2022-01-01,TapForge CN,Investing,CapEx,-33793.95,1.1464,-38741.38
+2022-01-01,TapForge CN,Investing,Purchase of Intangibles,29068.59,1.1896,34579.99
+2022-01-01,TapForge CN,Financing,Equity Issuance,-29242.6,1.1614,-33962.36
+2022-01-01,TapForge CN,Financing,Loan Repayment,23535.26,1.2388,29155.48
+2022-01-01,WhaleCare PH,Operating,Net Income,40644.6,0.8508,34580.43
+2022-01-01,WhaleCare PH,Operating,Depreciation,16975.19,0.8312,14109.78
+2022-01-01,WhaleCare PH,Operating,Change in Working Capital,-5154.76,1.0012,-5160.95
+2022-01-01,WhaleCare PH,Investing,CapEx,-28709.15,1.0013,-28746.47
+2022-01-01,WhaleCare PH,Investing,Purchase of Intangibles,-48332.52,0.8311,-40169.16
+2022-01-01,WhaleCare PH,Financing,Equity Issuance,42791.19,1.2991,55590.03
+2022-01-01,WhaleCare PH,Financing,Loan Repayment,36416.19,1.1236,40917.23
+2022-01-01,SummonStorm BR,Operating,Net Income,52637.69,0.8423,44336.73
+2022-01-01,SummonStorm BR,Operating,Depreciation,-20499.29,0.9394,-19257.03
+2022-01-01,SummonStorm BR,Operating,Change in Working Capital,-19908.74,1.0768,-21437.73
+2022-01-01,SummonStorm BR,Investing,CapEx,22294.21,1.1963,26670.56
+2022-01-01,SummonStorm BR,Investing,Purchase of Intangibles,4594.72,1.2599,5788.89
+2022-01-01,SummonStorm BR,Financing,Equity Issuance,42878.94,1.1864,50871.57
+2022-01-01,SummonStorm BR,Financing,Loan Repayment,25308.73,0.9683,24506.44
+2022-02-01,Tapstorm SG,Operating,Net Income,17751.37,1.1065,19641.89
+2022-02-01,Tapstorm SG,Operating,Depreciation,22852.42,0.8129,18576.73
+2022-02-01,Tapstorm SG,Operating,Change in Working Capital,13834.07,0.8152,11277.53
+2022-02-01,Tapstorm SG,Investing,CapEx,-25775.29,0.9482,-24440.13
+2022-02-01,Tapstorm SG,Investing,Purchase of Intangibles,18990.38,1.2518,23772.16
+2022-02-01,Tapstorm SG,Financing,Equity Issuance,-19550.43,0.9975,-19501.55
+2022-02-01,Tapstorm SG,Financing,Loan Repayment,14502.93,0.9475,13741.53
+2022-02-01,TapForge CN,Operating,Net Income,-25530.75,1.0803,-27580.87
+2022-02-01,TapForge CN,Operating,Depreciation,18998.59,0.8333,15831.53
+2022-02-01,TapForge CN,Operating,Change in Working Capital,41316.23,0.8012,33102.56
+2022-02-01,TapForge CN,Investing,CapEx,-31477.07,0.8868,-27913.87
+2022-02-01,TapForge CN,Investing,Purchase of Intangibles,-9303.64,0.8086,-7522.92
+2022-02-01,TapForge CN,Financing,Equity Issuance,32360.73,1.0963,35477.07
+2022-02-01,TapForge CN,Financing,Loan Repayment,-29104.98,1.2179,-35446.96
+2022-02-01,WhaleCare PH,Operating,Net Income,-25847.32,0.8397,-21703.99
+2022-02-01,WhaleCare PH,Operating,Depreciation,-23115.66,1.0346,-23915.46
+2022-02-01,WhaleCare PH,Operating,Change in Working Capital,-39119.61,1.2021,-47025.68
+2022-02-01,WhaleCare PH,Investing,CapEx,11724.99,0.9149,10727.19
+2022-02-01,WhaleCare PH,Investing,Purchase of Intangibles,24183.02,1.2197,29496.03
+2022-02-01,WhaleCare PH,Financing,Equity Issuance,4881.22,1.0862,5301.98
+2022-02-01,WhaleCare PH,Financing,Loan Repayment,31401.67,0.813,25529.56
+2022-02-01,SummonStorm BR,Operating,Net Income,24225.52,1.0691,25899.5
+2022-02-01,SummonStorm BR,Operating,Depreciation,-13231.79,1.2233,-16186.45
+2022-02-01,SummonStorm BR,Operating,Change in Working Capital,-27216.21,1.1433,-31116.29
+2022-02-01,SummonStorm BR,Investing,CapEx,-41371.79,0.9774,-40436.79
+2022-02-01,SummonStorm BR,Investing,Purchase of Intangibles,-26337.07,1.067,-28101.65
+2022-02-01,SummonStorm BR,Financing,Equity Issuance,-6100.35,1.0973,-6693.91
+2022-02-01,SummonStorm BR,Financing,Loan Repayment,24776.02,0.8299,20561.62
+2022-03-01,Tapstorm SG,Operating,Net Income,-28535.22,1.0059,-28703.58
+2022-03-01,Tapstorm SG,Operating,Depreciation,16687.92,1.1585,19332.96
+2022-03-01,Tapstorm SG,Operating,Change in Working Capital,51637.84,1.005,51896.03
+2022-03-01,Tapstorm SG,Investing,CapEx,-7607.42,0.8172,-6216.78
+2022-03-01,Tapstorm SG,Investing,Purchase of Intangibles,-5518.84,1.2705,-7011.69
+2022-03-01,Tapstorm SG,Financing,Equity Issuance,13755.48,1.1523,15850.44
+2022-03-01,Tapstorm SG,Financing,Loan Repayment,1617.85,1.1655,1885.6
+2022-03-01,TapForge CN,Operating,Net Income,-36330.9,1.1185,-40636.11
+2022-03-01,TapForge CN,Operating,Depreciation,-37738.68,1.1253,-42467.34
+2022-03-01,TapForge CN,Operating,Change in Working Capital,-5671.28,0.8125,-4607.91
+2022-03-01,TapForge CN,Investing,CapEx,-11937.22,1.0509,-12544.82
+2022-03-01,TapForge CN,Investing,Purchase of Intangibles,-10421.29,1.1026,-11490.51
+2022-03-01,TapForge CN,Financing,Equity Issuance,-24726.87,1.1437,-28280.12
+2022-03-01,TapForge CN,Financing,Loan Repayment,30643.02,0.9869,30241.6
+2022-03-01,WhaleCare PH,Operating,Net Income,-42945.58,0.9179,-39419.75
+2022-03-01,WhaleCare PH,Operating,Depreciation,30096.53,0.9096,27375.8
+2022-03-01,WhaleCare PH,Operating,Change in Working Capital,20958.74,1.2906,27049.35
+2022-03-01,WhaleCare PH,Investing,CapEx,-20414.81,1.0388,-21206.9
+2022-03-01,WhaleCare PH,Investing,Purchase of Intangibles,-26171.61,1.154,-30202.04
+2022-03-01,WhaleCare PH,Financing,Equity Issuance,26894.84,1.1248,30251.32
+2022-03-01,WhaleCare PH,Financing,Loan Repayment,-23529.63,1.2911,-30379.11
+2022-03-01,SummonStorm BR,Operating,Net Income,-26168.41,1.2769,-33414.44
+2022-03-01,SummonStorm BR,Operating,Depreciation,-24713.04,0.925,-22859.56
+2022-03-01,SummonStorm BR,Operating,Change in Working Capital,-7578.33,1.2468,-9448.66
+2022-03-01,SummonStorm BR,Investing,CapEx,26774.6,1.284,34378.59
+2022-03-01,SummonStorm BR,Investing,Purchase of Intangibles,-14504.36,1.272,-18449.55
+2022-03-01,SummonStorm BR,Financing,Equity Issuance,27478.27,0.914,25115.14
+2022-03-01,SummonStorm BR,Financing,Loan Repayment,30873.02,1.1355,35056.31
+2022-04-01,Tapstorm SG,Operating,Net Income,39127.33,1.2804,50098.63
+2022-04-01,Tapstorm SG,Operating,Depreciation,-24599.58,1.1671,-28710.17
+2022-04-01,Tapstorm SG,Operating,Change in Working Capital,17341.37,1.233,21381.91
+2022-04-01,Tapstorm SG,Investing,CapEx,35132.42,0.9213,32367.5
+2022-04-01,Tapstorm SG,Investing,Purchase of Intangibles,-25761.2,1.1954,-30794.94
+2022-04-01,Tapstorm SG,Financing,Equity Issuance,48563.07,0.8413,40856.11
+2022-04-01,Tapstorm SG,Financing,Loan Repayment,7983.33,0.819,6538.35
+2022-04-01,TapForge CN,Operating,Net Income,-18039.91,0.8965,-16172.78
+2022-04-01,TapForge CN,Operating,Depreciation,16440.88,0.9124,15000.66
+2022-04-01,TapForge CN,Operating,Change in Working Capital,47129.87,0.8172,38514.53
+2022-04-01,TapForge CN,Investing,CapEx,30458.39,1.2163,37046.54
+2022-04-01,TapForge CN,Investing,Purchase of Intangibles,-2548.71,1.1991,-3056.16
+2022-04-01,TapForge CN,Financing,Equity Issuance,-3479.74,1.1876,-4132.54
+2022-04-01,TapForge CN,Financing,Loan Repayment,-35307.5,0.8721,-30791.67
+2022-04-01,WhaleCare PH,Operating,Net Income,12305.91,0.9571,11777.99
+2022-04-01,WhaleCare PH,Operating,Depreciation,-25064.0,1.124,-28171.94
+2022-04-01,WhaleCare PH,Operating,Change in Working Capital,-22521.4,1.0641,-23965.02
+2022-04-01,WhaleCare PH,Investing,CapEx,48739.16,1.1855,57780.27
+2022-04-01,WhaleCare PH,Investing,Purchase of Intangibles,-22156.01,0.8906,-19732.14
+2022-04-01,WhaleCare PH,Financing,Equity Issuance,-19933.88,0.9677,-19290.02
+2022-04-01,WhaleCare PH,Financing,Loan Repayment,-31770.68,1.0177,-32333.02
+2022-04-01,SummonStorm BR,Operating,Net Income,-38344.88,1.0641,-40802.79
+2022-04-01,SummonStorm BR,Operating,Depreciation,26470.67,1.0391,27505.67
+2022-04-01,SummonStorm BR,Operating,Change in Working Capital,2549.32,1.2278,3130.06
+2022-04-01,SummonStorm BR,Investing,CapEx,34704.95,0.9498,32962.76
+2022-04-01,SummonStorm BR,Investing,Purchase of Intangibles,-8715.56,1.0536,-9182.71
+2022-04-01,SummonStorm BR,Financing,Equity Issuance,6574.33,1.15,7560.48
+2022-04-01,SummonStorm BR,Financing,Loan Repayment,19092.93,0.8099,15463.36
+2022-05-01,Tapstorm SG,Operating,Net Income,-26500.78,1.0586,-28053.73
+2022-05-01,Tapstorm SG,Operating,Depreciation,42504.63,1.2602,53564.33
+2022-05-01,Tapstorm SG,Operating,Change in Working Capital,-553.51,0.8295,-459.14
+2022-05-01,Tapstorm SG,Investing,CapEx,-26857.09,1.204,-32335.94
+2022-05-01,Tapstorm SG,Investing,Purchase of Intangibles,-42731.49,1.0359,-44265.55
+2022-05-01,Tapstorm SG,Financing,Equity Issuance,-23779.59,0.9304,-22124.53
+2022-05-01,Tapstorm SG,Financing,Loan Repayment,34250.1,0.8301,28431.01
+2022-05-01,TapForge CN,Operating,Net Income,33241.38,0.8071,26829.12
+2022-05-01,TapForge CN,Operating,Depreciation,-18166.91,1.0569,-19200.61
+2022-05-01,TapForge CN,Operating,Change in Working Capital,32284.77,1.0344,33395.37
+2022-05-01,TapForge CN,Investing,CapEx,26407.65,1.1904,31435.67
+2022-05-01,TapForge CN,Investing,Purchase of Intangibles,21187.01,0.9521,20172.15
+2022-05-01,TapForge CN,Financing,Equity Issuance,44155.51,1.1829,52231.55
+2022-05-01,TapForge CN,Financing,Loan Repayment,22905.42,0.8849,20269.01
+2022-05-01,WhaleCare PH,Operating,Net Income,43122.46,1.0265,44265.21
+2022-05-01,WhaleCare PH,Operating,Depreciation,20908.76,1.1663,24385.89
+2022-05-01,WhaleCare PH,Operating,Change in Working Capital,23465.86,1.2687,29771.14
+2022-05-01,WhaleCare PH,Investing,CapEx,-22207.36,0.998,-22162.95
+2022-05-01,WhaleCare PH,Investing,Purchase of Intangibles,37596.56,0.8771,32975.94
+2022-05-01,WhaleCare PH,Financing,Equity Issuance,-14624.57,1.0787,-15775.52
+2022-05-01,WhaleCare PH,Financing,Loan Repayment,-30537.61,0.9609,-29343.59
+2022-05-01,SummonStorm BR,Operating,Net Income,29744.85,1.2002,35699.77
+2022-05-01,SummonStorm BR,Operating,Depreciation,-29814.54,1.1487,-34247.96
+2022-05-01,SummonStorm BR,Operating,Change in Working Capital,-49588.41,1.1212,-55598.53
+2022-05-01,SummonStorm BR,Investing,CapEx,-22450.04,0.8971,-20139.93
+2022-05-01,SummonStorm BR,Investing,Purchase of Intangibles,-57784.43,1.0913,-63060.15
+2022-05-01,SummonStorm BR,Financing,Equity Issuance,38457.17,0.9999,38453.32
+2022-05-01,SummonStorm BR,Financing,Loan Repayment,7638.13,0.825,6301.46
+2022-06-01,Tapstorm SG,Operating,Net Income,-11328.47,0.9977,-11302.41
+2022-06-01,Tapstorm SG,Operating,Depreciation,37327.65,0.8436,31489.61
+2022-06-01,Tapstorm SG,Operating,Change in Working Capital,-16067.35,1.2381,-19892.99
+2022-06-01,Tapstorm SG,Investing,CapEx,-27954.41,1.0964,-30649.22
+2022-06-01,Tapstorm SG,Investing,Purchase of Intangibles,16683.48,0.8452,14100.88
+2022-06-01,Tapstorm SG,Financing,Equity Issuance,-19448.69,0.818,-15909.03
+2022-06-01,Tapstorm SG,Financing,Loan Repayment,-21941.2,1.2862,-28220.77
+2022-06-01,TapForge CN,Operating,Net Income,36827.97,1.2588,46359.05
+2022-06-01,TapForge CN,Operating,Depreciation,-22294.76,1.0174,-22682.69
+2022-06-01,TapForge CN,Operating,Change in Working Capital,42123.44,0.84,35383.69
+2022-06-01,TapForge CN,Investing,CapEx,-13298.31,0.8008,-10649.29
+2022-06-01,TapForge CN,Investing,Purchase of Intangibles,-34533.56,1.286,-44410.16
+2022-06-01,TapForge CN,Financing,Equity Issuance,27565.5,1.279,35256.27
+2022-06-01,TapForge CN,Financing,Loan Repayment,-10180.24,0.8492,-8645.06
+2022-06-01,WhaleCare PH,Operating,Net Income,17921.72,1.2947,23203.25
+2022-06-01,WhaleCare PH,Operating,Depreciation,-23586.96,1.0736,-25322.96
+2022-06-01,WhaleCare PH,Operating,Change in Working Capital,-39874.93,1.0208,-40704.33
+2022-06-01,WhaleCare PH,Investing,CapEx,-23489.03,1.2731,-29903.88
+2022-06-01,WhaleCare PH,Investing,Purchase of Intangibles,-49814.35,0.8769,-43682.2
+2022-06-01,WhaleCare PH,Financing,Equity Issuance,-21177.1,1.0861,-23000.45
+2022-06-01,WhaleCare PH,Financing,Loan Repayment,-26180.92,0.9996,-26170.45
+2022-06-01,SummonStorm BR,Operating,Net Income,-40867.73,1.2556,-51313.52
+2022-06-01,SummonStorm BR,Operating,Depreciation,-9887.98,1.2981,-12835.59
+2022-06-01,SummonStorm BR,Operating,Change in Working Capital,-39419.58,0.9183,-36199.0
+2022-06-01,SummonStorm BR,Investing,CapEx,-17197.12,1.1191,-19245.3
+2022-06-01,SummonStorm BR,Investing,Purchase of Intangibles,22199.94,0.9509,21109.92
+2022-06-01,SummonStorm BR,Financing,Equity Issuance,-28006.35,1.114,-31199.07
+2022-06-01,SummonStorm BR,Financing,Loan Repayment,15310.6,1.0403,15927.62
+2022-07-01,Tapstorm SG,Operating,Net Income,-56937.9,0.8377,-47696.88
+2022-07-01,Tapstorm SG,Operating,Depreciation,-27674.17,1.0231,-28313.44
+2022-07-01,Tapstorm SG,Operating,Change in Working Capital,-26653.68,1.1772,-31376.71
+2022-07-01,Tapstorm SG,Investing,CapEx,17925.08,1.1086,19871.74
+2022-07-01,Tapstorm SG,Investing,Purchase of Intangibles,8898.04,1.181,10508.59
+2022-07-01,Tapstorm SG,Financing,Equity Issuance,38633.29,1.051,40603.59
+2022-07-01,Tapstorm SG,Financing,Loan Repayment,21749.03,0.95,20661.58
+2022-07-01,TapForge CN,Operating,Net Income,28969.99,0.9157,26527.82
+2022-07-01,TapForge CN,Operating,Depreciation,-13285.23,1.1452,-15214.25
+2022-07-01,TapForge CN,Operating,Change in Working Capital,34766.84,0.8437,29332.78
+2022-07-01,TapForge CN,Investing,CapEx,21223.66,1.1067,23488.22
+2022-07-01,TapForge CN,Investing,Purchase of Intangibles,5169.55,1.2647,6537.93
+2022-07-01,TapForge CN,Financing,Equity Issuance,21526.75,1.2263,26398.25
+2022-07-01,TapForge CN,Financing,Loan Repayment,-34346.73,1.2869,-44200.81
+2022-07-01,WhaleCare PH,Operating,Net Income,-32054.02,1.2989,-41634.97
+2022-07-01,WhaleCare PH,Operating,Depreciation,29604.75,0.9703,28725.49
+2022-07-01,WhaleCare PH,Operating,Change in Working Capital,24578.06,0.8443,20751.26
+2022-07-01,WhaleCare PH,Investing,CapEx,25461.25,1.0154,25853.35
+2022-07-01,WhaleCare PH,Investing,Purchase of Intangibles,-18329.71,1.2427,-22778.33
+2022-07-01,WhaleCare PH,Financing,Equity Issuance,38937.51,1.2329,48006.06
+2022-07-01,WhaleCare PH,Financing,Loan Repayment,-24392.57,1.1918,-29071.06
+2022-07-01,SummonStorm BR,Operating,Net Income,18688.27,1.2786,23894.82
+2022-07-01,SummonStorm BR,Operating,Depreciation,46494.64,1.1961,55612.24
+2022-07-01,SummonStorm BR,Operating,Change in Working Capital,39858.68,0.8004,31902.89
+2022-07-01,SummonStorm BR,Investing,CapEx,-26165.4,0.859,-22476.08
+2022-07-01,SummonStorm BR,Investing,Purchase of Intangibles,20787.92,0.9844,20463.63
+2022-07-01,SummonStorm BR,Financing,Equity Issuance,-21152.84,1.1176,-23640.41
+2022-07-01,SummonStorm BR,Financing,Loan Repayment,-13440.51,1.1079,-14890.74
+2022-08-01,Tapstorm SG,Operating,Net Income,-36433.97,0.8164,-29744.69
+2022-08-01,Tapstorm SG,Operating,Depreciation,47066.92,1.0756,50625.18
+2022-08-01,Tapstorm SG,Operating,Change in Working Capital,-31876.71,1.185,-37773.9
+2022-08-01,Tapstorm SG,Investing,CapEx,43619.94,1.1497,50149.85
+2022-08-01,Tapstorm SG,Investing,Purchase of Intangibles,-35332.35,0.9834,-34745.83
+2022-08-01,Tapstorm SG,Financing,Equity Issuance,-7363.5,0.9861,-7261.15
+2022-08-01,Tapstorm SG,Financing,Loan Repayment,42561.4,0.8846,37649.81
+2022-08-01,TapForge CN,Operating,Net Income,22307.08,1.1665,26021.21
+2022-08-01,TapForge CN,Operating,Depreciation,-27630.07,1.1024,-30459.39
+2022-08-01,TapForge CN,Operating,Change in Working Capital,14082.74,1.0102,14226.38
+2022-08-01,TapForge CN,Investing,CapEx,-3942.26,0.8983,-3541.33
+2022-08-01,TapForge CN,Investing,Purchase of Intangibles,17532.79,1.2179,21353.18
+2022-08-01,TapForge CN,Financing,Equity Issuance,-28290.95,0.9289,-26279.46
+2022-08-01,TapForge CN,Financing,Loan Repayment,26546.67,0.8932,23711.49
+2022-08-01,WhaleCare PH,Operating,Net Income,-34562.9,1.0363,-35817.53
+2022-08-01,WhaleCare PH,Operating,Depreciation,-28481.66,1.0355,-29492.76
+2022-08-01,WhaleCare PH,Operating,Change in Working Capital,26834.87,1.0731,28796.5
+2022-08-01,WhaleCare PH,Investing,CapEx,-18472.81,1.2664,-23393.97
+2022-08-01,WhaleCare PH,Investing,Purchase of Intangibles,49291.14,1.0242,50483.99
+2022-08-01,WhaleCare PH,Financing,Equity Issuance,48634.79,0.9124,44374.38
+2022-08-01,WhaleCare PH,Financing,Loan Repayment,28216.81,1.0762,30366.93
+2022-08-01,SummonStorm BR,Operating,Net Income,-8376.69,0.9795,-8204.97
+2022-08-01,SummonStorm BR,Operating,Depreciation,29433.07,1.0306,30333.72
+2022-08-01,SummonStorm BR,Operating,Change in Working Capital,-9881.77,0.8062,-7966.68
+2022-08-01,SummonStorm BR,Investing,CapEx,-8232.2,0.8207,-6756.17
+2022-08-01,SummonStorm BR,Investing,Purchase of Intangibles,-36995.36,0.9085,-33610.28
+2022-08-01,SummonStorm BR,Financing,Equity Issuance,14750.85,1.0764,15877.81
+2022-08-01,SummonStorm BR,Financing,Loan Repayment,-19093.89,1.0932,-20873.44
+2022-09-01,Tapstorm SG,Operating,Net Income,-36013.98,0.9478,-34134.05
+2022-09-01,Tapstorm SG,Operating,Depreciation,-30694.47,0.9079,-27867.51
+2022-09-01,Tapstorm SG,Operating,Change in Working Capital,33407.37,1.0177,33998.68
+2022-09-01,Tapstorm SG,Investing,CapEx,46596.75,1.0751,50096.17
+2022-09-01,Tapstorm SG,Investing,Purchase of Intangibles,-18598.75,1.1483,-21356.94
+2022-09-01,Tapstorm SG,Financing,Equity Issuance,29086.39,1.1267,32771.64
+2022-09-01,Tapstorm SG,Financing,Loan Repayment,-43033.79,1.0535,-45336.1
+2022-09-01,TapForge CN,Operating,Net Income,13923.63,1.2853,17896.04
+2022-09-01,TapForge CN,Operating,Depreciation,23417.98,1.1695,27387.33
+2022-09-01,TapForge CN,Operating,Change in Working Capital,-35362.2,0.8606,-30432.71
+2022-09-01,TapForge CN,Investing,CapEx,-10217.14,0.8308,-8488.4
+2022-09-01,TapForge CN,Investing,Purchase of Intangibles,-27761.8,0.973,-27012.23
+2022-09-01,TapForge CN,Financing,Equity Issuance,-21547.5,0.9172,-19763.37
+2022-09-01,TapForge CN,Financing,Loan Repayment,14119.37,0.9458,13354.1
+2022-09-01,WhaleCare PH,Operating,Net Income,39438.79,1.199,47287.11
+2022-09-01,WhaleCare PH,Operating,Depreciation,36021.65,1.2508,45055.88
+2022-09-01,WhaleCare PH,Operating,Change in Working Capital,-31412.42,1.2077,-37936.78
+2022-09-01,WhaleCare PH,Investing,CapEx,-33490.13,0.9534,-31929.49
+2022-09-01,WhaleCare PH,Investing,Purchase of Intangibles,-20201.31,1.0548,-21308.34
+2022-09-01,WhaleCare PH,Financing,Equity Issuance,-25642.55,1.0281,-26363.11
+2022-09-01,WhaleCare PH,Financing,Loan Repayment,15142.52,0.8849,13399.62
+2022-09-01,SummonStorm BR,Operating,Net Income,34277.34,1.1798,40440.41
+2022-09-01,SummonStorm BR,Operating,Depreciation,-14145.19,1.0021,-14174.89
+2022-09-01,SummonStorm BR,Operating,Change in Working Capital,19015.07,1.183,22494.83
+2022-09-01,SummonStorm BR,Investing,CapEx,12726.59,1.0592,13480.0
+2022-09-01,SummonStorm BR,Investing,Purchase of Intangibles,27602.29,1.2496,34491.82
+2022-09-01,SummonStorm BR,Financing,Equity Issuance,-21891.3,0.827,-18104.11
+2022-09-01,SummonStorm BR,Financing,Loan Repayment,-29830.32,1.2883,-38430.4
+2022-10-01,Tapstorm SG,Operating,Net Income,-17040.26,1.0625,-18105.28
+2022-10-01,Tapstorm SG,Operating,Depreciation,-15940.04,1.209,-19271.51
+2022-10-01,Tapstorm SG,Operating,Change in Working Capital,-30249.81,1.2033,-36399.6
+2022-10-01,Tapstorm SG,Investing,CapEx,23388.98,1.0618,24834.42
+2022-10-01,Tapstorm SG,Investing,Purchase of Intangibles,-59098.24,0.9315,-55050.01
+2022-10-01,Tapstorm SG,Financing,Equity Issuance,32826.92,0.994,32629.96
+2022-10-01,Tapstorm SG,Financing,Loan Repayment,26691.75,1.0002,26697.09
+2022-10-01,TapForge CN,Operating,Net Income,40568.81,1.1786,47814.4
+2022-10-01,TapForge CN,Operating,Depreciation,37024.29,1.0923,40441.63
+2022-10-01,TapForge CN,Operating,Change in Working Capital,-27200.56,1.0436,-28386.5
+2022-10-01,TapForge CN,Investing,CapEx,61551.03,0.9618,59199.78
+2022-10-01,TapForge CN,Investing,Purchase of Intangibles,38870.58,1.2428,48308.36
+2022-10-01,TapForge CN,Financing,Equity Issuance,-11635.59,1.2988,-15112.3
+2022-10-01,TapForge CN,Financing,Loan Repayment,-20994.47,0.8371,-17574.47
+2022-10-01,WhaleCare PH,Operating,Net Income,-3512.54,0.8603,-3021.84
+2022-10-01,WhaleCare PH,Operating,Depreciation,-7426.64,1.1611,-8623.07
+2022-10-01,WhaleCare PH,Operating,Change in Working Capital,60800.87,1.2935,78645.93
+2022-10-01,WhaleCare PH,Investing,CapEx,-41220.73,0.8053,-33195.05
+2022-10-01,WhaleCare PH,Investing,Purchase of Intangibles,-4789.54,1.1655,-5582.21
+2022-10-01,WhaleCare PH,Financing,Equity Issuance,-24933.65,1.227,-30593.59
+2022-10-01,WhaleCare PH,Financing,Loan Repayment,20732.09,1.1513,23868.86
+2022-10-01,SummonStorm BR,Operating,Net Income,56819.85,0.9299,52836.78
+2022-10-01,SummonStorm BR,Operating,Depreciation,3259.47,0.8746,2850.73
+2022-10-01,SummonStorm BR,Operating,Change in Working Capital,17382.27,1.2711,22094.6
+2022-10-01,SummonStorm BR,Investing,CapEx,-17508.46,1.1685,-20458.64
+2022-10-01,SummonStorm BR,Investing,Purchase of Intangibles,16442.79,1.1485,18884.54
+2022-10-01,SummonStorm BR,Financing,Equity Issuance,28092.88,0.8278,23255.29
+2022-10-01,SummonStorm BR,Financing,Loan Repayment,-35659.4,0.8363,-29821.96
+2022-11-01,Tapstorm SG,Operating,Net Income,18746.49,1.0291,19292.01
+2022-11-01,Tapstorm SG,Operating,Depreciation,-24076.66,0.99,-23835.89
+2022-11-01,Tapstorm SG,Operating,Change in Working Capital,-13543.17,1.2066,-16341.19
+2022-11-01,Tapstorm SG,Investing,CapEx,-14516.2,1.2344,-17918.8
+2022-11-01,Tapstorm SG,Investing,Purchase of Intangibles,29933.34,1.0545,31564.71
+2022-11-01,Tapstorm SG,Financing,Equity Issuance,31933.86,0.9158,29245.03
+2022-11-01,Tapstorm SG,Financing,Loan Repayment,2868.62,1.2958,3717.16
+2022-11-01,TapForge CN,Operating,Net Income,-16257.39,1.2035,-19565.77
+2022-11-01,TapForge CN,Operating,Depreciation,-21127.59,0.9778,-20658.56
+2022-11-01,TapForge CN,Operating,Change in Working Capital,-20375.98,0.9358,-19067.84
+2022-11-01,TapForge CN,Investing,CapEx,21832.04,1.2974,28324.89
+2022-11-01,TapForge CN,Investing,Purchase of Intangibles,-5107.81,1.2316,-6290.78
+2022-11-01,TapForge CN,Financing,Equity Issuance,37869.86,0.8035,30428.43
+2022-11-01,TapForge CN,Financing,Loan Repayment,-24074.68,1.2222,-29424.07
+2022-11-01,WhaleCare PH,Operating,Net Income,58696.05,0.9962,58473.01
+2022-11-01,WhaleCare PH,Operating,Depreciation,32539.0,1.1339,36895.97
+2022-11-01,WhaleCare PH,Operating,Change in Working Capital,-29591.18,0.8475,-25078.53
+2022-11-01,WhaleCare PH,Investing,CapEx,14714.53,1.2239,18009.11
+2022-11-01,WhaleCare PH,Investing,Purchase of Intangibles,18020.4,1.024,18452.89
+2022-11-01,WhaleCare PH,Financing,Equity Issuance,34629.89,1.1878,41133.38
+2022-11-01,WhaleCare PH,Financing,Loan Repayment,-21680.61,1.2936,-28046.04
+2022-11-01,SummonStorm BR,Operating,Net Income,-16681.29,1.2517,-20879.97
+2022-11-01,SummonStorm BR,Operating,Depreciation,-47670.82,0.9748,-46469.52
+2022-11-01,SummonStorm BR,Operating,Change in Working Capital,29472.43,0.8806,25953.42
+2022-11-01,SummonStorm BR,Investing,CapEx,-34528.05,0.9363,-32328.61
+2022-11-01,SummonStorm BR,Investing,Purchase of Intangibles,21312.58,0.8497,18109.3
+2022-11-01,SummonStorm BR,Financing,Equity Issuance,-39637.16,0.9313,-36914.09
+2022-11-01,SummonStorm BR,Financing,Loan Repayment,-18636.11,1.1577,-21575.02
+2022-12-01,Tapstorm SG,Operating,Net Income,-39285.32,1.1059,-43445.64
+2022-12-01,Tapstorm SG,Operating,Depreciation,-19619.83,0.9776,-19180.35
+2022-12-01,Tapstorm SG,Operating,Change in Working Capital,-44618.06,0.9395,-41918.67
+2022-12-01,Tapstorm SG,Investing,CapEx,40730.53,1.0285,41891.35
+2022-12-01,Tapstorm SG,Investing,Purchase of Intangibles,19972.44,1.0785,21540.28
+2022-12-01,Tapstorm SG,Financing,Equity Issuance,-52302.14,1.1082,-57961.23
+2022-12-01,Tapstorm SG,Financing,Loan Repayment,-26741.71,0.8765,-23439.11
+2022-12-01,TapForge CN,Operating,Net Income,-45682.64,1.1919,-54449.14
+2022-12-01,TapForge CN,Operating,Depreciation,11567.63,0.8629,9981.71
+2022-12-01,TapForge CN,Operating,Change in Working Capital,33465.49,1.1511,38522.13
+2022-12-01,TapForge CN,Investing,CapEx,29821.18,1.0186,30375.85
+2022-12-01,TapForge CN,Investing,Purchase of Intangibles,-20359.62,0.9229,-18789.89
+2022-12-01,TapForge CN,Financing,Equity Issuance,36565.55,1.2576,45984.84
+2022-12-01,TapForge CN,Financing,Loan Repayment,40671.01,0.8117,33012.66
+2022-12-01,WhaleCare PH,Operating,Net Income,-31470.7,1.2549,-39492.58
+2022-12-01,WhaleCare PH,Operating,Depreciation,29751.56,0.948,28204.48
+2022-12-01,WhaleCare PH,Operating,Change in Working Capital,28219.27,1.2164,34325.92
+2022-12-01,WhaleCare PH,Investing,CapEx,-31322.93,1.207,-37806.78
+2022-12-01,WhaleCare PH,Investing,Purchase of Intangibles,34634.15,0.8459,29297.03
+2022-12-01,WhaleCare PH,Financing,Equity Issuance,34030.89,1.1255,38301.77
+2022-12-01,WhaleCare PH,Financing,Loan Repayment,-32309.9,1.069,-34539.28
+2022-12-01,SummonStorm BR,Operating,Net Income,19703.52,1.1626,22907.31
+2022-12-01,SummonStorm BR,Operating,Depreciation,37146.94,1.1018,40928.5
+2022-12-01,SummonStorm BR,Operating,Change in Working Capital,-31938.05,1.1146,-35598.15
+2022-12-01,SummonStorm BR,Investing,CapEx,29680.32,1.2308,36530.54
+2022-12-01,SummonStorm BR,Investing,Purchase of Intangibles,-22378.68,0.955,-21371.64
+2022-12-01,SummonStorm BR,Financing,Equity Issuance,36886.92,1.0925,40298.96
+2022-12-01,SummonStorm BR,Financing,Loan Repayment,539.31,1.1071,597.07
+2023-01-01,Tapstorm SG,Operating,Net Income,24344.27,0.9579,23319.38
+2023-01-01,Tapstorm SG,Operating,Depreciation,20350.77,1.0397,21158.7
+2023-01-01,Tapstorm SG,Operating,Change in Working Capital,19303.64,0.8449,16309.65
+2023-01-01,Tapstorm SG,Investing,CapEx,-21865.73,1.067,-23330.73
+2023-01-01,Tapstorm SG,Investing,Purchase of Intangibles,12622.09,1.027,12962.89
+2023-01-01,Tapstorm SG,Financing,Equity Issuance,-20865.06,0.9025,-18830.72
+2023-01-01,Tapstorm SG,Financing,Loan Repayment,-10889.1,0.8856,-9643.39
+2023-01-01,TapForge CN,Operating,Net Income,-29973.69,0.8603,-25786.37
+2023-01-01,TapForge CN,Operating,Depreciation,-36304.41,0.872,-31657.45
+2023-01-01,TapForge CN,Operating,Change in Working Capital,-37616.43,1.1425,-42976.77
+2023-01-01,TapForge CN,Investing,CapEx,31584.06,0.8047,25415.69
+2023-01-01,TapForge CN,Investing,Purchase of Intangibles,18268.9,1.1228,20512.32
+2023-01-01,TapForge CN,Financing,Equity Issuance,11734.19,1.1233,13181.02
+2023-01-01,TapForge CN,Financing,Loan Repayment,17187.89,0.8635,14841.74
+2023-01-01,WhaleCare PH,Operating,Net Income,-21197.26,0.8356,-17712.43
+2023-01-01,WhaleCare PH,Operating,Depreciation,17434.56,1.2039,20989.47
+2023-01-01,WhaleCare PH,Operating,Change in Working Capital,-54145.41,1.1055,-59857.75
+2023-01-01,WhaleCare PH,Investing,CapEx,33458.78,0.9643,32264.3
+2023-01-01,WhaleCare PH,Investing,Purchase of Intangibles,31950.44,1.292,41279.97
+2023-01-01,WhaleCare PH,Financing,Equity Issuance,28729.34,0.8837,25388.12
+2023-01-01,WhaleCare PH,Financing,Loan Repayment,18966.66,1.0743,20375.88
+2023-01-01,SummonStorm BR,Operating,Net Income,26652.11,1.2111,32278.37
+2023-01-01,SummonStorm BR,Operating,Depreciation,33361.42,1.0618,35423.16
+2023-01-01,SummonStorm BR,Operating,Change in Working Capital,-36573.56,1.1656,-42630.14
+2023-01-01,SummonStorm BR,Investing,CapEx,28566.89,0.9406,26870.02
+2023-01-01,SummonStorm BR,Investing,Purchase of Intangibles,-34153.11,1.0899,-37223.47
+2023-01-01,SummonStorm BR,Financing,Equity Issuance,19242.72,0.9755,18771.27
+2023-01-01,SummonStorm BR,Financing,Loan Repayment,6150.63,1.0128,6229.36
+2023-02-01,Tapstorm SG,Operating,Net Income,40781.12,1.0197,41584.51
+2023-02-01,Tapstorm SG,Operating,Depreciation,-17861.8,1.1518,-20573.22
+2023-02-01,Tapstorm SG,Operating,Change in Working Capital,-17811.51,0.9682,-17245.1
+2023-02-01,Tapstorm SG,Investing,CapEx,-14464.09,0.8448,-12219.26
+2023-02-01,Tapstorm SG,Investing,Purchase of Intangibles,-28703.72,1.1862,-34048.35
+2023-02-01,Tapstorm SG,Financing,Equity Issuance,18540.17,0.8629,15998.31
+2023-02-01,Tapstorm SG,Financing,Loan Repayment,42857.1,0.8571,36732.82
+2023-02-01,TapForge CN,Operating,Net Income,42537.82,1.2678,53929.45
+2023-02-01,TapForge CN,Operating,Depreciation,29654.16,0.8346,24749.36
+2023-02-01,TapForge CN,Operating,Change in Working Capital,16613.08,1.2809,21279.69
+2023-02-01,TapForge CN,Investing,CapEx,-47312.36,1.2398,-58657.86
+2023-02-01,TapForge CN,Investing,Purchase of Intangibles,38851.55,0.9775,37977.39
+2023-02-01,TapForge CN,Financing,Equity Issuance,17010.59,1.1559,19662.54
+2023-02-01,TapForge CN,Financing,Loan Repayment,-30083.03,0.854,-25690.91
+2023-02-01,WhaleCare PH,Operating,Net Income,28451.52,1.0068,28644.99
+2023-02-01,WhaleCare PH,Operating,Depreciation,-32070.93,0.8407,-26962.03
+2023-02-01,WhaleCare PH,Operating,Change in Working Capital,-26775.67,0.9986,-26738.18
+2023-02-01,WhaleCare PH,Investing,CapEx,-25277.41,0.8346,-21096.53
+2023-02-01,WhaleCare PH,Investing,Purchase of Intangibles,60264.28,1.0219,61584.07
+2023-02-01,WhaleCare PH,Financing,Equity Issuance,32170.48,1.0261,33010.13
+2023-02-01,WhaleCare PH,Financing,Loan Repayment,-17213.7,1.2872,-22157.47
+2023-02-01,SummonStorm BR,Operating,Net Income,-20351.15,1.1378,-23155.54
+2023-02-01,SummonStorm BR,Operating,Depreciation,47753.81,1.2415,59286.36
+2023-02-01,SummonStorm BR,Operating,Change in Working Capital,21619.13,0.9881,21361.86
+2023-02-01,SummonStorm BR,Investing,CapEx,14522.13,0.8401,12200.04
+2023-02-01,SummonStorm BR,Investing,Purchase of Intangibles,26463.82,1.0619,28101.93
+2023-02-01,SummonStorm BR,Financing,Equity Issuance,-23616.58,1.2262,-28958.65
+2023-02-01,SummonStorm BR,Financing,Loan Repayment,-42680.08,1.0309,-43998.89
+2023-03-01,Tapstorm SG,Operating,Net Income,44973.6,1.2764,57404.3
+2023-03-01,Tapstorm SG,Operating,Depreciation,-22387.3,1.2796,-28646.79
+2023-03-01,Tapstorm SG,Operating,Change in Working Capital,35901.34,1.2429,44621.78
+2023-03-01,Tapstorm SG,Investing,CapEx,24413.95,1.0817,26408.57
+2023-03-01,Tapstorm SG,Investing,Purchase of Intangibles,-16336.82,0.9336,-15252.06
+2023-03-01,Tapstorm SG,Financing,Equity Issuance,-47548.86,1.28,-60862.54
+2023-03-01,Tapstorm SG,Financing,Loan Repayment,49490.54,1.2178,60269.58
+2023-03-01,TapForge CN,Operating,Net Income,-30317.23,1.2867,-39009.18
+2023-03-01,TapForge CN,Operating,Depreciation,18602.43,1.1647,21666.25
+2023-03-01,TapForge CN,Operating,Change in Working Capital,14391.01,1.1101,15975.46
+2023-03-01,TapForge CN,Investing,CapEx,-34109.61,1.0396,-35460.35
+2023-03-01,TapForge CN,Investing,Purchase of Intangibles,42178.27,0.8329,35130.28
+2023-03-01,TapForge CN,Financing,Equity Issuance,-28031.16,1.0277,-28807.62
+2023-03-01,TapForge CN,Financing,Loan Repayment,39505.61,0.971,38359.95
+2023-03-01,WhaleCare PH,Operating,Net Income,-23824.43,0.9208,-21937.54
+2023-03-01,WhaleCare PH,Operating,Depreciation,-19706.14,1.1994,-23635.54
+2023-03-01,WhaleCare PH,Operating,Change in Working Capital,29534.83,1.2772,37721.88
+2023-03-01,WhaleCare PH,Investing,CapEx,-2364.41,1.0753,-2542.45
+2023-03-01,WhaleCare PH,Investing,Purchase of Intangibles,20683.12,1.0565,21851.72
+2023-03-01,WhaleCare PH,Financing,Equity Issuance,-36369.18,1.1642,-42341.0
+2023-03-01,WhaleCare PH,Financing,Loan Repayment,2584.59,0.9885,2554.87
+2023-03-01,SummonStorm BR,Operating,Net Income,11152.92,1.2116,13512.88
+2023-03-01,SummonStorm BR,Operating,Depreciation,-24974.52,1.214,-30319.07
+2023-03-01,SummonStorm BR,Operating,Change in Working Capital,12274.37,1.0319,12665.92
+2023-03-01,SummonStorm BR,Investing,CapEx,20889.31,0.9785,20440.19
+2023-03-01,SummonStorm BR,Investing,Purchase of Intangibles,-2183.5,0.8577,-1872.79
+2023-03-01,SummonStorm BR,Financing,Equity Issuance,-34295.65,1.1503,-39450.29
+2023-03-01,SummonStorm BR,Financing,Loan Repayment,39737.98,0.8715,34631.65
+2023-04-01,Tapstorm SG,Operating,Net Income,8392.22,0.8017,6728.04
+2023-04-01,Tapstorm SG,Operating,Depreciation,29176.32,0.9792,28569.45
+2023-04-01,Tapstorm SG,Operating,Change in Working Capital,24211.74,0.8114,19645.41
+2023-04-01,Tapstorm SG,Investing,CapEx,32159.01,0.8352,26859.21
+2023-04-01,Tapstorm SG,Investing,Purchase of Intangibles,44305.31,0.8462,37491.15
+2023-04-01,Tapstorm SG,Financing,Equity Issuance,12897.41,1.0783,13907.28
+2023-04-01,Tapstorm SG,Financing,Loan Repayment,-41724.89,0.8013,-33434.15
+2023-04-01,TapForge CN,Operating,Net Income,46901.88,1.2602,59105.75
+2023-04-01,TapForge CN,Operating,Depreciation,5808.13,0.8674,5037.97
+2023-04-01,TapForge CN,Operating,Change in Working Capital,38489.89,0.8767,33744.09
+2023-04-01,TapForge CN,Investing,CapEx,16309.94,1.1335,18487.32
+2023-04-01,TapForge CN,Investing,Purchase of Intangibles,-34290.5,0.9636,-33042.33
+2023-04-01,TapForge CN,Financing,Equity Issuance,-17208.6,0.9695,-16683.74
+2023-04-01,TapForge CN,Financing,Loan Repayment,-19993.93,1.0596,-21185.57
+2023-04-01,WhaleCare PH,Operating,Net Income,-18838.4,0.9671,-18218.62
+2023-04-01,WhaleCare PH,Operating,Depreciation,15074.42,1.2131,18286.78
+2023-04-01,WhaleCare PH,Operating,Change in Working Capital,35605.93,1.1768,41901.06
+2023-04-01,WhaleCare PH,Investing,CapEx,-32422.58,1.2863,-41705.16
+2023-04-01,WhaleCare PH,Investing,Purchase of Intangibles,-32723.92,1.0775,-35260.02
+2023-04-01,WhaleCare PH,Financing,Equity Issuance,-22201.17,0.979,-21734.95
+2023-04-01,WhaleCare PH,Financing,Loan Repayment,-23408.89,0.9688,-22678.53
+2023-04-01,SummonStorm BR,Operating,Net Income,-31112.51,1.0196,-31722.32
+2023-04-01,SummonStorm BR,Operating,Depreciation,16924.13,0.9979,16888.59
+2023-04-01,SummonStorm BR,Operating,Change in Working Capital,-20721.99,1.2111,-25096.4
+2023-04-01,SummonStorm BR,Investing,CapEx,37693.6,0.8693,32767.05
+2023-04-01,SummonStorm BR,Investing,Purchase of Intangibles,31263.09,1.068,33388.98
+2023-04-01,SummonStorm BR,Financing,Equity Issuance,-40491.92,1.2404,-50226.18
+2023-04-01,SummonStorm BR,Financing,Loan Repayment,3759.12,1.1305,4249.69
+2023-05-01,Tapstorm SG,Operating,Net Income,-44203.84,0.8779,-38806.55
+2023-05-01,Tapstorm SG,Operating,Depreciation,37691.35,1.1545,43514.66
+2023-05-01,Tapstorm SG,Operating,Change in Working Capital,37914.42,0.9246,35055.67
+2023-05-01,Tapstorm SG,Investing,CapEx,7221.82,1.2506,9031.61
+2023-05-01,Tapstorm SG,Investing,Purchase of Intangibles,19944.65,1.0165,20273.74
+2023-05-01,Tapstorm SG,Financing,Equity Issuance,-21471.21,1.0957,-23526.0
+2023-05-01,Tapstorm SG,Financing,Loan Repayment,-28590.72,1.1304,-32318.95
+2023-05-01,TapForge CN,Operating,Net Income,-47893.6,1.0844,-51935.82
+2023-05-01,TapForge CN,Operating,Depreciation,29040.64,0.8383,24344.77
+2023-05-01,TapForge CN,Operating,Change in Working Capital,40650.96,1.2735,51769.0
+2023-05-01,TapForge CN,Investing,CapEx,-43296.82,1.2809,-55458.9
+2023-05-01,TapForge CN,Investing,Purchase of Intangibles,-34854.95,1.1108,-38716.88
+2023-05-01,TapForge CN,Financing,Equity Issuance,29263.19,0.8579,25104.89
+2023-05-01,TapForge CN,Financing,Loan Repayment,-41436.29,1.1027,-45691.8
+2023-05-01,WhaleCare PH,Operating,Net Income,7638.83,1.2949,9891.52
+2023-05-01,WhaleCare PH,Operating,Depreciation,-34147.99,0.874,-29845.34
+2023-05-01,WhaleCare PH,Operating,Change in Working Capital,44948.18,0.879,39509.45
+2023-05-01,WhaleCare PH,Investing,CapEx,-28297.64,1.0281,-29092.8
+2023-05-01,WhaleCare PH,Investing,Purchase of Intangibles,-33586.19,1.272,-42721.63
+2023-05-01,WhaleCare PH,Financing,Equity Issuance,-38791.5,1.1664,-45246.41
+2023-05-01,WhaleCare PH,Financing,Loan Repayment,-21984.16,1.1214,-24653.04
+2023-05-01,SummonStorm BR,Operating,Net Income,-62623.69,0.839,-52541.28
+2023-05-01,SummonStorm BR,Operating,Depreciation,11987.81,1.073,12862.92
+2023-05-01,SummonStorm BR,Operating,Change in Working Capital,3899.04,0.8961,3493.93
+2023-05-01,SummonStorm BR,Investing,CapEx,-34796.99,1.1224,-39056.14
+2023-05-01,SummonStorm BR,Investing,Purchase of Intangibles,18888.15,0.9707,18334.73
+2023-05-01,SummonStorm BR,Financing,Equity Issuance,28384.47,0.9841,27933.16
+2023-05-01,SummonStorm BR,Financing,Loan Repayment,29510.27,1.0318,30448.7
+2023-06-01,Tapstorm SG,Operating,Net Income,-31535.81,0.9265,-29217.93
+2023-06-01,Tapstorm SG,Operating,Depreciation,10383.12,1.1099,11524.22
+2023-06-01,Tapstorm SG,Operating,Change in Working Capital,17180.58,0.9333,16034.64
+2023-06-01,Tapstorm SG,Investing,CapEx,-39785.52,1.0994,-43740.2
+2023-06-01,Tapstorm SG,Investing,Purchase of Intangibles,19566.55,0.9653,18887.59
+2023-06-01,Tapstorm SG,Financing,Equity Issuance,-24588.85,0.9308,-22887.3
+2023-06-01,Tapstorm SG,Financing,Loan Repayment,-18995.65,1.0037,-19065.93
+2023-06-01,TapForge CN,Operating,Net Income,31624.5,0.9747,30824.4
+2023-06-01,TapForge CN,Operating,Depreciation,-20655.71,1.0342,-21362.14
+2023-06-01,TapForge CN,Operating,Change in Working Capital,-45168.73,0.8902,-40209.2
+2023-06-01,TapForge CN,Investing,CapEx,-16219.2,0.8236,-13358.13
+2023-06-01,TapForge CN,Investing,Purchase of Intangibles,-8386.74,1.1834,-9924.87
+2023-06-01,TapForge CN,Financing,Equity Issuance,-11137.03,0.9559,-10645.89
+2023-06-01,TapForge CN,Financing,Loan Repayment,39326.13,1.2886,50675.65
+2023-06-01,WhaleCare PH,Operating,Net Income,10999.31,1.2325,13556.65
+2023-06-01,WhaleCare PH,Operating,Depreciation,-9191.59,1.2516,-11504.19
+2023-06-01,WhaleCare PH,Operating,Change in Working Capital,-34698.14,1.2299,-42675.24
+2023-06-01,WhaleCare PH,Investing,CapEx,47132.25,1.0165,47909.93
+2023-06-01,WhaleCare PH,Investing,Purchase of Intangibles,-51256.2,0.9256,-47442.74
+2023-06-01,WhaleCare PH,Financing,Equity Issuance,24011.78,0.8455,20301.96
+2023-06-01,WhaleCare PH,Financing,Loan Repayment,11409.21,0.8525,9726.35
+2023-06-01,SummonStorm BR,Operating,Net Income,23261.66,1.0835,25204.01
+2023-06-01,SummonStorm BR,Operating,Depreciation,-40234.68,1.0873,-43747.17
+2023-06-01,SummonStorm BR,Operating,Change in Working Capital,12939.54,1.2919,16716.59
+2023-06-01,SummonStorm BR,Investing,CapEx,18783.78,0.8134,15278.73
+2023-06-01,SummonStorm BR,Investing,Purchase of Intangibles,29373.33,0.912,26788.48
+2023-06-01,SummonStorm BR,Financing,Equity Issuance,39957.84,1.1835,47290.1
+2023-06-01,SummonStorm BR,Financing,Loan Repayment,13987.52,0.8269,11566.28
+2023-07-01,Tapstorm SG,Operating,Net Income,38591.81,0.978,37742.79
+2023-07-01,Tapstorm SG,Operating,Depreciation,34212.01,1.1631,39791.99
+2023-07-01,Tapstorm SG,Operating,Change in Working Capital,22616.16,0.8041,18185.65
+2023-07-01,Tapstorm SG,Investing,CapEx,-34985.92,1.2202,-42689.82
+2023-07-01,Tapstorm SG,Investing,Purchase of Intangibles,-37812.47,1.136,-42954.97
+2023-07-01,Tapstorm SG,Financing,Equity Issuance,45585.45,1.175,53562.9
+2023-07-01,Tapstorm SG,Financing,Loan Repayment,-43881.86,1.0586,-46453.34
+2023-07-01,TapForge CN,Operating,Net Income,12053.47,0.9383,11309.77
+2023-07-01,TapForge CN,Operating,Depreciation,-31468.1,1.2749,-40118.68
+2023-07-01,TapForge CN,Operating,Change in Working Capital,-25218.84,0.9855,-24853.17
+2023-07-01,TapForge CN,Investing,CapEx,30144.6,0.8891,26801.56
+2023-07-01,TapForge CN,Investing,Purchase of Intangibles,-26285.49,1.2059,-31697.67
+2023-07-01,TapForge CN,Financing,Equity Issuance,27670.9,0.8461,23412.35
+2023-07-01,TapForge CN,Financing,Loan Repayment,-25573.41,0.8787,-22471.36
+2023-07-01,WhaleCare PH,Operating,Net Income,18237.07,0.8313,15160.48
+2023-07-01,WhaleCare PH,Operating,Depreciation,-28645.01,1.2727,-36456.5
+2023-07-01,WhaleCare PH,Operating,Change in Working Capital,36788.62,0.9164,33713.09
+2023-07-01,WhaleCare PH,Investing,CapEx,23478.88,1.1295,26519.39
+2023-07-01,WhaleCare PH,Investing,Purchase of Intangibles,-19518.84,0.8646,-16875.99
+2023-07-01,WhaleCare PH,Financing,Equity Issuance,-28283.51,0.8062,-22802.17
+2023-07-01,WhaleCare PH,Financing,Loan Repayment,-30236.44,0.8959,-27088.83
+2023-07-01,SummonStorm BR,Operating,Net Income,17460.97,1.1162,19489.93
+2023-07-01,SummonStorm BR,Operating,Depreciation,20891.23,1.1705,24453.18
+2023-07-01,SummonStorm BR,Operating,Change in Working Capital,-12203.41,1.1776,-14370.74
+2023-07-01,SummonStorm BR,Investing,CapEx,-29733.37,1.056,-31398.44
+2023-07-01,SummonStorm BR,Investing,Purchase of Intangibles,-21797.19,0.8412,-18335.8
+2023-07-01,SummonStorm BR,Financing,Equity Issuance,-42253.37,0.9911,-41877.32
+2023-07-01,SummonStorm BR,Financing,Loan Repayment,32037.67,1.0203,32688.03
+2023-08-01,Tapstorm SG,Operating,Net Income,34050.39,1.2194,41521.05
+2023-08-01,Tapstorm SG,Operating,Depreciation,-27679.18,0.8758,-24241.43
+2023-08-01,Tapstorm SG,Operating,Change in Working Capital,36363.6,0.8208,29847.24
+2023-08-01,Tapstorm SG,Investing,CapEx,-6303.64,0.9505,-5991.61
+2023-08-01,Tapstorm SG,Investing,Purchase of Intangibles,25559.62,1.2377,31635.14
+2023-08-01,Tapstorm SG,Financing,Equity Issuance,22040.73,0.8375,18459.11
+2023-08-01,Tapstorm SG,Financing,Loan Repayment,39530.9,1.1407,45092.9
+2023-08-01,TapForge CN,Operating,Net Income,10470.34,1.2108,12677.49
+2023-08-01,TapForge CN,Operating,Depreciation,28492.74,0.8707,24808.63
+2023-08-01,TapForge CN,Operating,Change in Working Capital,41265.8,0.9394,38765.09
+2023-08-01,TapForge CN,Investing,CapEx,24690.9,1.1845,29246.37
+2023-08-01,TapForge CN,Investing,Purchase of Intangibles,-24625.84,1.0201,-25120.82
+2023-08-01,TapForge CN,Financing,Equity Issuance,-29197.61,1.0065,-29387.39
+2023-08-01,TapForge CN,Financing,Loan Repayment,23290.68,1.1917,27755.5
+2023-08-01,WhaleCare PH,Operating,Net Income,30721.04,0.9676,29725.68
+2023-08-01,WhaleCare PH,Operating,Depreciation,-39175.11,1.0827,-42414.89
+2023-08-01,WhaleCare PH,Operating,Change in Working Capital,-29742.73,1.2488,-37142.72
+2023-08-01,WhaleCare PH,Investing,CapEx,25597.9,0.9336,23898.2
+2023-08-01,WhaleCare PH,Investing,Purchase of Intangibles,-35377.9,1.0114,-35781.21
+2023-08-01,WhaleCare PH,Financing,Equity Issuance,-44193.97,1.0293,-45488.85
+2023-08-01,WhaleCare PH,Financing,Loan Repayment,-18100.75,0.9698,-17554.11
+2023-08-01,SummonStorm BR,Operating,Net Income,-48666.6,1.221,-59421.92
+2023-08-01,SummonStorm BR,Operating,Depreciation,18928.78,1.0393,19672.68
+2023-08-01,SummonStorm BR,Operating,Change in Working Capital,30366.45,1.1864,36026.76
+2023-08-01,SummonStorm BR,Investing,CapEx,29785.83,1.0687,31832.12
+2023-08-01,SummonStorm BR,Investing,Purchase of Intangibles,30486.18,0.9201,28050.33
+2023-08-01,SummonStorm BR,Financing,Equity Issuance,-6137.51,1.0803,-6630.35
+2023-08-01,SummonStorm BR,Financing,Loan Repayment,10951.59,0.9404,10298.88
+2023-09-01,Tapstorm SG,Operating,Net Income,21065.37,1.1366,23942.9
+2023-09-01,Tapstorm SG,Operating,Depreciation,17921.85,0.9278,16627.89
+2023-09-01,Tapstorm SG,Operating,Change in Working Capital,31986.08,1.13,36144.27
+2023-09-01,Tapstorm SG,Investing,CapEx,-40121.06,0.889,-35667.62
+2023-09-01,Tapstorm SG,Investing,Purchase of Intangibles,1126.61,1.2332,1389.34
+2023-09-01,Tapstorm SG,Financing,Equity Issuance,11870.15,0.9904,11756.2
+2023-09-01,Tapstorm SG,Financing,Loan Repayment,19274.3,1.1924,22982.68
+2023-09-01,TapForge CN,Operating,Net Income,12149.14,1.2228,14855.97
+2023-09-01,TapForge CN,Operating,Depreciation,21607.85,0.9075,19609.12
+2023-09-01,TapForge CN,Operating,Change in Working Capital,-15301.14,0.9966,-15249.12
+2023-09-01,TapForge CN,Investing,CapEx,-31470.6,0.8506,-26768.89
+2023-09-01,TapForge CN,Investing,Purchase of Intangibles,58172.75,0.9651,56142.52
+2023-09-01,TapForge CN,Financing,Equity Issuance,-15320.69,0.9568,-14658.84
+2023-09-01,TapForge CN,Financing,Loan Repayment,40641.62,0.9705,39442.69
+2023-09-01,WhaleCare PH,Operating,Net Income,57212.87,1.2132,69410.65
+2023-09-01,WhaleCare PH,Operating,Depreciation,17524.54,0.9219,16155.87
+2023-09-01,WhaleCare PH,Operating,Change in Working Capital,-51480.09,0.8313,-42795.4
+2023-09-01,WhaleCare PH,Investing,CapEx,15038.85,1.1624,17481.16
+2023-09-01,WhaleCare PH,Investing,Purchase of Intangibles,-40394.88,0.9441,-38136.81
+2023-09-01,WhaleCare PH,Financing,Equity Issuance,15905.75,0.9499,15108.87
+2023-09-01,WhaleCare PH,Financing,Loan Repayment,-3205.69,1.0297,-3300.9
+2023-09-01,SummonStorm BR,Operating,Net Income,-37961.55,0.9795,-37183.34
+2023-09-01,SummonStorm BR,Operating,Depreciation,-31727.8,1.1324,-35928.56
+2023-09-01,SummonStorm BR,Operating,Change in Working Capital,-24492.69,0.9403,-23030.48
+2023-09-01,SummonStorm BR,Investing,CapEx,5600.35,1.1841,6631.37
+2023-09-01,SummonStorm BR,Investing,Purchase of Intangibles,-41227.53,0.9929,-40934.81
+2023-09-01,SummonStorm BR,Financing,Equity Issuance,-38458.61,0.8257,-31755.27
+2023-09-01,SummonStorm BR,Financing,Loan Repayment,-3496.86,1.2517,-4377.02
+2023-10-01,Tapstorm SG,Operating,Net Income,28077.49,1.1007,30904.89
+2023-10-01,Tapstorm SG,Operating,Depreciation,31957.56,1.2387,39585.83
+2023-10-01,Tapstorm SG,Operating,Change in Working Capital,-11694.31,1.084,-12676.63
+2023-10-01,Tapstorm SG,Investing,CapEx,-37394.62,1.244,-46518.91
+2023-10-01,Tapstorm SG,Investing,Purchase of Intangibles,55332.23,0.8932,49422.75
+2023-10-01,Tapstorm SG,Financing,Equity Issuance,-38252.19,1.1304,-43240.28
+2023-10-01,Tapstorm SG,Financing,Loan Repayment,-46383.01,0.8637,-40061.01
+2023-10-01,TapForge CN,Operating,Net Income,-36157.16,1.0687,-38641.16
+2023-10-01,TapForge CN,Operating,Depreciation,11758.55,1.2717,14953.35
+2023-10-01,TapForge CN,Operating,Change in Working Capital,35391.24,0.9846,34846.21
+2023-10-01,TapForge CN,Investing,CapEx,9559.19,0.9822,9389.04
+2023-10-01,TapForge CN,Investing,Purchase of Intangibles,19001.25,1.2416,23591.95
+2023-10-01,TapForge CN,Financing,Equity Issuance,-22125.92,0.9141,-20225.3
+2023-10-01,TapForge CN,Financing,Loan Repayment,-20763.26,1.2983,-26956.94
+2023-10-01,WhaleCare PH,Operating,Net Income,-15534.85,1.2152,-18877.95
+2023-10-01,WhaleCare PH,Operating,Depreciation,-22002.63,1.1655,-25644.07
+2023-10-01,WhaleCare PH,Operating,Change in Working Capital,23560.38,1.215,28625.86
+2023-10-01,WhaleCare PH,Investing,CapEx,40481.64,1.2752,51622.19
+2023-10-01,WhaleCare PH,Investing,Purchase of Intangibles,-30156.63,0.8957,-27011.29
+2023-10-01,WhaleCare PH,Financing,Equity Issuance,36935.76,1.2924,47735.78
+2023-10-01,WhaleCare PH,Financing,Loan Repayment,22202.95,1.0709,23777.14
+2023-10-01,SummonStorm BR,Operating,Net Income,36611.67,1.1638,42608.66
+2023-10-01,SummonStorm BR,Operating,Depreciation,1893.82,0.867,1641.94
+2023-10-01,SummonStorm BR,Operating,Change in Working Capital,-9656.89,1.1902,-11493.63
+2023-10-01,SummonStorm BR,Investing,CapEx,-37119.57,1.2169,-45170.8
+2023-10-01,SummonStorm BR,Investing,Purchase of Intangibles,-17879.35,1.0495,-18764.38
+2023-10-01,SummonStorm BR,Financing,Equity Issuance,26299.16,0.9227,24266.23
+2023-10-01,SummonStorm BR,Financing,Loan Repayment,3045.18,1.1733,3572.91
+2023-11-01,Tapstorm SG,Operating,Net Income,-20424.47,1.2963,-26476.24
+2023-11-01,Tapstorm SG,Operating,Depreciation,10021.55,1.0695,10718.05
+2023-11-01,Tapstorm SG,Operating,Change in Working Capital,16850.19,1.1682,19684.39
+2023-11-01,Tapstorm SG,Investing,CapEx,26476.04,1.2457,32981.2
+2023-11-01,Tapstorm SG,Investing,Purchase of Intangibles,26227.97,0.9001,23607.8
+2023-11-01,Tapstorm SG,Financing,Equity Issuance,22098.04,1.1712,25881.22
+2023-11-01,Tapstorm SG,Financing,Loan Repayment,35841.28,1.0654,38185.3
+2023-11-01,TapForge CN,Operating,Net Income,19729.74,0.902,17796.23
+2023-11-01,TapForge CN,Operating,Depreciation,21839.34,0.8166,17834.01
+2023-11-01,TapForge CN,Operating,Change in Working Capital,10652.89,0.9766,10403.61
+2023-11-01,TapForge CN,Investing,CapEx,39564.68,1.2204,48284.74
+2023-11-01,TapForge CN,Investing,Purchase of Intangibles,15251.84,0.9991,15238.11
+2023-11-01,TapForge CN,Financing,Equity Issuance,-8065.81,0.8782,-7083.39
+2023-11-01,TapForge CN,Financing,Loan Repayment,-10426.1,0.8471,-8831.95
+2023-11-01,WhaleCare PH,Operating,Net Income,27359.06,1.0869,29736.56
+2023-11-01,WhaleCare PH,Operating,Depreciation,23857.04,1.2406,29597.04
+2023-11-01,WhaleCare PH,Operating,Change in Working Capital,-22318.98,1.1703,-26119.9
+2023-11-01,WhaleCare PH,Investing,CapEx,37054.89,0.9396,34816.77
+2023-11-01,WhaleCare PH,Investing,Purchase of Intangibles,-13197.87,0.8528,-11255.14
+2023-11-01,WhaleCare PH,Financing,Equity Issuance,30937.9,0.8992,27819.36
+2023-11-01,WhaleCare PH,Financing,Loan Repayment,-26135.35,1.0669,-27883.8
+2023-11-01,SummonStorm BR,Operating,Net Income,-29892.46,0.8899,-26601.3
+2023-11-01,SummonStorm BR,Operating,Depreciation,26363.64,0.9508,25066.55
+2023-11-01,SummonStorm BR,Operating,Change in Working Capital,-16008.55,1.291,-20667.04
+2023-11-01,SummonStorm BR,Investing,CapEx,-1700.68,1.1667,-1984.18
+2023-11-01,SummonStorm BR,Investing,Purchase of Intangibles,34746.6,1.1419,39677.14
+2023-11-01,SummonStorm BR,Financing,Equity Issuance,-24896.23,1.0815,-26925.27
+2023-11-01,SummonStorm BR,Financing,Loan Repayment,26466.68,1.1245,29761.78
+2023-12-01,Tapstorm SG,Operating,Net Income,24636.77,0.8725,21495.58
+2023-12-01,Tapstorm SG,Operating,Depreciation,7221.91,0.8275,5976.13
+2023-12-01,Tapstorm SG,Operating,Change in Working Capital,-27719.95,1.1117,-30816.27
+2023-12-01,Tapstorm SG,Investing,CapEx,-25359.84,1.2667,-32123.31
+2023-12-01,Tapstorm SG,Investing,Purchase of Intangibles,-24137.92,1.158,-27951.71
+2023-12-01,Tapstorm SG,Financing,Equity Issuance,45595.61,0.9336,42568.06
+2023-12-01,Tapstorm SG,Financing,Loan Repayment,-26463.29,1.1577,-30636.55
+2023-12-01,TapForge CN,Operating,Net Income,23505.58,1.2084,28404.14
+2023-12-01,TapForge CN,Operating,Depreciation,23176.58,0.9512,22045.56
+2023-12-01,TapForge CN,Operating,Change in Working Capital,-12153.01,1.0173,-12363.26
+2023-12-01,TapForge CN,Investing,CapEx,-26674.01,1.0846,-28930.63
+2023-12-01,TapForge CN,Investing,Purchase of Intangibles,28246.24,1.0604,29952.31
+2023-12-01,TapForge CN,Financing,Equity Issuance,17051.57,1.0067,17165.82
+2023-12-01,TapForge CN,Financing,Loan Repayment,33924.89,1.0113,34308.24
+2023-12-01,WhaleCare PH,Operating,Net Income,-30840.19,1.2577,-38787.71
+2023-12-01,WhaleCare PH,Operating,Depreciation,-23624.28,1.0878,-25698.49
+2023-12-01,WhaleCare PH,Operating,Change in Working Capital,-34946.9,1.0368,-36232.95
+2023-12-01,WhaleCare PH,Investing,CapEx,-20381.88,1.2282,-25033.03
+2023-12-01,WhaleCare PH,Investing,Purchase of Intangibles,-34574.58,0.8591,-29703.02
+2023-12-01,WhaleCare PH,Financing,Equity Issuance,19133.91,1.0523,20134.61
+2023-12-01,WhaleCare PH,Financing,Loan Repayment,43964.71,1.1966,52608.17
+2023-12-01,SummonStorm BR,Operating,Net Income,-17986.76,1.0995,-19776.44
+2023-12-01,SummonStorm BR,Operating,Depreciation,-23113.14,1.0731,-24802.71
+2023-12-01,SummonStorm BR,Operating,Change in Working Capital,14609.94,0.9697,14167.26
+2023-12-01,SummonStorm BR,Investing,CapEx,-31590.03,0.8755,-27657.07
+2023-12-01,SummonStorm BR,Investing,Purchase of Intangibles,-11351.45,0.8218,-9328.62
+2023-12-01,SummonStorm BR,Financing,Equity Issuance,-23591.86,1.2077,-28491.89
+2023-12-01,SummonStorm BR,Financing,Loan Repayment,-8411.43,1.2634,-10627.0
+2024-01-01,Tapstorm SG,Operating,Net Income,31444.36,1.2287,38635.69
+2024-01-01,Tapstorm SG,Operating,Depreciation,-32085.64,1.2474,-40023.63
+2024-01-01,Tapstorm SG,Operating,Change in Working Capital,-26497.62,0.8571,-22711.11
+2024-01-01,Tapstorm SG,Investing,CapEx,-18643.58,0.8658,-16141.61
+2024-01-01,Tapstorm SG,Investing,Purchase of Intangibles,33329.39,1.1927,39751.96
+2024-01-01,Tapstorm SG,Financing,Equity Issuance,-13692.41,0.9019,-12349.18
+2024-01-01,Tapstorm SG,Financing,Loan Repayment,16075.41,0.9408,15123.75
+2024-01-01,TapForge CN,Operating,Net Income,33286.42,1.2756,42460.16
+2024-01-01,TapForge CN,Operating,Depreciation,31535.01,0.8742,27567.91
+2024-01-01,TapForge CN,Operating,Change in Working Capital,31584.41,1.1328,35778.82
+2024-01-01,TapForge CN,Investing,CapEx,-52573.46,1.045,-54939.27
+2024-01-01,TapForge CN,Investing,Purchase of Intangibles,27049.35,0.8976,24279.5
+2024-01-01,TapForge CN,Financing,Equity Issuance,-20200.36,1.0491,-21192.2
+2024-01-01,TapForge CN,Financing,Loan Repayment,23294.56,1.2773,29754.14
+2024-01-01,WhaleCare PH,Operating,Net Income,191.44,0.8792,168.31
+2024-01-01,WhaleCare PH,Operating,Depreciation,-29639.96,1.2707,-37663.5
+2024-01-01,WhaleCare PH,Operating,Change in Working Capital,-41957.87,0.8314,-34883.77
+2024-01-01,WhaleCare PH,Investing,CapEx,20834.82,1.0387,21641.13
+2024-01-01,WhaleCare PH,Investing,Purchase of Intangibles,-40727.32,1.1103,-45219.54
+2024-01-01,WhaleCare PH,Financing,Equity Issuance,13364.66,1.1144,14893.58
+2024-01-01,WhaleCare PH,Financing,Loan Repayment,-15672.15,1.1979,-18773.67
+2024-01-01,SummonStorm BR,Operating,Net Income,15625.99,1.0238,15997.89
+2024-01-01,SummonStorm BR,Operating,Depreciation,7429.02,1.2979,9642.13
+2024-01-01,SummonStorm BR,Operating,Change in Working Capital,-42496.27,1.0858,-46142.45
+2024-01-01,SummonStorm BR,Investing,CapEx,-31181.89,1.0607,-33074.63
+2024-01-01,SummonStorm BR,Investing,Purchase of Intangibles,-32453.11,0.8348,-27091.86
+2024-01-01,SummonStorm BR,Financing,Equity Issuance,-16309.34,1.1638,-18980.81
+2024-01-01,SummonStorm BR,Financing,Loan Repayment,-34560.51,0.943,-32590.56
+2024-02-01,Tapstorm SG,Operating,Net Income,18907.58,1.153,21800.44
+2024-02-01,Tapstorm SG,Operating,Depreciation,19460.16,1.2253,23844.53
+2024-02-01,Tapstorm SG,Operating,Change in Working Capital,-37868.58,0.8586,-32513.96
+2024-02-01,Tapstorm SG,Investing,CapEx,-14845.52,1.1769,-17471.69
+2024-02-01,Tapstorm SG,Investing,Purchase of Intangibles,13020.72,1.2663,16488.14
+2024-02-01,Tapstorm SG,Financing,Equity Issuance,-11593.91,1.295,-15014.11
+2024-02-01,Tapstorm SG,Financing,Loan Repayment,-23244.66,0.912,-21199.13
+2024-02-01,TapForge CN,Operating,Net Income,-49745.52,1.1441,-56913.85
+2024-02-01,TapForge CN,Operating,Depreciation,-21881.17,1.0085,-22067.16
+2024-02-01,TapForge CN,Operating,Change in Working Capital,-9395.1,1.2843,-12066.13
+2024-02-01,TapForge CN,Investing,CapEx,-17499.66,1.1029,-19300.38
+2024-02-01,TapForge CN,Investing,Purchase of Intangibles,-19417.88,1.0853,-21074.23
+2024-02-01,TapForge CN,Financing,Equity Issuance,25565.52,0.8431,21554.29
+2024-02-01,TapForge CN,Financing,Loan Repayment,29357.25,1.0453,30687.13
+2024-02-01,WhaleCare PH,Operating,Net Income,-136.12,1.2321,-167.71
+2024-02-01,WhaleCare PH,Operating,Depreciation,10317.53,0.8614,8887.52
+2024-02-01,WhaleCare PH,Operating,Change in Working Capital,9406.71,1.2502,11760.27
+2024-02-01,WhaleCare PH,Investing,CapEx,37235.06,1.0997,40947.4
+2024-02-01,WhaleCare PH,Investing,Purchase of Intangibles,12824.98,1.2185,15627.24
+2024-02-01,WhaleCare PH,Financing,Equity Issuance,-28355.06,1.0334,-29302.12
+2024-02-01,WhaleCare PH,Financing,Loan Repayment,-30589.7,1.2435,-38038.29
+2024-02-01,SummonStorm BR,Operating,Net Income,-18942.77,1.0643,-20160.79
+2024-02-01,SummonStorm BR,Operating,Depreciation,4131.78,0.8341,3446.32
+2024-02-01,SummonStorm BR,Operating,Change in Working Capital,39066.29,1.2445,48618.0
+2024-02-01,SummonStorm BR,Investing,CapEx,40720.8,0.902,36730.16
+2024-02-01,SummonStorm BR,Investing,Purchase of Intangibles,24751.69,0.8474,20974.58
+2024-02-01,SummonStorm BR,Financing,Equity Issuance,16797.53,0.8836,14842.3
+2024-02-01,SummonStorm BR,Financing,Loan Repayment,-46543.02,0.8211,-38216.47
+2024-03-01,Tapstorm SG,Operating,Net Income,-16418.87,1.1373,-18673.18
+2024-03-01,Tapstorm SG,Operating,Depreciation,-34539.99,0.9476,-32730.09
+2024-03-01,Tapstorm SG,Operating,Change in Working Capital,-7059.15,0.9343,-6595.36
+2024-03-01,Tapstorm SG,Investing,CapEx,-30504.83,1.2451,-37981.56
+2024-03-01,Tapstorm SG,Investing,Purchase of Intangibles,9412.83,1.1288,10625.2
+2024-03-01,Tapstorm SG,Financing,Equity Issuance,-29543.99,1.0322,-30495.31
+2024-03-01,Tapstorm SG,Financing,Loan Repayment,-25043.2,1.1462,-28704.52
+2024-03-01,TapForge CN,Operating,Net Income,20606.59,1.0317,21259.82
+2024-03-01,TapForge CN,Operating,Depreciation,-20271.45,0.8206,-16634.75
+2024-03-01,TapForge CN,Operating,Change in Working Capital,-38002.73,1.2304,-46758.56
+2024-03-01,TapForge CN,Investing,CapEx,23977.42,1.2842,30791.8
+2024-03-01,TapForge CN,Investing,Purchase of Intangibles,-29741.11,1.0191,-30309.17
+2024-03-01,TapForge CN,Financing,Equity Issuance,-59167.23,0.9487,-56131.95
+2024-03-01,TapForge CN,Financing,Loan Repayment,9990.01,1.1827,11815.18
+2024-03-01,WhaleCare PH,Operating,Net Income,-15754.01,1.2725,-20046.98
+2024-03-01,WhaleCare PH,Operating,Depreciation,-5192.02,1.0002,-5193.06
+2024-03-01,WhaleCare PH,Operating,Change in Working Capital,-4629.24,1.0002,-4630.17
+2024-03-01,WhaleCare PH,Investing,CapEx,47866.54,0.9137,43735.66
+2024-03-01,WhaleCare PH,Investing,Purchase of Intangibles,19970.76,0.8744,17462.43
+2024-03-01,WhaleCare PH,Financing,Equity Issuance,6606.35,1.1424,7547.09
+2024-03-01,WhaleCare PH,Financing,Loan Repayment,21608.17,1.2039,26014.08
+2024-03-01,SummonStorm BR,Operating,Net Income,-19072.18,1.0773,-20546.46
+2024-03-01,SummonStorm BR,Operating,Depreciation,-12407.33,1.0939,-13572.38
+2024-03-01,SummonStorm BR,Operating,Change in Working Capital,-19706.43,0.8443,-16638.14
+2024-03-01,SummonStorm BR,Investing,CapEx,26891.63,1.1669,31379.84
+2024-03-01,SummonStorm BR,Investing,Purchase of Intangibles,20078.45,0.8707,17482.31
+2024-03-01,SummonStorm BR,Financing,Equity Issuance,-35224.32,1.2844,-45242.12
+2024-03-01,SummonStorm BR,Financing,Loan Repayment,-24261.24,1.1876,-28812.65
+2024-04-01,Tapstorm SG,Operating,Net Income,-25161.39,1.2764,-32116.0
+2024-04-01,Tapstorm SG,Operating,Depreciation,22691.96,1.2787,29016.21
+2024-04-01,Tapstorm SG,Operating,Change in Working Capital,10193.86,1.2399,12639.37
+2024-04-01,Tapstorm SG,Investing,CapEx,10673.16,0.917,9787.29
+2024-04-01,Tapstorm SG,Investing,Purchase of Intangibles,-26448.38,1.2038,-31838.56
+2024-04-01,Tapstorm SG,Financing,Equity Issuance,-15901.22,1.2415,-19741.36
+2024-04-01,Tapstorm SG,Financing,Loan Repayment,32174.26,1.1427,36765.53
+2024-04-01,TapForge CN,Operating,Net Income,-20978.38,1.2673,-26585.9
+2024-04-01,TapForge CN,Operating,Depreciation,-15725.37,1.2154,-19112.61
+2024-04-01,TapForge CN,Operating,Change in Working Capital,28106.93,0.9837,27648.79
+2024-04-01,TapForge CN,Investing,CapEx,-25326.82,1.0631,-26924.94
+2024-04-01,TapForge CN,Investing,Purchase of Intangibles,5114.21,1.0117,5174.05
+2024-04-01,TapForge CN,Financing,Equity Issuance,3157.79,1.204,3801.98
+2024-04-01,TapForge CN,Financing,Loan Repayment,31855.08,1.0271,32718.35
+2024-04-01,WhaleCare PH,Operating,Net Income,-16089.17,0.9499,-15283.1
+2024-04-01,WhaleCare PH,Operating,Depreciation,-26821.95,0.8427,-22602.86
+2024-04-01,WhaleCare PH,Operating,Change in Working Capital,27789.21,0.8173,22712.12
+2024-04-01,WhaleCare PH,Investing,CapEx,39439.83,0.977,38532.71
+2024-04-01,WhaleCare PH,Investing,Purchase of Intangibles,-44794.81,1.2173,-54528.72
+2024-04-01,WhaleCare PH,Financing,Equity Issuance,-11271.68,1.0073,-11353.96
+2024-04-01,WhaleCare PH,Financing,Loan Repayment,-23209.23,0.9385,-21781.86
+2024-04-01,SummonStorm BR,Operating,Net Income,23517.5,0.8039,18905.72
+2024-04-01,SummonStorm BR,Operating,Depreciation,43228.36,1.0622,45917.16
+2024-04-01,SummonStorm BR,Operating,Change in Working Capital,-7726.65,0.9432,-7287.78
+2024-04-01,SummonStorm BR,Investing,CapEx,-42226.88,1.2173,-51402.78
+2024-04-01,SummonStorm BR,Investing,Purchase of Intangibles,31751.51,1.1814,37511.23
+2024-04-01,SummonStorm BR,Financing,Equity Issuance,18407.77,0.9209,16951.72
+2024-04-01,SummonStorm BR,Financing,Loan Repayment,35467.44,1.253,44440.7
+2024-05-01,Tapstorm SG,Operating,Net Income,-20501.06,1.0059,-20622.02
+2024-05-01,Tapstorm SG,Operating,Depreciation,-5607.21,1.1269,-6318.76
+2024-05-01,Tapstorm SG,Operating,Change in Working Capital,-26451.74,0.9707,-25676.7
+2024-05-01,Tapstorm SG,Investing,CapEx,21828.33,0.8857,19333.35
+2024-05-01,Tapstorm SG,Investing,Purchase of Intangibles,19174.13,1.0636,20393.6
+2024-05-01,Tapstorm SG,Financing,Equity Issuance,-15512.05,1.1559,-17930.38
+2024-05-01,Tapstorm SG,Financing,Loan Repayment,32385.15,0.824,26685.36
+2024-05-01,TapForge CN,Operating,Net Income,-24821.23,1.2977,-32210.51
+2024-05-01,TapForge CN,Operating,Depreciation,-19294.01,0.9861,-19025.82
+2024-05-01,TapForge CN,Operating,Change in Working Capital,-17719.79,0.9056,-16047.04
+2024-05-01,TapForge CN,Investing,CapEx,-19480.03,0.9678,-18852.77
+2024-05-01,TapForge CN,Investing,Purchase of Intangibles,-18008.64,1.1811,-21270.0
+2024-05-01,TapForge CN,Financing,Equity Issuance,-20121.06,0.8612,-17328.26
+2024-05-01,TapForge CN,Financing,Loan Repayment,33720.17,1.1266,37989.14
+2024-05-01,WhaleCare PH,Operating,Net Income,-20542.87,0.9907,-20351.82
+2024-05-01,WhaleCare PH,Operating,Depreciation,26840.32,1.0433,28002.51
+2024-05-01,WhaleCare PH,Operating,Change in Working Capital,-20382.87,1.0639,-21685.34
+2024-05-01,WhaleCare PH,Investing,CapEx,3711.2,1.1611,4309.07
+2024-05-01,WhaleCare PH,Investing,Purchase of Intangibles,-27621.63,1.2756,-35234.15
+2024-05-01,WhaleCare PH,Financing,Equity Issuance,16405.17,1.0201,16734.91
+2024-05-01,WhaleCare PH,Financing,Loan Repayment,-33005.29,1.2407,-40949.66
+2024-05-01,SummonStorm BR,Operating,Net Income,44860.5,1.0972,49220.94
+2024-05-01,SummonStorm BR,Operating,Depreciation,17064.62,1.0489,17899.08
+2024-05-01,SummonStorm BR,Operating,Change in Working Capital,-35862.65,0.8214,-29457.58
+2024-05-01,SummonStorm BR,Investing,CapEx,20054.98,1.2416,24900.26
+2024-05-01,SummonStorm BR,Investing,Purchase of Intangibles,21309.29,1.1245,23962.3
+2024-05-01,SummonStorm BR,Financing,Equity Issuance,-29533.86,1.0105,-29843.97
+2024-05-01,SummonStorm BR,Financing,Loan Repayment,1400.87,1.1738,1644.34
+2024-06-01,Tapstorm SG,Operating,Net Income,-4308.74,0.8594,-3702.93
+2024-06-01,Tapstorm SG,Operating,Depreciation,-25688.9,1.1871,-30495.29
+2024-06-01,Tapstorm SG,Operating,Change in Working Capital,-6422.92,0.8177,-5252.02
+2024-06-01,Tapstorm SG,Investing,CapEx,-38023.19,1.2237,-46528.98
+2024-06-01,Tapstorm SG,Investing,Purchase of Intangibles,41020.53,1.1552,47386.92
+2024-06-01,Tapstorm SG,Financing,Equity Issuance,29243.49,0.9922,29015.39
+2024-06-01,Tapstorm SG,Financing,Loan Repayment,23431.55,0.9972,23365.94
+2024-06-01,TapForge CN,Operating,Net Income,38307.66,1.1906,45609.1
+2024-06-01,TapForge CN,Operating,Depreciation,19421.91,1.0686,20754.25
+2024-06-01,TapForge CN,Operating,Change in Working Capital,20476.05,1.0602,21708.71
+2024-06-01,TapForge CN,Investing,CapEx,23352.72,1.1783,27516.51
+2024-06-01,TapForge CN,Investing,Purchase of Intangibles,-15069.76,0.9939,-14977.83
+2024-06-01,TapForge CN,Financing,Equity Issuance,40498.73,0.8623,34922.05
+2024-06-01,TapForge CN,Financing,Loan Repayment,40127.08,0.9453,37932.13
+2024-06-01,WhaleCare PH,Operating,Net Income,13709.1,0.885,12132.55
+2024-06-01,WhaleCare PH,Operating,Depreciation,16003.71,1.0881,17413.64
+2024-06-01,WhaleCare PH,Operating,Change in Working Capital,20808.77,0.8432,17545.95
+2024-06-01,WhaleCare PH,Investing,CapEx,39425.02,0.8961,35328.76
+2024-06-01,WhaleCare PH,Investing,Purchase of Intangibles,-20746.59,1.1797,-24474.75
+2024-06-01,WhaleCare PH,Financing,Equity Issuance,26886.77,0.9808,26370.54
+2024-06-01,WhaleCare PH,Financing,Loan Repayment,-12193.33,1.2082,-14731.98
+2024-06-01,SummonStorm BR,Operating,Net Income,43263.29,0.8624,37310.26
+2024-06-01,SummonStorm BR,Operating,Depreciation,10969.65,0.8642,9479.97
+2024-06-01,SummonStorm BR,Operating,Change in Working Capital,20061.74,1.2023,24120.23
+2024-06-01,SummonStorm BR,Investing,CapEx,4524.69,1.173,5307.46
+2024-06-01,SummonStorm BR,Investing,Purchase of Intangibles,-39820.0,1.1975,-47684.45
+2024-06-01,SummonStorm BR,Financing,Equity Issuance,24623.56,0.8033,19780.11
+2024-06-01,SummonStorm BR,Financing,Loan Repayment,46343.45,1.189,55102.36
+2024-07-01,Tapstorm SG,Operating,Net Income,13229.53,1.0353,13696.53
+2024-07-01,Tapstorm SG,Operating,Depreciation,-37591.61,1.1996,-45094.9
+2024-07-01,Tapstorm SG,Operating,Change in Working Capital,29721.52,1.0213,30354.59
+2024-07-01,Tapstorm SG,Investing,CapEx,-15480.14,1.2165,-18831.59
+2024-07-01,Tapstorm SG,Investing,Purchase of Intangibles,17089.26,0.9945,16995.27
+2024-07-01,Tapstorm SG,Financing,Equity Issuance,31573.44,1.1868,37471.36
+2024-07-01,Tapstorm SG,Financing,Loan Repayment,24543.13,1.0111,24815.56
+2024-07-01,TapForge CN,Operating,Net Income,-16786.75,0.9182,-15413.59
+2024-07-01,TapForge CN,Operating,Depreciation,45978.96,1.2034,55331.08
+2024-07-01,TapForge CN,Operating,Change in Working Capital,25532.86,0.8703,22221.25
+2024-07-01,TapForge CN,Investing,CapEx,-20499.21,1.0601,-21731.21
+2024-07-01,TapForge CN,Investing,Purchase of Intangibles,12020.3,1.1987,14408.73
+2024-07-01,TapForge CN,Financing,Equity Issuance,18755.1,0.9615,18033.03
+2024-07-01,TapForge CN,Financing,Loan Repayment,716.0,1.169,837.0
+2024-07-01,WhaleCare PH,Operating,Net Income,-25024.01,1.19,-29778.57
+2024-07-01,WhaleCare PH,Operating,Depreciation,-33799.42,0.8374,-28303.63
+2024-07-01,WhaleCare PH,Operating,Change in Working Capital,-42222.67,1.2502,-52786.78
+2024-07-01,WhaleCare PH,Investing,CapEx,-19989.93,1.0734,-21457.19
+2024-07-01,WhaleCare PH,Investing,Purchase of Intangibles,-30752.8,1.2522,-38508.66
+2024-07-01,WhaleCare PH,Financing,Equity Issuance,20845.62,0.8102,16889.12
+2024-07-01,WhaleCare PH,Financing,Loan Repayment,-3516.93,1.2464,-4383.5
+2024-07-01,SummonStorm BR,Operating,Net Income,483.65,1.0389,502.46
+2024-07-01,SummonStorm BR,Operating,Depreciation,23689.65,1.2294,29124.06
+2024-07-01,SummonStorm BR,Operating,Change in Working Capital,685.41,1.2994,890.62
+2024-07-01,SummonStorm BR,Investing,CapEx,21935.96,1.1496,25217.58
+2024-07-01,SummonStorm BR,Investing,Purchase of Intangibles,19860.63,1.1586,23010.53
+2024-07-01,SummonStorm BR,Financing,Equity Issuance,3868.07,1.1896,4601.46
+2024-07-01,SummonStorm BR,Financing,Loan Repayment,-7587.45,0.8233,-6246.75
+2024-08-01,Tapstorm SG,Operating,Net Income,16153.19,0.9898,15988.43
+2024-08-01,Tapstorm SG,Operating,Depreciation,-42608.85,1.2519,-53342.02
+2024-08-01,Tapstorm SG,Operating,Change in Working Capital,27978.38,1.1218,31386.15
+2024-08-01,Tapstorm SG,Investing,CapEx,16024.99,0.9533,15276.62
+2024-08-01,Tapstorm SG,Investing,Purchase of Intangibles,-15172.09,0.8495,-12888.69
+2024-08-01,Tapstorm SG,Financing,Equity Issuance,-28964.67,1.2297,-35617.85
+2024-08-01,Tapstorm SG,Financing,Loan Repayment,25829.04,1.075,27766.22
+2024-08-01,TapForge CN,Operating,Net Income,-32826.87,0.9726,-31927.41
+2024-08-01,TapForge CN,Operating,Depreciation,-45923.98,0.9476,-43517.56
+2024-08-01,TapForge CN,Operating,Change in Working Capital,-38048.1,1.2957,-49298.92
+2024-08-01,TapForge CN,Investing,CapEx,-37776.17,1.2147,-45886.71
+2024-08-01,TapForge CN,Investing,Purchase of Intangibles,23313.3,0.9197,21441.24
+2024-08-01,TapForge CN,Financing,Equity Issuance,-2364.23,1.0454,-2471.57
+2024-08-01,TapForge CN,Financing,Loan Repayment,998.83,1.2508,1249.34
+2024-08-01,WhaleCare PH,Operating,Net Income,-30365.02,1.2189,-37011.92
+2024-08-01,WhaleCare PH,Operating,Depreciation,17798.8,1.2233,21773.27
+2024-08-01,WhaleCare PH,Operating,Change in Working Capital,-44222.07,0.8551,-37814.29
+2024-08-01,WhaleCare PH,Investing,CapEx,42093.25,0.8798,37033.64
+2024-08-01,WhaleCare PH,Investing,Purchase of Intangibles,25975.54,1.0058,26126.2
+2024-08-01,WhaleCare PH,Financing,Equity Issuance,-18702.49,0.9129,-17073.5
+2024-08-01,WhaleCare PH,Financing,Loan Repayment,-13548.14,1.0598,-14358.32
+2024-08-01,SummonStorm BR,Operating,Net Income,43865.42,1.0288,45128.74
+2024-08-01,SummonStorm BR,Operating,Depreciation,26510.65,0.8041,21317.21
+2024-08-01,SummonStorm BR,Operating,Change in Working Capital,-16083.43,1.1734,-18872.3
+2024-08-01,SummonStorm BR,Investing,CapEx,-23442.13,1.2282,-28791.62
+2024-08-01,SummonStorm BR,Investing,Purchase of Intangibles,-21684.76,0.8484,-18397.35
+2024-08-01,SummonStorm BR,Financing,Equity Issuance,46161.14,0.8699,40155.58
+2024-08-01,SummonStorm BR,Financing,Loan Repayment,27063.87,0.9581,25929.89
+2024-09-01,Tapstorm SG,Operating,Net Income,-25196.51,0.8504,-21427.11
+2024-09-01,Tapstorm SG,Operating,Depreciation,-8578.37,0.8674,-7440.88
+2024-09-01,Tapstorm SG,Operating,Change in Working Capital,-30557.16,0.9352,-28577.06
+2024-09-01,Tapstorm SG,Investing,CapEx,-25516.9,0.9133,-23304.58
+2024-09-01,Tapstorm SG,Investing,Purchase of Intangibles,-31356.43,1.1781,-36941.01
+2024-09-01,Tapstorm SG,Financing,Equity Issuance,-25635.61,1.097,-28122.26
+2024-09-01,Tapstorm SG,Financing,Loan Repayment,20846.52,1.0886,22693.52
+2024-09-01,TapForge CN,Operating,Net Income,-25595.54,1.2793,-32744.37
+2024-09-01,TapForge CN,Operating,Depreciation,-15727.94,0.8908,-14010.45
+2024-09-01,TapForge CN,Operating,Change in Working Capital,-26850.91,1.1177,-30011.26
+2024-09-01,TapForge CN,Investing,CapEx,40493.1,1.0104,40914.23
+2024-09-01,TapForge CN,Investing,Purchase of Intangibles,-35582.29,0.8647,-30768.01
+2024-09-01,TapForge CN,Financing,Equity Issuance,21499.95,0.8436,18137.36
+2024-09-01,TapForge CN,Financing,Loan Repayment,-22494.5,1.2545,-28219.35
+2024-09-01,WhaleCare PH,Operating,Net Income,32024.67,1.2578,40280.63
+2024-09-01,WhaleCare PH,Operating,Depreciation,-29473.91,0.9225,-27189.68
+2024-09-01,WhaleCare PH,Operating,Change in Working Capital,24990.28,1.0995,27476.81
+2024-09-01,WhaleCare PH,Investing,CapEx,18319.09,0.8378,15347.73
+2024-09-01,WhaleCare PH,Investing,Purchase of Intangibles,14345.49,0.9367,13437.42
+2024-09-01,WhaleCare PH,Financing,Equity Issuance,14186.44,0.9407,13345.18
+2024-09-01,WhaleCare PH,Financing,Loan Repayment,-23060.67,1.1353,-26180.78
+2024-09-01,SummonStorm BR,Operating,Net Income,29042.49,0.9493,27570.04
+2024-09-01,SummonStorm BR,Operating,Depreciation,-4379.23,1.1217,-4912.18
+2024-09-01,SummonStorm BR,Operating,Change in Working Capital,33776.06,0.8849,29888.44
+2024-09-01,SummonStorm BR,Investing,CapEx,12209.29,0.971,11855.22
+2024-09-01,SummonStorm BR,Investing,Purchase of Intangibles,16783.8,1.2408,20825.34
+2024-09-01,SummonStorm BR,Financing,Equity Issuance,21948.94,1.1583,25423.46
+2024-09-01,SummonStorm BR,Financing,Loan Repayment,-29610.77,0.8056,-23854.44
+2024-10-01,Tapstorm SG,Operating,Net Income,43092.09,0.9239,39812.78
+2024-10-01,Tapstorm SG,Operating,Depreciation,19416.62,1.0258,19917.57
+2024-10-01,Tapstorm SG,Operating,Change in Working Capital,-37970.25,0.9349,-35498.39
+2024-10-01,Tapstorm SG,Investing,CapEx,20174.57,1.2308,24830.86
+2024-10-01,Tapstorm SG,Investing,Purchase of Intangibles,40954.47,1.0395,42572.17
+2024-10-01,Tapstorm SG,Financing,Equity Issuance,24146.85,1.008,24340.02
+2024-10-01,Tapstorm SG,Financing,Loan Repayment,-7164.7,1.2848,-9205.21
+2024-10-01,TapForge CN,Operating,Net Income,16444.45,1.2759,20981.47
+2024-10-01,TapForge CN,Operating,Depreciation,-25118.95,1.1889,-29863.92
+2024-10-01,TapForge CN,Operating,Change in Working Capital,-22494.63,0.9207,-20710.81
+2024-10-01,TapForge CN,Investing,CapEx,-12812.68,1.0933,-14008.1
+2024-10-01,TapForge CN,Investing,Purchase of Intangibles,-9144.47,1.1687,-10687.14
+2024-10-01,TapForge CN,Financing,Equity Issuance,34598.87,0.8372,28966.17
+2024-10-01,TapForge CN,Financing,Loan Repayment,-2709.64,1.0354,-2805.56
+2024-10-01,WhaleCare PH,Operating,Net Income,-31052.73,1.0105,-31378.78
+2024-10-01,WhaleCare PH,Operating,Depreciation,-11818.79,1.1346,-13409.6
+2024-10-01,WhaleCare PH,Operating,Change in Working Capital,47740.71,1.0383,49569.18
+2024-10-01,WhaleCare PH,Investing,CapEx,719.77,1.2663,911.44
+2024-10-01,WhaleCare PH,Investing,Purchase of Intangibles,-247.16,1.0945,-270.52
+2024-10-01,WhaleCare PH,Financing,Equity Issuance,-19887.78,1.0003,-19893.75
+2024-10-01,WhaleCare PH,Financing,Loan Repayment,37187.73,0.8544,31773.2
+2024-10-01,SummonStorm BR,Operating,Net Income,51106.62,1.2981,66341.5
+2024-10-01,SummonStorm BR,Operating,Depreciation,36849.83,0.8748,32236.23
+2024-10-01,SummonStorm BR,Operating,Change in Working Capital,-26739.93,1.0782,-28830.99
+2024-10-01,SummonStorm BR,Investing,CapEx,13338.26,1.1674,15571.08
+2024-10-01,SummonStorm BR,Investing,Purchase of Intangibles,-15826.72,1.2282,-19438.38
+2024-10-01,SummonStorm BR,Financing,Equity Issuance,17084.43,0.8765,14974.5
+2024-10-01,SummonStorm BR,Financing,Loan Repayment,20117.7,1.116,22451.35
+2024-11-01,Tapstorm SG,Operating,Net Income,-21957.34,0.8831,-19390.53
+2024-11-01,Tapstorm SG,Operating,Depreciation,-27390.74,1.0311,-28242.59
+2024-11-01,Tapstorm SG,Operating,Change in Working Capital,-17995.91,0.8037,-14463.31
+2024-11-01,Tapstorm SG,Investing,CapEx,-26931.49,1.181,-31806.09
+2024-11-01,Tapstorm SG,Investing,Purchase of Intangibles,-29530.56,1.2526,-36989.98
+2024-11-01,Tapstorm SG,Financing,Equity Issuance,11835.63,0.808,9563.19
+2024-11-01,Tapstorm SG,Financing,Loan Repayment,9984.84,1.2169,12150.55
+2024-11-01,TapForge CN,Operating,Net Income,38166.46,1.1557,44108.98
+2024-11-01,TapForge CN,Operating,Depreciation,26487.71,1.2971,34357.21
+2024-11-01,TapForge CN,Operating,Change in Working Capital,-23189.99,0.9371,-21731.34
+2024-11-01,TapForge CN,Investing,CapEx,7897.28,0.8241,6508.15
+2024-11-01,TapForge CN,Investing,Purchase of Intangibles,-34232.28,1.2125,-41506.64
+2024-11-01,TapForge CN,Financing,Equity Issuance,-24977.45,1.243,-31046.97
+2024-11-01,TapForge CN,Financing,Loan Repayment,42948.29,0.929,39898.96
+2024-11-01,WhaleCare PH,Operating,Net Income,27310.35,1.0355,28279.87
+2024-11-01,WhaleCare PH,Operating,Depreciation,21891.69,1.2968,28389.14
+2024-11-01,WhaleCare PH,Operating,Change in Working Capital,-17597.25,1.1123,-19573.42
+2024-11-01,WhaleCare PH,Investing,CapEx,-43952.63,0.8417,-36994.93
+2024-11-01,WhaleCare PH,Investing,Purchase of Intangibles,36888.04,1.0275,37902.46
+2024-11-01,WhaleCare PH,Financing,Equity Issuance,27653.08,1.0781,29812.79
+2024-11-01,WhaleCare PH,Financing,Loan Repayment,-36302.32,1.0494,-38095.65
+2024-11-01,SummonStorm BR,Operating,Net Income,29038.41,1.0447,30336.43
+2024-11-01,SummonStorm BR,Operating,Depreciation,3264.21,1.1335,3699.98
+2024-11-01,SummonStorm BR,Operating,Change in Working Capital,-36297.1,0.9497,-34471.36
+2024-11-01,SummonStorm BR,Investing,CapEx,-33404.13,1.2611,-42125.95
+2024-11-01,SummonStorm BR,Investing,Purchase of Intangibles,11877.99,1.1657,13846.17
+2024-11-01,SummonStorm BR,Financing,Equity Issuance,32047.0,0.9725,31165.71
+2024-11-01,SummonStorm BR,Financing,Loan Repayment,14955.49,1.2383,18519.38
+2024-12-01,Tapstorm SG,Operating,Net Income,-19879.05,1.1514,-22888.74
+2024-12-01,Tapstorm SG,Operating,Depreciation,26817.1,1.0401,27892.47
+2024-12-01,Tapstorm SG,Operating,Change in Working Capital,26198.21,0.8777,22994.17
+2024-12-01,Tapstorm SG,Investing,CapEx,-24017.84,1.0868,-26102.59
+2024-12-01,Tapstorm SG,Investing,Purchase of Intangibles,-5535.5,1.0144,-5615.21
+2024-12-01,Tapstorm SG,Financing,Equity Issuance,25554.24,0.9262,23668.34
+2024-12-01,Tapstorm SG,Financing,Loan Repayment,-45070.97,0.9531,-42957.14
+2024-12-01,TapForge CN,Operating,Net Income,28244.96,0.9134,25798.95
+2024-12-01,TapForge CN,Operating,Depreciation,22852.88,1.2277,28056.48
+2024-12-01,TapForge CN,Operating,Change in Working Capital,-33288.98,1.2212,-40652.5
+2024-12-01,TapForge CN,Investing,CapEx,-26798.71,1.0246,-27457.96
+2024-12-01,TapForge CN,Investing,Purchase of Intangibles,-19941.94,0.8234,-16420.19
+2024-12-01,TapForge CN,Financing,Equity Issuance,35976.04,1.1239,40433.47
+2024-12-01,TapForge CN,Financing,Loan Repayment,-28147.59,0.8056,-22675.7
+2024-12-01,WhaleCare PH,Operating,Net Income,-29887.54,1.2104,-36175.88
+2024-12-01,WhaleCare PH,Operating,Depreciation,-22613.0,1.1664,-26375.8
+2024-12-01,WhaleCare PH,Operating,Change in Working Capital,23803.39,1.2025,28623.58
+2024-12-01,WhaleCare PH,Investing,CapEx,-34577.34,0.9159,-31669.39
+2024-12-01,WhaleCare PH,Investing,Purchase of Intangibles,18933.23,1.1993,22706.62
+2024-12-01,WhaleCare PH,Financing,Equity Issuance,52847.1,1.2983,68611.39
+2024-12-01,WhaleCare PH,Financing,Loan Repayment,17919.35,1.1207,20082.22
+2024-12-01,SummonStorm BR,Operating,Net Income,17695.45,0.9049,16012.61
+2024-12-01,SummonStorm BR,Operating,Depreciation,37427.74,1.2963,48517.58
+2024-12-01,SummonStorm BR,Operating,Change in Working Capital,-24721.11,0.9794,-24211.86
+2024-12-01,SummonStorm BR,Investing,CapEx,32189.67,1.1144,35872.17
+2024-12-01,SummonStorm BR,Investing,Purchase of Intangibles,-43217.64,1.1971,-51735.84
+2024-12-01,SummonStorm BR,Financing,Equity Issuance,-29883.2,1.027,-30690.05
+2024-12-01,SummonStorm BR,Financing,Loan Repayment,-29020.95,1.1097,-32204.55

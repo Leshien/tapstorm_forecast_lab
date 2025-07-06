@@ -1,0 +1,721 @@
+Date,Sender Entity,Receiver Entity,Cost Center,Transfer Type,Currency,Transfer Amount,FX Rate,Allocation Code,Elimination Flag
+2020-01-01,SummonStorm BR,Tapstorm SG,GameDev,IP Licensing,EUR,17883.85,1.0792,ALLOC514,0
+2020-01-01,TapForge CN,WhaleCare PH,GameDev,Admin Support,EUR,29444.54,1.2813,ALLOC645,0
+2020-01-01,TapForge CN,Tapstorm SG,MarketingOps,Development Services,EUR,42242.14,1.0675,ALLOC245,0
+2020-01-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,53314.4,1.1771,ALLOC626,1
+2020-01-01,Tapstorm SG,WhaleCare PH,GameDev,Development Services,EUR,32424.79,0.9323,ALLOC732,0
+2020-01-01,SummonStorm BR,WhaleCare PH,Translation,Localization,EUR,17479.51,0.9593,ALLOC420,0
+2020-01-01,WhaleCare PH,TapForge CN,GameDev,IP Licensing,EUR,44302.84,0.9812,ALLOC634,0
+2020-01-01,Tapstorm SG,TapForge CN,CustomerCare,Development Services,EUR,27108.12,1.1548,ALLOC744,1
+2020-01-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,15835.5,1.1547,ALLOC141,0
+2020-01-01,TapForge CN,Tapstorm SG,CustomerCare,IP Licensing,EUR,41426.92,0.845,ALLOC884,0
+2020-01-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,37400.39,1.2762,ALLOC573,1
+2020-01-01,SummonStorm BR,TapForge CN,GameDev,Admin Support,EUR,32102.9,1.1946,ALLOC266,0
+2020-02-01,Tapstorm SG,SummonStorm BR,Translation,IP Licensing,EUR,20217.35,1.1516,ALLOC221,1
+2020-02-01,SummonStorm BR,WhaleCare PH,CustomerCare,Localization,EUR,44893.34,0.947,ALLOC674,0
+2020-02-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,42634.69,0.9601,ALLOC401,1
+2020-02-01,WhaleCare PH,TapForge CN,Translation,IP Licensing,EUR,29678.57,1.2951,ALLOC500,0
+2020-02-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,49305.03,1.0345,ALLOC629,1
+2020-02-01,TapForge CN,WhaleCare PH,MarketingOps,IP Licensing,EUR,41750.83,1.2862,ALLOC514,0
+2020-02-01,TapForge CN,WhaleCare PH,CustomerCare,Admin Support,EUR,21727.63,1.2771,ALLOC783,0
+2020-02-01,WhaleCare PH,SummonStorm BR,Translation,IP Licensing,EUR,24373.16,1.1649,ALLOC222,0
+2020-02-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,34275.27,0.8313,ALLOC389,1
+2020-02-01,SummonStorm BR,TapForge CN,GameDev,Admin Support,EUR,28042.52,1.237,ALLOC625,1
+2020-02-01,SummonStorm BR,TapForge CN,MarketingOps,Development Services,EUR,32827.96,1.0278,ALLOC173,1
+2020-02-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,17858.74,0.8844,ALLOC645,1
+2020-03-01,Tapstorm SG,WhaleCare PH,GameDev,Development Services,EUR,21728.39,1.0108,ALLOC209,0
+2020-03-01,Tapstorm SG,SummonStorm BR,CustomerCare,Development Services,EUR,30899.72,1.0375,ALLOC389,1
+2020-03-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,33074.76,0.9976,ALLOC359,1
+2020-03-01,SummonStorm BR,WhaleCare PH,GameDev,IP Licensing,EUR,32560.0,1.1755,ALLOC490,0
+2020-03-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,14621.95,1.0003,ALLOC979,1
+2020-03-01,SummonStorm BR,TapForge CN,MarketingOps,Localization,EUR,31932.84,0.8503,ALLOC267,0
+2020-03-01,SummonStorm BR,TapForge CN,MarketingOps,Development Services,EUR,41979.85,1.231,ALLOC853,0
+2020-03-01,TapForge CN,WhaleCare PH,Translation,IP Licensing,EUR,25136.24,1.0379,ALLOC355,1
+2020-03-01,Tapstorm SG,TapForge CN,CustomerCare,Localization,EUR,21613.03,0.9211,ALLOC830,0
+2020-03-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,24749.56,1.1272,ALLOC635,0
+2020-03-01,Tapstorm SG,SummonStorm BR,Translation,Localization,EUR,26138.17,0.8764,ALLOC257,1
+2020-03-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,44176.25,1.2985,ALLOC718,1
+2020-04-01,WhaleCare PH,Tapstorm SG,CustomerCare,Development Services,EUR,14798.28,1.295,ALLOC498,0
+2020-04-01,WhaleCare PH,SummonStorm BR,Translation,Admin Support,EUR,17988.63,0.9621,ALLOC631,0
+2020-04-01,WhaleCare PH,SummonStorm BR,MarketingOps,Development Services,EUR,4888.58,1.0628,ALLOC267,1
+2020-04-01,TapForge CN,WhaleCare PH,CustomerCare,IP Licensing,EUR,44164.89,1.1101,ALLOC756,1
+2020-04-01,WhaleCare PH,SummonStorm BR,CustomerCare,IP Licensing,EUR,33656.92,0.9809,ALLOC412,0
+2020-04-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,15129.21,1.0074,ALLOC474,0
+2020-04-01,SummonStorm BR,TapForge CN,CustomerCare,Development Services,EUR,27366.98,1.0849,ALLOC231,0
+2020-04-01,WhaleCare PH,Tapstorm SG,GameDev,Localization,EUR,35394.42,0.8639,ALLOC699,0
+2020-04-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,37101.67,0.8345,ALLOC846,0
+2020-04-01,TapForge CN,WhaleCare PH,Translation,IP Licensing,EUR,42155.91,1.0192,ALLOC575,1
+2020-04-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,10559.35,1.1693,ALLOC441,1
+2020-04-01,WhaleCare PH,Tapstorm SG,Translation,Localization,EUR,42729.95,0.8521,ALLOC147,1
+2020-05-01,TapForge CN,SummonStorm BR,GameDev,Development Services,EUR,9655.13,1.2212,ALLOC608,0
+2020-05-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,41669.49,1.0856,ALLOC388,1
+2020-05-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,40305.86,0.9324,ALLOC924,1
+2020-05-01,TapForge CN,Tapstorm SG,MarketingOps,Localization,EUR,58709.89,0.887,ALLOC663,1
+2020-05-01,TapForge CN,SummonStorm BR,Translation,Development Services,EUR,25202.75,0.8214,ALLOC276,0
+2020-05-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,21115.03,0.9982,ALLOC756,1
+2020-05-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,33517.15,1.0375,ALLOC273,1
+2020-05-01,WhaleCare PH,SummonStorm BR,MarketingOps,IP Licensing,EUR,31989.53,1.0893,ALLOC846,1
+2020-05-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,56589.66,1.2615,ALLOC152,0
+2020-05-01,TapForge CN,SummonStorm BR,MarketingOps,IP Licensing,EUR,13088.29,1.0091,ALLOC461,1
+2020-05-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,21376.02,0.9791,ALLOC275,1
+2020-05-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,17325.06,1.2125,ALLOC519,1
+2020-06-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,35245.81,1.0334,ALLOC792,0
+2020-06-01,Tapstorm SG,WhaleCare PH,CustomerCare,Development Services,EUR,24466.29,1.0523,ALLOC984,1
+2020-06-01,SummonStorm BR,TapForge CN,GameDev,IP Licensing,EUR,35240.89,1.0211,ALLOC827,0
+2020-06-01,WhaleCare PH,TapForge CN,MarketingOps,Localization,EUR,37729.67,1.1674,ALLOC686,1
+2020-06-01,Tapstorm SG,WhaleCare PH,Translation,IP Licensing,EUR,36614.36,1.1313,ALLOC504,0
+2020-06-01,Tapstorm SG,SummonStorm BR,CustomerCare,Development Services,EUR,29293.57,1.2707,ALLOC902,1
+2020-06-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,38460.8,1.262,ALLOC589,1
+2020-06-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,32208.49,0.8728,ALLOC429,0
+2020-06-01,SummonStorm BR,Tapstorm SG,MarketingOps,Admin Support,EUR,24576.88,1.2957,ALLOC874,1
+2020-06-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,24019.19,0.9225,ALLOC504,1
+2020-06-01,WhaleCare PH,SummonStorm BR,GameDev,Localization,EUR,26807.81,1.1427,ALLOC824,0
+2020-06-01,SummonStorm BR,TapForge CN,CustomerCare,IP Licensing,EUR,47788.54,0.8833,ALLOC902,1
+2020-07-01,Tapstorm SG,WhaleCare PH,CustomerCare,Localization,EUR,30392.83,0.9941,ALLOC660,1
+2020-07-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,31252.36,0.8488,ALLOC528,1
+2020-07-01,WhaleCare PH,TapForge CN,Translation,Development Services,EUR,29049.9,1.1859,ALLOC533,1
+2020-07-01,Tapstorm SG,WhaleCare PH,CustomerCare,IP Licensing,EUR,17889.2,1.1711,ALLOC800,0
+2020-07-01,Tapstorm SG,SummonStorm BR,CustomerCare,IP Licensing,EUR,10309.3,0.8128,ALLOC317,1
+2020-07-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,34234.24,0.8092,ALLOC642,0
+2020-07-01,SummonStorm BR,Tapstorm SG,Translation,IP Licensing,EUR,19198.75,0.8745,ALLOC175,1
+2020-07-01,WhaleCare PH,TapForge CN,GameDev,Development Services,EUR,35525.65,1.1837,ALLOC623,0
+2020-07-01,SummonStorm BR,WhaleCare PH,MarketingOps,Development Services,EUR,29945.42,1.1512,ALLOC263,0
+2020-07-01,WhaleCare PH,Tapstorm SG,CustomerCare,IP Licensing,EUR,42452.44,1.2743,ALLOC860,0
+2020-07-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,39535.78,1.1184,ALLOC674,0
+2020-07-01,TapForge CN,WhaleCare PH,GameDev,Localization,EUR,37653.0,0.9324,ALLOC580,1
+2020-08-01,SummonStorm BR,Tapstorm SG,CustomerCare,Development Services,EUR,19176.63,1.1602,ALLOC565,1
+2020-08-01,SummonStorm BR,Tapstorm SG,CustomerCare,Admin Support,EUR,4791.79,0.9903,ALLOC225,1
+2020-08-01,WhaleCare PH,TapForge CN,MarketingOps,IP Licensing,EUR,45044.76,1.209,ALLOC596,1
+2020-08-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,30955.53,1.05,ALLOC538,0
+2020-08-01,WhaleCare PH,SummonStorm BR,CustomerCare,Admin Support,EUR,28659.7,1.2135,ALLOC863,1
+2020-08-01,TapForge CN,WhaleCare PH,GameDev,Admin Support,EUR,27147.64,1.0774,ALLOC214,0
+2020-08-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,36474.12,1.1805,ALLOC860,0
+2020-08-01,WhaleCare PH,TapForge CN,MarketingOps,Admin Support,EUR,44282.91,1.0011,ALLOC848,0
+2020-08-01,WhaleCare PH,TapForge CN,MarketingOps,Admin Support,EUR,23362.86,1.2763,ALLOC500,0
+2020-08-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,10507.32,1.2816,ALLOC249,0
+2020-08-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,51366.01,0.8057,ALLOC865,1
+2020-08-01,TapForge CN,WhaleCare PH,Translation,IP Licensing,EUR,34671.44,0.9779,ALLOC173,0
+2020-09-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,35372.71,1.2212,ALLOC320,0
+2020-09-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,-1280.73,0.9871,ALLOC552,0
+2020-09-01,TapForge CN,WhaleCare PH,GameDev,IP Licensing,EUR,33275.46,1.1037,ALLOC213,0
+2020-09-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,6256.56,1.2724,ALLOC563,0
+2020-09-01,Tapstorm SG,TapForge CN,GameDev,IP Licensing,EUR,26401.85,0.8169,ALLOC396,0
+2020-09-01,SummonStorm BR,WhaleCare PH,GameDev,IP Licensing,EUR,38361.33,1.0266,ALLOC725,0
+2020-09-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,33850.16,0.9929,ALLOC714,0
+2020-09-01,Tapstorm SG,SummonStorm BR,GameDev,IP Licensing,EUR,38478.82,1.1367,ALLOC156,1
+2020-09-01,SummonStorm BR,WhaleCare PH,MarketingOps,IP Licensing,EUR,23501.03,1.1507,ALLOC806,0
+2020-09-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,19021.04,1.2506,ALLOC442,0
+2020-09-01,WhaleCare PH,Tapstorm SG,GameDev,Admin Support,EUR,25847.36,1.2754,ALLOC321,1
+2020-09-01,TapForge CN,SummonStorm BR,CustomerCare,Localization,EUR,29688.92,0.9751,ALLOC314,0
+2020-10-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,23073.9,0.9147,ALLOC380,1
+2020-10-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,28772.01,0.9836,ALLOC942,0
+2020-10-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,30169.83,1.2893,ALLOC815,0
+2020-10-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,33141.07,1.2202,ALLOC164,0
+2020-10-01,SummonStorm BR,WhaleCare PH,MarketingOps,Development Services,EUR,55872.94,0.902,ALLOC533,0
+2020-10-01,TapForge CN,Tapstorm SG,GameDev,Localization,EUR,18366.66,1.0083,ALLOC630,0
+2020-10-01,SummonStorm BR,Tapstorm SG,MarketingOps,Admin Support,EUR,38428.72,1.0355,ALLOC566,0
+2020-10-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,30370.7,0.8459,ALLOC917,0
+2020-10-01,Tapstorm SG,SummonStorm BR,GameDev,Localization,EUR,51912.97,0.8492,ALLOC220,1
+2020-10-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,19631.93,0.8462,ALLOC605,0
+2020-10-01,SummonStorm BR,WhaleCare PH,CustomerCare,IP Licensing,EUR,27282.29,1.0495,ALLOC957,1
+2020-10-01,TapForge CN,SummonStorm BR,CustomerCare,Localization,EUR,25638.2,0.9843,ALLOC131,0
+2020-11-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,5365.87,0.8053,ALLOC136,1
+2020-11-01,Tapstorm SG,WhaleCare PH,MarketingOps,Development Services,EUR,30031.0,1.1952,ALLOC896,1
+2020-11-01,TapForge CN,SummonStorm BR,CustomerCare,Development Services,EUR,31456.68,1.0264,ALLOC671,0
+2020-11-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,22406.9,0.9066,ALLOC343,0
+2020-11-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,4936.61,1.2033,ALLOC428,1
+2020-11-01,SummonStorm BR,Tapstorm SG,MarketingOps,Localization,EUR,40699.85,1.1464,ALLOC580,0
+2020-11-01,SummonStorm BR,TapForge CN,CustomerCare,IP Licensing,EUR,50584.03,1.178,ALLOC118,1
+2020-11-01,WhaleCare PH,TapForge CN,GameDev,Development Services,EUR,45011.13,1.2423,ALLOC509,0
+2020-11-01,WhaleCare PH,SummonStorm BR,GameDev,Admin Support,EUR,30411.6,0.8303,ALLOC134,0
+2020-11-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,28344.93,1.1705,ALLOC458,1
+2020-11-01,TapForge CN,Tapstorm SG,GameDev,Admin Support,EUR,44794.26,1.1609,ALLOC232,1
+2020-11-01,WhaleCare PH,SummonStorm BR,Translation,IP Licensing,EUR,44632.87,1.0436,ALLOC621,0
+2020-12-01,Tapstorm SG,TapForge CN,GameDev,IP Licensing,EUR,32314.05,1.2687,ALLOC810,1
+2020-12-01,TapForge CN,WhaleCare PH,Translation,Admin Support,EUR,30913.57,1.0386,ALLOC207,0
+2020-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,IP Licensing,EUR,37832.24,1.2773,ALLOC438,1
+2020-12-01,Tapstorm SG,TapForge CN,MarketingOps,IP Licensing,EUR,32312.37,1.2993,ALLOC913,1
+2020-12-01,SummonStorm BR,WhaleCare PH,CustomerCare,IP Licensing,EUR,46123.28,0.8557,ALLOC864,1
+2020-12-01,Tapstorm SG,WhaleCare PH,MarketingOps,IP Licensing,EUR,36810.85,1.033,ALLOC286,0
+2020-12-01,TapForge CN,SummonStorm BR,GameDev,IP Licensing,EUR,38540.15,0.8437,ALLOC159,0
+2020-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,IP Licensing,EUR,38016.56,0.9497,ALLOC587,0
+2020-12-01,TapForge CN,Tapstorm SG,CustomerCare,Admin Support,EUR,28946.19,1.2922,ALLOC505,1
+2020-12-01,TapForge CN,SummonStorm BR,CustomerCare,IP Licensing,EUR,51661.67,1.1229,ALLOC921,0
+2020-12-01,TapForge CN,SummonStorm BR,MarketingOps,Localization,EUR,29003.82,0.9909,ALLOC952,1
+2020-12-01,TapForge CN,SummonStorm BR,Translation,IP Licensing,EUR,27886.44,1.2343,ALLOC201,1
+2021-01-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,26997.31,0.8975,ALLOC819,1
+2021-01-01,SummonStorm BR,TapForge CN,CustomerCare,Development Services,EUR,51526.32,1.0104,ALLOC529,1
+2021-01-01,Tapstorm SG,WhaleCare PH,GameDev,Admin Support,EUR,9930.91,0.9299,ALLOC222,0
+2021-01-01,WhaleCare PH,SummonStorm BR,Translation,Development Services,EUR,22693.52,1.1443,ALLOC710,1
+2021-01-01,WhaleCare PH,Tapstorm SG,CustomerCare,Development Services,EUR,38615.55,0.9411,ALLOC400,1
+2021-01-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,34275.96,0.9001,ALLOC452,0
+2021-01-01,SummonStorm BR,Tapstorm SG,CustomerCare,Localization,EUR,33008.09,1.1173,ALLOC997,0
+2021-01-01,Tapstorm SG,WhaleCare PH,MarketingOps,IP Licensing,EUR,35323.97,0.808,ALLOC965,0
+2021-01-01,Tapstorm SG,TapForge CN,GameDev,IP Licensing,EUR,43849.97,1.0037,ALLOC398,1
+2021-01-01,SummonStorm BR,Tapstorm SG,MarketingOps,IP Licensing,EUR,32833.0,0.9486,ALLOC407,1
+2021-01-01,TapForge CN,Tapstorm SG,CustomerCare,Localization,EUR,32326.37,1.1181,ALLOC659,1
+2021-01-01,SummonStorm BR,Tapstorm SG,GameDev,Development Services,EUR,46061.11,1.0793,ALLOC108,0
+2021-02-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,32853.25,0.9773,ALLOC809,0
+2021-02-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,38844.11,0.8995,ALLOC726,0
+2021-02-01,Tapstorm SG,TapForge CN,CustomerCare,Development Services,EUR,-1032.66,1.0211,ALLOC343,1
+2021-02-01,SummonStorm BR,Tapstorm SG,MarketingOps,Localization,EUR,24835.66,1.167,ALLOC421,1
+2021-02-01,SummonStorm BR,TapForge CN,Translation,IP Licensing,EUR,21701.44,1.1426,ALLOC665,1
+2021-02-01,SummonStorm BR,WhaleCare PH,Translation,Admin Support,EUR,21278.24,0.9152,ALLOC162,0
+2021-02-01,WhaleCare PH,Tapstorm SG,Translation,Admin Support,EUR,25855.12,1.1896,ALLOC391,1
+2021-02-01,SummonStorm BR,TapForge CN,Translation,IP Licensing,EUR,25510.65,0.8491,ALLOC231,0
+2021-02-01,TapForge CN,Tapstorm SG,CustomerCare,IP Licensing,EUR,40671.37,0.8677,ALLOC829,1
+2021-02-01,WhaleCare PH,TapForge CN,MarketingOps,IP Licensing,EUR,21003.54,1.2351,ALLOC916,0
+2021-02-01,WhaleCare PH,SummonStorm BR,Translation,IP Licensing,EUR,41437.58,0.8482,ALLOC305,0
+2021-02-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,39281.39,1.2311,ALLOC157,1
+2021-03-01,SummonStorm BR,WhaleCare PH,Translation,Localization,EUR,17379.39,1.2032,ALLOC570,0
+2021-03-01,SummonStorm BR,Tapstorm SG,MarketingOps,Localization,EUR,12684.7,1.1996,ALLOC502,1
+2021-03-01,WhaleCare PH,TapForge CN,CustomerCare,Localization,EUR,26494.74,1.1007,ALLOC642,1
+2021-03-01,TapForge CN,SummonStorm BR,Translation,Admin Support,EUR,43892.89,1.2403,ALLOC684,1
+2021-03-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,33710.94,0.9641,ALLOC409,1
+2021-03-01,WhaleCare PH,Tapstorm SG,GameDev,Admin Support,EUR,51838.02,0.9987,ALLOC680,0
+2021-03-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,13004.73,0.9849,ALLOC733,0
+2021-03-01,SummonStorm BR,Tapstorm SG,Translation,Localization,EUR,14799.75,1.0395,ALLOC731,1
+2021-03-01,SummonStorm BR,TapForge CN,CustomerCare,Admin Support,EUR,16494.33,0.9642,ALLOC864,0
+2021-03-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,38524.32,1.0968,ALLOC548,0
+2021-03-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,38205.26,0.879,ALLOC293,1
+2021-03-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,36041.03,1.2693,ALLOC732,1
+2021-04-01,WhaleCare PH,TapForge CN,Translation,IP Licensing,EUR,33470.1,1.0483,ALLOC122,1
+2021-04-01,WhaleCare PH,SummonStorm BR,Translation,IP Licensing,EUR,47830.33,1.0643,ALLOC573,0
+2021-04-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,29672.15,1.2401,ALLOC972,1
+2021-04-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,43758.53,1.1589,ALLOC438,1
+2021-04-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,57348.17,1.1,ALLOC725,1
+2021-04-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,22124.83,1.0873,ALLOC217,0
+2021-04-01,Tapstorm SG,TapForge CN,CustomerCare,Localization,EUR,24491.7,0.9141,ALLOC727,1
+2021-04-01,WhaleCare PH,Tapstorm SG,Translation,Development Services,EUR,7084.29,1.1006,ALLOC681,0
+2021-04-01,TapForge CN,Tapstorm SG,Translation,Development Services,EUR,38323.41,1.1389,ALLOC791,0
+2021-04-01,TapForge CN,SummonStorm BR,Translation,Admin Support,EUR,26165.91,1.1332,ALLOC274,0
+2021-04-01,TapForge CN,Tapstorm SG,GameDev,Admin Support,EUR,29092.15,0.9615,ALLOC461,0
+2021-04-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,54223.45,1.1653,ALLOC730,0
+2021-05-01,SummonStorm BR,TapForge CN,Translation,Admin Support,EUR,37541.32,1.1077,ALLOC872,0
+2021-05-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,19904.13,1.2946,ALLOC532,1
+2021-05-01,TapForge CN,SummonStorm BR,MarketingOps,IP Licensing,EUR,25466.2,1.2354,ALLOC819,1
+2021-05-01,TapForge CN,SummonStorm BR,GameDev,Admin Support,EUR,21413.51,1.1983,ALLOC934,0
+2021-05-01,TapForge CN,SummonStorm BR,MarketingOps,Localization,EUR,34714.88,0.9984,ALLOC233,0
+2021-05-01,Tapstorm SG,WhaleCare PH,Translation,Localization,EUR,32303.12,0.9156,ALLOC601,1
+2021-05-01,SummonStorm BR,Tapstorm SG,GameDev,Admin Support,EUR,45856.57,1.2524,ALLOC840,1
+2021-05-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,34309.92,1.2103,ALLOC814,0
+2021-05-01,TapForge CN,Tapstorm SG,Translation,Admin Support,EUR,27161.99,1.192,ALLOC202,0
+2021-05-01,TapForge CN,Tapstorm SG,GameDev,Development Services,EUR,33543.64,1.1729,ALLOC491,1
+2021-05-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,17454.2,0.9528,ALLOC705,1
+2021-05-01,WhaleCare PH,SummonStorm BR,MarketingOps,IP Licensing,EUR,24995.17,0.8353,ALLOC876,0
+2021-06-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,31271.09,1.1942,ALLOC223,1
+2021-06-01,TapForge CN,SummonStorm BR,GameDev,Development Services,EUR,48773.58,1.0647,ALLOC641,1
+2021-06-01,Tapstorm SG,WhaleCare PH,GameDev,Development Services,EUR,40605.3,1.143,ALLOC102,1
+2021-06-01,SummonStorm BR,TapForge CN,GameDev,IP Licensing,EUR,33134.09,1.1817,ALLOC662,1
+2021-06-01,WhaleCare PH,TapForge CN,Translation,Admin Support,EUR,36152.13,1.1047,ALLOC847,0
+2021-06-01,TapForge CN,SummonStorm BR,MarketingOps,IP Licensing,EUR,44110.06,0.8882,ALLOC360,1
+2021-06-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,29378.19,1.2797,ALLOC886,0
+2021-06-01,SummonStorm BR,WhaleCare PH,Translation,Admin Support,EUR,41380.86,1.1701,ALLOC182,1
+2021-06-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,25319.34,1.2387,ALLOC126,1
+2021-06-01,TapForge CN,Tapstorm SG,Translation,Admin Support,EUR,33981.69,1.0725,ALLOC326,1
+2021-06-01,SummonStorm BR,WhaleCare PH,CustomerCare,IP Licensing,EUR,43212.3,1.1959,ALLOC538,1
+2021-06-01,TapForge CN,Tapstorm SG,MarketingOps,Localization,EUR,42274.64,1.0545,ALLOC487,0
+2021-07-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,9089.03,1.1393,ALLOC935,1
+2021-07-01,Tapstorm SG,WhaleCare PH,MarketingOps,Localization,EUR,33011.68,0.9785,ALLOC689,1
+2021-07-01,SummonStorm BR,WhaleCare PH,Translation,Admin Support,EUR,38952.96,1.1375,ALLOC606,0
+2021-07-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,24620.85,0.9248,ALLOC166,0
+2021-07-01,Tapstorm SG,WhaleCare PH,Translation,IP Licensing,EUR,41771.48,1.243,ALLOC850,1
+2021-07-01,TapForge CN,WhaleCare PH,GameDev,IP Licensing,EUR,17810.76,1.0569,ALLOC825,0
+2021-07-01,SummonStorm BR,Tapstorm SG,Translation,IP Licensing,EUR,19631.16,1.2828,ALLOC455,1
+2021-07-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,-3550.36,0.9166,ALLOC365,0
+2021-07-01,TapForge CN,Tapstorm SG,GameDev,Development Services,EUR,25684.62,0.962,ALLOC627,0
+2021-07-01,TapForge CN,SummonStorm BR,MarketingOps,Localization,EUR,4280.96,0.9394,ALLOC758,1
+2021-07-01,WhaleCare PH,Tapstorm SG,Translation,Localization,EUR,44390.56,1.061,ALLOC888,1
+2021-07-01,Tapstorm SG,WhaleCare PH,GameDev,Admin Support,EUR,53430.77,0.9642,ALLOC522,0
+2021-08-01,SummonStorm BR,TapForge CN,CustomerCare,Admin Support,EUR,18894.12,1.0473,ALLOC731,1
+2021-08-01,Tapstorm SG,SummonStorm BR,Translation,Admin Support,EUR,27750.54,1.167,ALLOC809,0
+2021-08-01,TapForge CN,SummonStorm BR,CustomerCare,IP Licensing,EUR,31288.18,0.8746,ALLOC404,0
+2021-08-01,WhaleCare PH,SummonStorm BR,GameDev,Localization,EUR,19797.23,0.947,ALLOC208,0
+2021-08-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,34916.43,1.0521,ALLOC167,1
+2021-08-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,27970.65,1.1882,ALLOC700,1
+2021-08-01,SummonStorm BR,TapForge CN,Translation,Development Services,EUR,13726.25,0.8843,ALLOC518,1
+2021-08-01,SummonStorm BR,WhaleCare PH,CustomerCare,IP Licensing,EUR,34898.82,0.9763,ALLOC410,0
+2021-08-01,Tapstorm SG,WhaleCare PH,GameDev,Development Services,EUR,36258.85,0.8622,ALLOC178,1
+2021-08-01,WhaleCare PH,Tapstorm SG,MarketingOps,Development Services,EUR,5381.76,1.0761,ALLOC611,0
+2021-08-01,WhaleCare PH,TapForge CN,CustomerCare,Admin Support,EUR,29828.1,1.1264,ALLOC351,0
+2021-08-01,WhaleCare PH,SummonStorm BR,GameDev,Development Services,EUR,24891.15,1.2765,ALLOC369,0
+2021-09-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,33322.8,0.9625,ALLOC131,1
+2021-09-01,WhaleCare PH,Tapstorm SG,Translation,Localization,EUR,45984.46,1.0804,ALLOC348,1
+2021-09-01,TapForge CN,SummonStorm BR,GameDev,IP Licensing,EUR,43991.26,1.1285,ALLOC447,1
+2021-09-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,42353.4,1.1177,ALLOC554,0
+2021-09-01,Tapstorm SG,SummonStorm BR,GameDev,Admin Support,EUR,31755.85,0.9723,ALLOC627,1
+2021-09-01,Tapstorm SG,WhaleCare PH,MarketingOps,IP Licensing,EUR,26839.62,0.888,ALLOC632,1
+2021-09-01,Tapstorm SG,SummonStorm BR,MarketingOps,IP Licensing,EUR,5378.35,1.1929,ALLOC219,1
+2021-09-01,SummonStorm BR,WhaleCare PH,Translation,Admin Support,EUR,39664.8,1.1456,ALLOC551,1
+2021-09-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,41537.01,1.1412,ALLOC796,0
+2021-09-01,Tapstorm SG,TapForge CN,MarketingOps,IP Licensing,EUR,9959.76,1.0914,ALLOC634,0
+2021-09-01,SummonStorm BR,Tapstorm SG,Translation,Admin Support,EUR,35493.25,0.9872,ALLOC457,1
+2021-09-01,Tapstorm SG,TapForge CN,MarketingOps,IP Licensing,EUR,42324.61,1.0804,ALLOC862,0
+2021-10-01,Tapstorm SG,SummonStorm BR,Translation,IP Licensing,EUR,19487.03,0.8013,ALLOC540,0
+2021-10-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,39542.85,1.2234,ALLOC299,1
+2021-10-01,TapForge CN,WhaleCare PH,GameDev,Admin Support,EUR,16114.07,1.0189,ALLOC221,0
+2021-10-01,TapForge CN,SummonStorm BR,GameDev,Development Services,EUR,24456.62,1.0794,ALLOC791,0
+2021-10-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,15954.95,0.8142,ALLOC776,1
+2021-10-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,39756.0,1.1676,ALLOC869,1
+2021-10-01,Tapstorm SG,SummonStorm BR,CustomerCare,Localization,EUR,39703.06,1.0839,ALLOC854,1
+2021-10-01,TapForge CN,WhaleCare PH,GameDev,Localization,EUR,23616.95,1.1665,ALLOC683,0
+2021-10-01,WhaleCare PH,TapForge CN,MarketingOps,Localization,EUR,15021.93,0.8591,ALLOC519,0
+2021-10-01,WhaleCare PH,TapForge CN,Translation,IP Licensing,EUR,61683.06,1.1099,ALLOC913,0
+2021-10-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,30908.84,1.2093,ALLOC961,0
+2021-10-01,SummonStorm BR,WhaleCare PH,Translation,Admin Support,EUR,29370.49,0.8455,ALLOC510,1
+2021-11-01,WhaleCare PH,SummonStorm BR,Translation,Development Services,EUR,20507.41,1.1743,ALLOC452,1
+2021-11-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,18290.1,1.1451,ALLOC749,0
+2021-11-01,SummonStorm BR,Tapstorm SG,MarketingOps,Development Services,EUR,36422.05,1.2709,ALLOC199,0
+2021-11-01,WhaleCare PH,Tapstorm SG,GameDev,Development Services,EUR,34237.01,1.0487,ALLOC726,1
+2021-11-01,TapForge CN,WhaleCare PH,GameDev,Development Services,EUR,23779.01,1.2502,ALLOC910,1
+2021-11-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,40006.31,1.198,ALLOC121,0
+2021-11-01,Tapstorm SG,WhaleCare PH,CustomerCare,Localization,EUR,27437.55,1.2707,ALLOC672,0
+2021-11-01,WhaleCare PH,TapForge CN,Translation,Admin Support,EUR,37647.7,1.288,ALLOC764,1
+2021-11-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,34721.46,1.2447,ALLOC118,1
+2021-11-01,SummonStorm BR,Tapstorm SG,CustomerCare,Localization,EUR,28142.18,1.1251,ALLOC884,0
+2021-11-01,SummonStorm BR,Tapstorm SG,MarketingOps,Admin Support,EUR,38992.74,1.0538,ALLOC128,0
+2021-11-01,Tapstorm SG,WhaleCare PH,CustomerCare,Localization,EUR,43201.14,1.2633,ALLOC946,0
+2021-12-01,WhaleCare PH,SummonStorm BR,CustomerCare,IP Licensing,EUR,42212.78,1.0774,ALLOC199,0
+2021-12-01,WhaleCare PH,TapForge CN,MarketingOps,IP Licensing,EUR,12507.58,1.1763,ALLOC131,0
+2021-12-01,WhaleCare PH,Tapstorm SG,CustomerCare,IP Licensing,EUR,43134.02,1.101,ALLOC202,0
+2021-12-01,WhaleCare PH,SummonStorm BR,GameDev,Development Services,EUR,35982.76,0.8222,ALLOC188,0
+2021-12-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,37390.5,1.04,ALLOC580,0
+2021-12-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,4675.05,0.8656,ALLOC854,1
+2021-12-01,SummonStorm BR,Tapstorm SG,Translation,Development Services,EUR,12444.17,1.2504,ALLOC360,0
+2021-12-01,SummonStorm BR,Tapstorm SG,GameDev,Admin Support,EUR,27071.03,0.9633,ALLOC961,1
+2021-12-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,8329.31,0.8345,ALLOC155,0
+2021-12-01,Tapstorm SG,SummonStorm BR,CustomerCare,Admin Support,EUR,50621.41,0.8217,ALLOC990,0
+2021-12-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,19732.21,1.058,ALLOC423,1
+2021-12-01,Tapstorm SG,WhaleCare PH,GameDev,Localization,EUR,15826.94,0.8523,ALLOC855,1
+2022-01-01,WhaleCare PH,TapForge CN,GameDev,Localization,EUR,25136.6,1.1731,ALLOC733,0
+2022-01-01,WhaleCare PH,TapForge CN,MarketingOps,IP Licensing,EUR,27348.39,1.1869,ALLOC925,1
+2022-01-01,SummonStorm BR,TapForge CN,CustomerCare,IP Licensing,EUR,33088.69,1.0869,ALLOC763,1
+2022-01-01,Tapstorm SG,SummonStorm BR,GameDev,Admin Support,EUR,2768.44,1.1662,ALLOC885,0
+2022-01-01,WhaleCare PH,SummonStorm BR,GameDev,IP Licensing,EUR,14089.32,1.2319,ALLOC701,1
+2022-01-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,23074.43,0.9614,ALLOC308,0
+2022-01-01,Tapstorm SG,SummonStorm BR,CustomerCare,Development Services,EUR,36726.99,1.2978,ALLOC569,0
+2022-01-01,SummonStorm BR,TapForge CN,GameDev,Admin Support,EUR,27010.5,1.0768,ALLOC408,1
+2022-01-01,TapForge CN,Tapstorm SG,Translation,IP Licensing,EUR,32041.31,0.847,ALLOC446,0
+2022-01-01,WhaleCare PH,TapForge CN,CustomerCare,IP Licensing,EUR,43354.19,1.2656,ALLOC376,1
+2022-01-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,29037.19,0.8731,ALLOC452,1
+2022-01-01,Tapstorm SG,SummonStorm BR,Translation,Admin Support,EUR,35725.38,1.171,ALLOC136,0
+2022-02-01,Tapstorm SG,SummonStorm BR,GameDev,Admin Support,EUR,28924.01,1.1944,ALLOC712,1
+2022-02-01,SummonStorm BR,Tapstorm SG,CustomerCare,Development Services,EUR,45867.46,0.9047,ALLOC511,0
+2022-02-01,WhaleCare PH,Tapstorm SG,CustomerCare,IP Licensing,EUR,38101.49,1.274,ALLOC805,0
+2022-02-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,-3213.67,1.2164,ALLOC331,0
+2022-02-01,TapForge CN,WhaleCare PH,MarketingOps,IP Licensing,EUR,34661.21,1.1419,ALLOC531,0
+2022-02-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,53266.78,1.253,ALLOC800,0
+2022-02-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,44681.52,0.8257,ALLOC436,0
+2022-02-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,24206.05,1.0249,ALLOC473,1
+2022-02-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,39353.2,1.1036,ALLOC719,1
+2022-02-01,SummonStorm BR,Tapstorm SG,GameDev,IP Licensing,EUR,19404.53,0.8165,ALLOC405,1
+2022-02-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,27650.72,0.871,ALLOC951,0
+2022-02-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,21428.69,0.9244,ALLOC146,0
+2022-03-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,31623.54,1.0038,ALLOC603,0
+2022-03-01,Tapstorm SG,WhaleCare PH,CustomerCare,Development Services,EUR,54916.0,1.1262,ALLOC533,1
+2022-03-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,9988.4,0.9071,ALLOC145,0
+2022-03-01,TapForge CN,Tapstorm SG,GameDev,Development Services,EUR,38647.25,1.2763,ALLOC107,0
+2022-03-01,WhaleCare PH,SummonStorm BR,CustomerCare,IP Licensing,EUR,21466.68,1.2769,ALLOC888,0
+2022-03-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,19460.3,1.0252,ALLOC936,1
+2022-03-01,Tapstorm SG,WhaleCare PH,MarketingOps,Localization,EUR,35233.34,1.1518,ALLOC790,1
+2022-03-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,30356.5,0.967,ALLOC815,1
+2022-03-01,WhaleCare PH,TapForge CN,Translation,Development Services,EUR,34101.04,0.8896,ALLOC786,1
+2022-03-01,Tapstorm SG,WhaleCare PH,MarketingOps,Localization,EUR,29413.94,1.2496,ALLOC904,0
+2022-03-01,WhaleCare PH,Tapstorm SG,CustomerCare,Admin Support,EUR,28148.33,1.2064,ALLOC238,0
+2022-03-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,31159.57,1.2972,ALLOC150,0
+2022-04-01,TapForge CN,WhaleCare PH,GameDev,Admin Support,EUR,28860.58,0.9265,ALLOC130,1
+2022-04-01,Tapstorm SG,TapForge CN,CustomerCare,Development Services,EUR,27175.83,0.8614,ALLOC845,1
+2022-04-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,30699.22,0.9463,ALLOC951,1
+2022-04-01,TapForge CN,Tapstorm SG,Translation,Development Services,EUR,23990.5,0.8706,ALLOC259,0
+2022-04-01,SummonStorm BR,Tapstorm SG,GameDev,Development Services,EUR,47748.54,0.9364,ALLOC776,1
+2022-04-01,Tapstorm SG,WhaleCare PH,Translation,Admin Support,EUR,10646.72,0.9988,ALLOC743,0
+2022-04-01,Tapstorm SG,TapForge CN,GameDev,Admin Support,EUR,12849.38,1.1151,ALLOC676,0
+2022-04-01,WhaleCare PH,SummonStorm BR,Translation,Admin Support,EUR,49013.47,1.0088,ALLOC426,1
+2022-04-01,SummonStorm BR,Tapstorm SG,CustomerCare,Localization,EUR,38570.42,1.0407,ALLOC541,0
+2022-04-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,14985.51,0.9167,ALLOC572,0
+2022-04-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,38584.24,0.8676,ALLOC488,0
+2022-04-01,SummonStorm BR,WhaleCare PH,GameDev,Admin Support,EUR,21228.29,0.9602,ALLOC950,1
+2022-05-01,WhaleCare PH,Tapstorm SG,GameDev,IP Licensing,EUR,34976.94,0.9782,ALLOC622,1
+2022-05-01,TapForge CN,SummonStorm BR,CustomerCare,IP Licensing,EUR,29678.43,0.9564,ALLOC509,0
+2022-05-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,35744.09,0.9318,ALLOC615,0
+2022-05-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,31899.66,1.1428,ALLOC252,1
+2022-05-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,19868.77,1.1549,ALLOC883,1
+2022-05-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,23869.77,0.9615,ALLOC786,1
+2022-05-01,WhaleCare PH,Tapstorm SG,CustomerCare,Admin Support,EUR,31023.26,1.1026,ALLOC626,0
+2022-05-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,13080.81,1.0861,ALLOC862,0
+2022-05-01,SummonStorm BR,WhaleCare PH,GameDev,Admin Support,EUR,22694.09,1.1069,ALLOC353,0
+2022-05-01,TapForge CN,Tapstorm SG,GameDev,Admin Support,EUR,27369.44,0.8795,ALLOC152,0
+2022-05-01,SummonStorm BR,WhaleCare PH,CustomerCare,Admin Support,EUR,30255.34,0.866,ALLOC802,0
+2022-05-01,SummonStorm BR,WhaleCare PH,MarketingOps,Development Services,EUR,22489.59,1.006,ALLOC449,1
+2022-06-01,TapForge CN,Tapstorm SG,MarketingOps,Localization,EUR,39025.12,1.0389,ALLOC680,0
+2022-06-01,WhaleCare PH,SummonStorm BR,Translation,Localization,EUR,11523.68,1.2707,ALLOC200,1
+2022-06-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,30231.11,1.2503,ALLOC189,0
+2022-06-01,Tapstorm SG,SummonStorm BR,CustomerCare,Admin Support,EUR,37155.61,0.8606,ALLOC997,1
+2022-06-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,66428.99,1.0941,ALLOC508,0
+2022-06-01,Tapstorm SG,TapForge CN,MarketingOps,IP Licensing,EUR,13977.87,0.8743,ALLOC693,1
+2022-06-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,6189.25,1.0395,ALLOC820,0
+2022-06-01,SummonStorm BR,Tapstorm SG,CustomerCare,IP Licensing,EUR,41748.66,1.0968,ALLOC758,1
+2022-06-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,35266.6,0.8142,ALLOC145,1
+2022-06-01,Tapstorm SG,SummonStorm BR,GameDev,Localization,EUR,34211.76,0.8402,ALLOC249,1
+2022-06-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,6338.63,1.0089,ALLOC810,1
+2022-06-01,Tapstorm SG,TapForge CN,CustomerCare,Development Services,EUR,27184.3,1.062,ALLOC468,0
+2022-07-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,33003.1,0.9448,ALLOC383,0
+2022-07-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,13594.38,0.8554,ALLOC602,1
+2022-07-01,Tapstorm SG,WhaleCare PH,MarketingOps,Development Services,EUR,12402.83,1.0355,ALLOC372,0
+2022-07-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,22037.72,1.1043,ALLOC925,1
+2022-07-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,19891.19,0.9618,ALLOC406,0
+2022-07-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,37678.45,1.0068,ALLOC706,1
+2022-07-01,TapForge CN,SummonStorm BR,Translation,Admin Support,EUR,23838.19,0.831,ALLOC672,1
+2022-07-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,17749.26,0.9793,ALLOC434,0
+2022-07-01,WhaleCare PH,SummonStorm BR,GameDev,IP Licensing,EUR,55490.61,0.9214,ALLOC606,1
+2022-07-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,37013.46,0.8787,ALLOC110,1
+2022-07-01,WhaleCare PH,SummonStorm BR,Translation,Development Services,EUR,35030.94,1.2689,ALLOC647,1
+2022-07-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,18358.66,1.1336,ALLOC367,1
+2022-08-01,Tapstorm SG,WhaleCare PH,MarketingOps,IP Licensing,EUR,17103.64,0.8407,ALLOC832,1
+2022-08-01,WhaleCare PH,SummonStorm BR,GameDev,Development Services,EUR,26174.19,0.9689,ALLOC981,0
+2022-08-01,TapForge CN,SummonStorm BR,GameDev,Localization,EUR,45751.21,1.1632,ALLOC244,0
+2022-08-01,TapForge CN,SummonStorm BR,Translation,IP Licensing,EUR,16276.68,1.1783,ALLOC585,0
+2022-08-01,WhaleCare PH,Tapstorm SG,Translation,Admin Support,EUR,6845.25,0.8807,ALLOC915,0
+2022-08-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,10225.28,1.223,ALLOC488,1
+2022-08-01,SummonStorm BR,Tapstorm SG,GameDev,Development Services,EUR,7620.66,0.9738,ALLOC832,1
+2022-08-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,21380.06,1.0714,ALLOC545,1
+2022-08-01,TapForge CN,SummonStorm BR,Translation,Development Services,EUR,44477.79,0.8445,ALLOC918,1
+2022-08-01,Tapstorm SG,WhaleCare PH,Translation,Development Services,EUR,6596.15,0.9723,ALLOC526,1
+2022-08-01,Tapstorm SG,WhaleCare PH,CustomerCare,Localization,EUR,28892.65,1.2788,ALLOC831,0
+2022-08-01,Tapstorm SG,WhaleCare PH,GameDev,Admin Support,EUR,21829.82,0.9951,ALLOC206,0
+2022-09-01,WhaleCare PH,Tapstorm SG,GameDev,IP Licensing,EUR,27725.38,1.2405,ALLOC720,1
+2022-09-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,22485.7,1.1684,ALLOC346,1
+2022-09-01,WhaleCare PH,Tapstorm SG,Translation,IP Licensing,EUR,3574.08,1.1373,ALLOC767,1
+2022-09-01,TapForge CN,SummonStorm BR,CustomerCare,IP Licensing,EUR,24001.12,1.2675,ALLOC899,1
+2022-09-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,41230.22,1.1121,ALLOC755,1
+2022-09-01,SummonStorm BR,TapForge CN,CustomerCare,IP Licensing,EUR,32133.03,0.851,ALLOC954,0
+2022-09-01,WhaleCare PH,SummonStorm BR,GameDev,Localization,EUR,26613.94,0.8042,ALLOC214,1
+2022-09-01,Tapstorm SG,WhaleCare PH,MarketingOps,Development Services,EUR,38679.95,0.8071,ALLOC659,0
+2022-09-01,TapForge CN,SummonStorm BR,GameDev,Admin Support,EUR,27401.13,0.955,ALLOC149,0
+2022-09-01,WhaleCare PH,TapForge CN,Translation,Localization,EUR,21102.76,1.1352,ALLOC562,1
+2022-09-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,20121.06,1.0857,ALLOC124,0
+2022-09-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,26898.67,1.1044,ALLOC118,1
+2022-10-01,SummonStorm BR,Tapstorm SG,CustomerCare,Development Services,EUR,46926.45,1.018,ALLOC769,1
+2022-10-01,SummonStorm BR,WhaleCare PH,MarketingOps,IP Licensing,EUR,17304.58,1.2777,ALLOC646,0
+2022-10-01,Tapstorm SG,WhaleCare PH,Translation,IP Licensing,EUR,17544.44,1.2362,ALLOC665,0
+2022-10-01,WhaleCare PH,SummonStorm BR,CustomerCare,Development Services,EUR,40965.42,1.1471,ALLOC879,0
+2022-10-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,32150.34,1.1448,ALLOC506,1
+2022-10-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,47767.28,0.8446,ALLOC645,1
+2022-10-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,47567.41,1.1432,ALLOC989,1
+2022-10-01,WhaleCare PH,SummonStorm BR,MarketingOps,IP Licensing,EUR,40030.0,1.1694,ALLOC306,1
+2022-10-01,SummonStorm BR,Tapstorm SG,MarketingOps,Localization,EUR,39515.32,1.0764,ALLOC674,0
+2022-10-01,SummonStorm BR,Tapstorm SG,GameDev,IP Licensing,EUR,30976.99,1.0904,ALLOC664,0
+2022-10-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,8194.68,0.8768,ALLOC627,1
+2022-10-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,19518.71,1.187,ALLOC433,1
+2022-11-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,20752.84,0.9003,ALLOC587,0
+2022-11-01,TapForge CN,WhaleCare PH,GameDev,Localization,EUR,42787.91,0.9503,ALLOC602,1
+2022-11-01,WhaleCare PH,SummonStorm BR,Translation,Development Services,EUR,51123.72,1.0747,ALLOC934,0
+2022-11-01,TapForge CN,Tapstorm SG,MarketingOps,Development Services,EUR,30088.8,0.9589,ALLOC447,0
+2022-11-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,32875.6,1.2525,ALLOC846,1
+2022-11-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,22743.09,1.1701,ALLOC591,0
+2022-11-01,Tapstorm SG,TapForge CN,CustomerCare,Localization,EUR,26895.97,0.8719,ALLOC154,0
+2022-11-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,24801.54,0.9497,ALLOC389,0
+2022-11-01,Tapstorm SG,WhaleCare PH,MarketingOps,Development Services,EUR,50898.87,0.851,ALLOC231,1
+2022-11-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,48841.47,0.8079,ALLOC180,0
+2022-11-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,13969.13,1.1153,ALLOC481,0
+2022-11-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,31443.03,1.1576,ALLOC149,1
+2022-12-01,SummonStorm BR,WhaleCare PH,CustomerCare,Admin Support,EUR,26744.83,1.1586,ALLOC586,1
+2022-12-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,-14560.1,1.0744,ALLOC372,0
+2022-12-01,TapForge CN,Tapstorm SG,Translation,IP Licensing,EUR,45745.65,0.848,ALLOC708,0
+2022-12-01,WhaleCare PH,TapForge CN,Translation,Localization,EUR,59682.21,1.0636,ALLOC457,1
+2022-12-01,WhaleCare PH,TapForge CN,Translation,Localization,EUR,41967.59,1.1002,ALLOC786,1
+2022-12-01,Tapstorm SG,SummonStorm BR,Translation,Localization,EUR,25541.16,1.25,ALLOC651,1
+2022-12-01,WhaleCare PH,TapForge CN,Translation,Localization,EUR,45428.36,0.9067,ALLOC529,0
+2022-12-01,SummonStorm BR,WhaleCare PH,GameDev,Admin Support,EUR,35680.61,1.1237,ALLOC883,0
+2022-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,53855.24,0.9097,ALLOC137,0
+2022-12-01,Tapstorm SG,SummonStorm BR,MarketingOps,Localization,EUR,34228.0,1.2843,ALLOC278,0
+2022-12-01,Tapstorm SG,SummonStorm BR,CustomerCare,Localization,EUR,29996.76,1.1288,ALLOC511,1
+2022-12-01,SummonStorm BR,Tapstorm SG,GameDev,Admin Support,EUR,29405.24,0.9955,ALLOC611,0
+2023-01-01,SummonStorm BR,Tapstorm SG,Translation,Localization,EUR,26638.77,0.9625,ALLOC546,0
+2023-01-01,WhaleCare PH,Tapstorm SG,MarketingOps,Localization,EUR,36667.44,1.1225,ALLOC880,0
+2023-01-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,47970.69,1.0378,ALLOC185,1
+2023-01-01,SummonStorm BR,WhaleCare PH,CustomerCare,Localization,EUR,16965.2,1.2438,ALLOC689,0
+2023-01-01,WhaleCare PH,TapForge CN,CustomerCare,Localization,EUR,40068.4,0.876,ALLOC516,0
+2023-01-01,Tapstorm SG,WhaleCare PH,MarketingOps,Admin Support,EUR,66697.32,0.9275,ALLOC569,0
+2023-01-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,18190.67,0.9917,ALLOC200,1
+2023-01-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,41192.06,1.0847,ALLOC107,0
+2023-01-01,SummonStorm BR,Tapstorm SG,CustomerCare,Localization,EUR,28784.79,1.2574,ALLOC493,0
+2023-01-01,SummonStorm BR,TapForge CN,Translation,Development Services,EUR,12867.05,1.1789,ALLOC249,0
+2023-01-01,Tapstorm SG,WhaleCare PH,Translation,Development Services,EUR,9312.53,1.0444,ALLOC500,1
+2023-01-01,TapForge CN,WhaleCare PH,GameDev,Development Services,EUR,38602.88,1.028,ALLOC176,1
+2023-02-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,14753.08,0.8733,ALLOC586,0
+2023-02-01,SummonStorm BR,TapForge CN,MarketingOps,Localization,EUR,40235.34,1.2449,ALLOC616,1
+2023-02-01,TapForge CN,Tapstorm SG,CustomerCare,Development Services,EUR,31202.0,1.1847,ALLOC611,1
+2023-02-01,WhaleCare PH,SummonStorm BR,Translation,Localization,EUR,52855.82,1.225,ALLOC841,0
+2023-02-01,Tapstorm SG,TapForge CN,GameDev,Admin Support,EUR,19077.51,1.2262,ALLOC678,0
+2023-02-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,17830.64,1.2129,ALLOC671,0
+2023-02-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,44021.61,1.0261,ALLOC999,1
+2023-02-01,Tapstorm SG,TapForge CN,Translation,Development Services,EUR,26596.41,0.8985,ALLOC297,1
+2023-02-01,SummonStorm BR,WhaleCare PH,Translation,Localization,EUR,40878.64,1.114,ALLOC126,0
+2023-02-01,SummonStorm BR,Tapstorm SG,GameDev,Development Services,EUR,45652.51,0.9804,ALLOC117,1
+2023-02-01,SummonStorm BR,Tapstorm SG,GameDev,Admin Support,EUR,48560.17,1.2503,ALLOC866,1
+2023-02-01,TapForge CN,Tapstorm SG,Translation,IP Licensing,EUR,14780.85,1.1103,ALLOC329,1
+2023-03-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,26222.74,1.2588,ALLOC808,0
+2023-03-01,Tapstorm SG,TapForge CN,GameDev,Admin Support,EUR,9157.45,1.0264,ALLOC915,1
+2023-03-01,TapForge CN,Tapstorm SG,GameDev,Admin Support,EUR,45489.35,0.8421,ALLOC696,1
+2023-03-01,Tapstorm SG,WhaleCare PH,MarketingOps,Localization,EUR,28329.82,0.8286,ALLOC660,1
+2023-03-01,SummonStorm BR,Tapstorm SG,MarketingOps,Localization,EUR,1471.05,1.1803,ALLOC754,1
+2023-03-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,44018.98,1.0175,ALLOC808,0
+2023-03-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,40821.11,0.9039,ALLOC538,0
+2023-03-01,WhaleCare PH,TapForge CN,GameDev,IP Licensing,EUR,18073.21,1.2399,ALLOC939,0
+2023-03-01,WhaleCare PH,SummonStorm BR,GameDev,IP Licensing,EUR,27711.79,1.2197,ALLOC234,1
+2023-03-01,TapForge CN,Tapstorm SG,MarketingOps,Localization,EUR,37560.9,0.8943,ALLOC513,0
+2023-03-01,WhaleCare PH,SummonStorm BR,MarketingOps,IP Licensing,EUR,43019.15,0.8308,ALLOC971,0
+2023-03-01,WhaleCare PH,Tapstorm SG,CustomerCare,Development Services,EUR,22592.85,1.1388,ALLOC558,1
+2023-04-01,SummonStorm BR,Tapstorm SG,Translation,Admin Support,EUR,42097.4,1.1442,ALLOC816,1
+2023-04-01,SummonStorm BR,WhaleCare PH,CustomerCare,Localization,EUR,27160.08,0.9974,ALLOC723,0
+2023-04-01,SummonStorm BR,TapForge CN,CustomerCare,Admin Support,EUR,34896.83,1.0699,ALLOC851,0
+2023-04-01,SummonStorm BR,Tapstorm SG,MarketingOps,Admin Support,EUR,33776.06,0.8294,ALLOC335,1
+2023-04-01,Tapstorm SG,SummonStorm BR,Translation,Admin Support,EUR,8176.2,0.947,ALLOC224,1
+2023-04-01,WhaleCare PH,TapForge CN,GameDev,Localization,EUR,21445.83,1.2975,ALLOC263,1
+2023-04-01,WhaleCare PH,Tapstorm SG,MarketingOps,Development Services,EUR,15406.8,1.1042,ALLOC273,0
+2023-04-01,SummonStorm BR,WhaleCare PH,Translation,Development Services,EUR,20259.04,1.25,ALLOC289,1
+2023-04-01,TapForge CN,WhaleCare PH,GameDev,Development Services,EUR,33747.86,1.1348,ALLOC165,0
+2023-04-01,WhaleCare PH,TapForge CN,MarketingOps,Admin Support,EUR,20656.0,1.2201,ALLOC964,0
+2023-04-01,WhaleCare PH,TapForge CN,CustomerCare,IP Licensing,EUR,33941.55,0.8699,ALLOC342,1
+2023-04-01,SummonStorm BR,TapForge CN,Translation,IP Licensing,EUR,16705.31,1.1631,ALLOC882,1
+2023-05-01,WhaleCare PH,TapForge CN,Translation,Development Services,EUR,26058.92,1.0422,ALLOC178,1
+2023-05-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,47785.51,0.9064,ALLOC729,1
+2023-05-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,20200.91,1.0482,ALLOC492,0
+2023-05-01,WhaleCare PH,SummonStorm BR,Translation,Localization,EUR,39307.01,0.8442,ALLOC754,0
+2023-05-01,TapForge CN,Tapstorm SG,CustomerCare,IP Licensing,EUR,12415.68,1.096,ALLOC111,1
+2023-05-01,WhaleCare PH,SummonStorm BR,CustomerCare,Development Services,EUR,40001.47,0.8144,ALLOC778,0
+2023-05-01,Tapstorm SG,TapForge CN,MarketingOps,Admin Support,EUR,19412.46,1.1667,ALLOC309,1
+2023-05-01,WhaleCare PH,TapForge CN,CustomerCare,Localization,EUR,21445.9,1.2582,ALLOC735,1
+2023-05-01,TapForge CN,Tapstorm SG,GameDev,Development Services,EUR,42499.83,0.838,ALLOC209,1
+2023-05-01,SummonStorm BR,TapForge CN,MarketingOps,Development Services,EUR,1269.77,0.8664,ALLOC640,0
+2023-05-01,SummonStorm BR,TapForge CN,MarketingOps,IP Licensing,EUR,27796.86,0.8405,ALLOC334,1
+2023-05-01,Tapstorm SG,SummonStorm BR,MarketingOps,Development Services,EUR,41275.21,0.9944,ALLOC694,0
+2023-06-01,WhaleCare PH,TapForge CN,GameDev,IP Licensing,EUR,8041.9,0.9548,ALLOC731,0
+2023-06-01,SummonStorm BR,Tapstorm SG,MarketingOps,IP Licensing,EUR,28117.16,1.1121,ALLOC850,0
+2023-06-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,15287.2,1.0616,ALLOC926,0
+2023-06-01,SummonStorm BR,WhaleCare PH,GameDev,Admin Support,EUR,21666.15,1.1046,ALLOC955,0
+2023-06-01,TapForge CN,Tapstorm SG,MarketingOps,Localization,EUR,31222.93,1.1732,ALLOC486,0
+2023-06-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,35818.72,1.1045,ALLOC634,1
+2023-06-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,35662.05,1.0575,ALLOC495,1
+2023-06-01,TapForge CN,SummonStorm BR,CustomerCare,IP Licensing,EUR,44330.34,1.0544,ALLOC769,0
+2023-06-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,27131.11,0.8746,ALLOC951,0
+2023-06-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,22633.62,1.1755,ALLOC263,1
+2023-06-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,34859.45,0.9756,ALLOC562,1
+2023-06-01,TapForge CN,Tapstorm SG,CustomerCare,Localization,EUR,43135.8,0.9723,ALLOC985,0
+2023-07-01,WhaleCare PH,Tapstorm SG,GameDev,Development Services,EUR,21531.4,0.8821,ALLOC401,1
+2023-07-01,TapForge CN,SummonStorm BR,GameDev,Localization,EUR,33289.39,1.1009,ALLOC929,0
+2023-07-01,Tapstorm SG,SummonStorm BR,GameDev,Development Services,EUR,35321.02,1.0865,ALLOC251,1
+2023-07-01,WhaleCare PH,Tapstorm SG,GameDev,Development Services,EUR,30367.78,0.979,ALLOC362,0
+2023-07-01,TapForge CN,WhaleCare PH,Translation,Admin Support,EUR,34290.35,0.9818,ALLOC909,0
+2023-07-01,TapForge CN,Tapstorm SG,GameDev,Localization,EUR,38323.93,0.937,ALLOC737,1
+2023-07-01,WhaleCare PH,TapForge CN,MarketingOps,Localization,EUR,32916.52,1.0699,ALLOC595,0
+2023-07-01,Tapstorm SG,TapForge CN,Translation,Admin Support,EUR,29775.68,1.2724,ALLOC993,1
+2023-07-01,TapForge CN,Tapstorm SG,Translation,Localization,EUR,28492.77,1.299,ALLOC950,0
+2023-07-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,42282.01,0.9701,ALLOC640,1
+2023-07-01,Tapstorm SG,WhaleCare PH,Translation,Localization,EUR,34354.22,0.9629,ALLOC604,1
+2023-07-01,SummonStorm BR,WhaleCare PH,GameDev,IP Licensing,EUR,43547.1,1.2984,ALLOC741,1
+2023-08-01,WhaleCare PH,SummonStorm BR,CustomerCare,IP Licensing,EUR,31391.07,1.2479,ALLOC303,1
+2023-08-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,37767.1,0.9278,ALLOC709,0
+2023-08-01,TapForge CN,SummonStorm BR,MarketingOps,IP Licensing,EUR,36617.21,1.1816,ALLOC234,0
+2023-08-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,23023.21,1.2221,ALLOC148,0
+2023-08-01,TapForge CN,Tapstorm SG,CustomerCare,Localization,EUR,824.25,1.0758,ALLOC790,0
+2023-08-01,SummonStorm BR,TapForge CN,Translation,Admin Support,EUR,10298.95,1.2452,ALLOC894,0
+2023-08-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,40059.36,1.2278,ALLOC835,1
+2023-08-01,TapForge CN,Tapstorm SG,CustomerCare,Development Services,EUR,36682.46,1.0839,ALLOC318,0
+2023-08-01,Tapstorm SG,WhaleCare PH,Translation,IP Licensing,EUR,30039.11,0.9624,ALLOC375,0
+2023-08-01,TapForge CN,Tapstorm SG,Translation,Localization,EUR,32966.57,0.8285,ALLOC794,0
+2023-08-01,SummonStorm BR,Tapstorm SG,GameDev,Admin Support,EUR,22017.72,1.2995,ALLOC212,0
+2023-08-01,TapForge CN,Tapstorm SG,GameDev,Localization,EUR,21287.24,1.1315,ALLOC139,1
+2023-09-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,26584.66,1.0655,ALLOC106,1
+2023-09-01,TapForge CN,SummonStorm BR,GameDev,Localization,EUR,39641.93,0.9351,ALLOC489,1
+2023-09-01,Tapstorm SG,WhaleCare PH,Translation,Admin Support,EUR,42475.32,1.0938,ALLOC246,1
+2023-09-01,TapForge CN,SummonStorm BR,CustomerCare,Development Services,EUR,33930.66,1.1223,ALLOC500,0
+2023-09-01,TapForge CN,SummonStorm BR,GameDev,Development Services,EUR,31185.9,0.8243,ALLOC529,1
+2023-09-01,SummonStorm BR,TapForge CN,Translation,Admin Support,EUR,29354.31,1.0753,ALLOC961,0
+2023-09-01,WhaleCare PH,SummonStorm BR,GameDev,Admin Support,EUR,25292.77,1.0038,ALLOC577,1
+2023-09-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,6261.34,1.2701,ALLOC924,1
+2023-09-01,Tapstorm SG,TapForge CN,GameDev,Localization,EUR,40453.61,0.9406,ALLOC377,0
+2023-09-01,Tapstorm SG,WhaleCare PH,CustomerCare,IP Licensing,EUR,38332.35,0.8174,ALLOC386,0
+2023-09-01,TapForge CN,SummonStorm BR,CustomerCare,Admin Support,EUR,33537.83,0.9734,ALLOC939,1
+2023-09-01,WhaleCare PH,Tapstorm SG,CustomerCare,IP Licensing,EUR,37449.17,1.1423,ALLOC722,0
+2023-10-01,WhaleCare PH,TapForge CN,MarketingOps,Localization,EUR,51151.19,0.8795,ALLOC290,1
+2023-10-01,Tapstorm SG,SummonStorm BR,MarketingOps,Localization,EUR,23862.69,1.0783,ALLOC476,0
+2023-10-01,SummonStorm BR,TapForge CN,Translation,Localization,EUR,33739.29,1.2251,ALLOC781,0
+2023-10-01,WhaleCare PH,Tapstorm SG,Translation,Development Services,EUR,15107.3,0.9576,ALLOC474,0
+2023-10-01,TapForge CN,Tapstorm SG,GameDev,Admin Support,EUR,50871.58,0.8206,ALLOC297,1
+2023-10-01,Tapstorm SG,TapForge CN,CustomerCare,Admin Support,EUR,30947.44,1.2772,ALLOC470,1
+2023-10-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,5848.63,1.0807,ALLOC156,1
+2023-10-01,TapForge CN,SummonStorm BR,Translation,Development Services,EUR,25532.38,0.9551,ALLOC645,0
+2023-10-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,45571.71,0.837,ALLOC217,1
+2023-10-01,TapForge CN,Tapstorm SG,CustomerCare,Localization,EUR,38716.11,0.8039,ALLOC702,0
+2023-10-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,49850.06,1.1796,ALLOC314,1
+2023-10-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,28681.43,1.2222,ALLOC964,0
+2023-11-01,WhaleCare PH,Tapstorm SG,CustomerCare,Admin Support,EUR,39948.38,1.0278,ALLOC498,1
+2023-11-01,TapForge CN,Tapstorm SG,MarketingOps,Development Services,EUR,34486.1,1.2511,ALLOC165,0
+2023-11-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,34196.76,0.8899,ALLOC443,1
+2023-11-01,TapForge CN,WhaleCare PH,CustomerCare,Admin Support,EUR,18282.97,0.9465,ALLOC805,0
+2023-11-01,SummonStorm BR,TapForge CN,GameDev,Development Services,EUR,-6785.92,1.1454,ALLOC493,1
+2023-11-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,29328.63,1.0228,ALLOC836,1
+2023-11-01,WhaleCare PH,TapForge CN,CustomerCare,Admin Support,EUR,4851.95,1.1739,ALLOC489,0
+2023-11-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,37197.58,0.9149,ALLOC736,0
+2023-11-01,WhaleCare PH,Tapstorm SG,Translation,IP Licensing,EUR,24962.51,0.9267,ALLOC757,0
+2023-11-01,SummonStorm BR,TapForge CN,GameDev,IP Licensing,EUR,19955.52,1.1847,ALLOC128,1
+2023-11-01,SummonStorm BR,TapForge CN,Translation,IP Licensing,EUR,19636.01,1.0865,ALLOC386,1
+2023-11-01,Tapstorm SG,SummonStorm BR,GameDev,Localization,EUR,30934.04,1.0339,ALLOC783,1
+2023-12-01,WhaleCare PH,Tapstorm SG,CustomerCare,IP Licensing,EUR,41491.19,0.9429,ALLOC366,0
+2023-12-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,26451.82,0.8175,ALLOC642,1
+2023-12-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,20918.54,0.8921,ALLOC954,1
+2023-12-01,Tapstorm SG,SummonStorm BR,GameDev,Localization,EUR,21083.39,1.0766,ALLOC125,0
+2023-12-01,WhaleCare PH,Tapstorm SG,MarketingOps,Development Services,EUR,49441.98,1.1327,ALLOC386,0
+2023-12-01,Tapstorm SG,WhaleCare PH,CustomerCare,Localization,EUR,29439.21,0.9384,ALLOC908,0
+2023-12-01,WhaleCare PH,Tapstorm SG,GameDev,IP Licensing,EUR,-2840.58,1.2708,ALLOC227,1
+2023-12-01,TapForge CN,WhaleCare PH,CustomerCare,Localization,EUR,25290.06,0.9996,ALLOC237,1
+2023-12-01,WhaleCare PH,Tapstorm SG,GameDev,Development Services,EUR,12790.5,1.1134,ALLOC231,1
+2023-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,Development Services,EUR,22591.59,1.2286,ALLOC509,0
+2023-12-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,15870.72,0.9738,ALLOC310,0
+2023-12-01,WhaleCare PH,SummonStorm BR,GameDev,Development Services,EUR,52882.29,0.9578,ALLOC984,0
+2024-01-01,WhaleCare PH,Tapstorm SG,GameDev,Admin Support,EUR,33823.48,1.1905,ALLOC822,0
+2024-01-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,42802.16,1.1993,ALLOC522,0
+2024-01-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,52701.55,0.8526,ALLOC925,0
+2024-01-01,Tapstorm SG,WhaleCare PH,MarketingOps,Admin Support,EUR,33502.31,1.1277,ALLOC993,1
+2024-01-01,Tapstorm SG,WhaleCare PH,CustomerCare,IP Licensing,EUR,60616.05,0.9127,ALLOC172,1
+2024-01-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,11621.99,1.277,ALLOC110,0
+2024-01-01,WhaleCare PH,TapForge CN,MarketingOps,IP Licensing,EUR,46921.21,1.1872,ALLOC480,0
+2024-01-01,Tapstorm SG,SummonStorm BR,MarketingOps,Admin Support,EUR,32369.94,1.0461,ALLOC230,1
+2024-01-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,40453.46,1.2376,ALLOC228,0
+2024-01-01,TapForge CN,SummonStorm BR,GameDev,Admin Support,EUR,28282.94,1.2758,ALLOC455,0
+2024-01-01,TapForge CN,WhaleCare PH,CustomerCare,Development Services,EUR,37856.55,0.9816,ALLOC307,0
+2024-01-01,SummonStorm BR,TapForge CN,MarketingOps,Localization,EUR,35097.85,0.9253,ALLOC476,1
+2024-02-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,28843.6,0.8861,ALLOC393,0
+2024-02-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,31725.35,1.0045,ALLOC511,0
+2024-02-01,SummonStorm BR,WhaleCare PH,CustomerCare,Localization,EUR,51089.13,1.2666,ALLOC101,0
+2024-02-01,WhaleCare PH,TapForge CN,MarketingOps,Development Services,EUR,21255.68,0.8035,ALLOC557,0
+2024-02-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,48500.71,0.9402,ALLOC598,0
+2024-02-01,SummonStorm BR,TapForge CN,MarketingOps,Localization,EUR,21023.03,0.9007,ALLOC207,0
+2024-02-01,SummonStorm BR,WhaleCare PH,Translation,Development Services,EUR,37999.77,0.8066,ALLOC992,1
+2024-02-01,WhaleCare PH,SummonStorm BR,GameDev,IP Licensing,EUR,29344.69,0.8904,ALLOC641,1
+2024-02-01,TapForge CN,Tapstorm SG,MarketingOps,Development Services,EUR,37547.87,0.9757,ALLOC332,1
+2024-02-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,33647.02,1.0385,ALLOC841,1
+2024-02-01,WhaleCare PH,Tapstorm SG,GameDev,IP Licensing,EUR,36254.33,0.8823,ALLOC682,0
+2024-02-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,37641.16,1.2721,ALLOC641,0
+2024-03-01,SummonStorm BR,TapForge CN,Translation,Development Services,EUR,32313.36,0.8267,ALLOC271,1
+2024-03-01,SummonStorm BR,WhaleCare PH,GameDev,IP Licensing,EUR,44998.25,1.1354,ALLOC285,1
+2024-03-01,SummonStorm BR,WhaleCare PH,CustomerCare,Development Services,EUR,36281.85,1.2828,ALLOC391,0
+2024-03-01,SummonStorm BR,TapForge CN,CustomerCare,Development Services,EUR,51039.36,0.8679,ALLOC148,1
+2024-03-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,27337.3,1.0564,ALLOC794,1
+2024-03-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,21188.11,1.1065,ALLOC285,0
+2024-03-01,Tapstorm SG,SummonStorm BR,GameDev,Development Services,EUR,35524.1,0.9203,ALLOC100,0
+2024-03-01,Tapstorm SG,TapForge CN,Translation,IP Licensing,EUR,12841.56,1.2888,ALLOC613,0
+2024-03-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,43088.22,1.2325,ALLOC335,0
+2024-03-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,25778.92,0.8031,ALLOC790,0
+2024-03-01,WhaleCare PH,Tapstorm SG,Translation,Localization,EUR,41024.72,0.9574,ALLOC454,0
+2024-03-01,Tapstorm SG,WhaleCare PH,GameDev,Localization,EUR,34377.1,1.2341,ALLOC728,0
+2024-04-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,29500.1,0.9601,ALLOC955,1
+2024-04-01,TapForge CN,Tapstorm SG,Translation,IP Licensing,EUR,33906.16,1.0676,ALLOC545,0
+2024-04-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,12832.12,1.0324,ALLOC826,0
+2024-04-01,Tapstorm SG,SummonStorm BR,Translation,Development Services,EUR,25095.6,0.9039,ALLOC194,0
+2024-04-01,TapForge CN,SummonStorm BR,GameDev,IP Licensing,EUR,39634.31,0.9399,ALLOC449,1
+2024-04-01,Tapstorm SG,TapForge CN,CustomerCare,Development Services,EUR,14061.73,0.8626,ALLOC776,0
+2024-04-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,37073.1,1.1368,ALLOC545,1
+2024-04-01,TapForge CN,WhaleCare PH,Translation,Development Services,EUR,40369.0,1.1428,ALLOC675,0
+2024-04-01,Tapstorm SG,WhaleCare PH,Translation,Localization,EUR,22258.73,1.1891,ALLOC404,0
+2024-04-01,TapForge CN,Tapstorm SG,CustomerCare,IP Licensing,EUR,45952.66,0.9405,ALLOC352,1
+2024-04-01,Tapstorm SG,TapForge CN,Translation,Admin Support,EUR,39745.64,1.0838,ALLOC367,1
+2024-04-01,Tapstorm SG,WhaleCare PH,CustomerCare,Admin Support,EUR,46568.02,0.8076,ALLOC818,1
+2024-05-01,TapForge CN,SummonStorm BR,GameDev,Development Services,EUR,34411.18,1.1356,ALLOC861,1
+2024-05-01,Tapstorm SG,TapForge CN,CustomerCare,Admin Support,EUR,25055.52,1.2264,ALLOC469,0
+2024-05-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,44035.91,1.0239,ALLOC702,1
+2024-05-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,30146.18,0.8751,ALLOC885,0
+2024-05-01,Tapstorm SG,SummonStorm BR,Translation,IP Licensing,EUR,41272.88,1.0407,ALLOC127,1
+2024-05-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,24589.27,1.2147,ALLOC764,1
+2024-05-01,WhaleCare PH,Tapstorm SG,Translation,IP Licensing,EUR,23468.61,0.9833,ALLOC220,0
+2024-05-01,WhaleCare PH,TapForge CN,GameDev,Admin Support,EUR,21091.34,1.2683,ALLOC981,1
+2024-05-01,WhaleCare PH,Tapstorm SG,Translation,Development Services,EUR,46982.55,0.8293,ALLOC818,0
+2024-05-01,TapForge CN,SummonStorm BR,Translation,Localization,EUR,37839.96,0.8766,ALLOC757,0
+2024-05-01,SummonStorm BR,TapForge CN,Translation,Localization,EUR,12223.66,0.9697,ALLOC735,1
+2024-05-01,TapForge CN,Tapstorm SG,Translation,Admin Support,EUR,26280.92,0.8984,ALLOC408,1
+2024-06-01,SummonStorm BR,Tapstorm SG,CustomerCare,IP Licensing,EUR,32686.43,1.0556,ALLOC832,1
+2024-06-01,TapForge CN,WhaleCare PH,GameDev,Localization,EUR,48172.94,1.0699,ALLOC412,1
+2024-06-01,SummonStorm BR,TapForge CN,MarketingOps,Admin Support,EUR,26594.37,1.0119,ALLOC244,0
+2024-06-01,WhaleCare PH,Tapstorm SG,MarketingOps,IP Licensing,EUR,42701.56,1.1458,ALLOC424,1
+2024-06-01,SummonStorm BR,Tapstorm SG,MarketingOps,IP Licensing,EUR,50361.07,1.2781,ALLOC394,1
+2024-06-01,WhaleCare PH,Tapstorm SG,MarketingOps,Localization,EUR,15130.94,0.919,ALLOC920,0
+2024-06-01,SummonStorm BR,WhaleCare PH,MarketingOps,Admin Support,EUR,30776.31,1.0127,ALLOC260,1
+2024-06-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,22237.14,0.8376,ALLOC534,0
+2024-06-01,WhaleCare PH,SummonStorm BR,GameDev,Development Services,EUR,47508.33,1.1262,ALLOC854,1
+2024-06-01,SummonStorm BR,WhaleCare PH,Translation,IP Licensing,EUR,36883.27,1.141,ALLOC633,0
+2024-06-01,SummonStorm BR,Tapstorm SG,GameDev,Localization,EUR,24781.38,0.8246,ALLOC330,0
+2024-06-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,18317.2,1.0764,ALLOC220,0
+2024-07-01,SummonStorm BR,TapForge CN,CustomerCare,Admin Support,EUR,22524.72,0.9562,ALLOC536,0
+2024-07-01,SummonStorm BR,WhaleCare PH,GameDev,Localization,EUR,18664.57,0.9197,ALLOC894,1
+2024-07-01,WhaleCare PH,Tapstorm SG,CustomerCare,Localization,EUR,23320.11,1.2709,ALLOC779,1
+2024-07-01,Tapstorm SG,WhaleCare PH,GameDev,Admin Support,EUR,22543.34,1.2833,ALLOC827,0
+2024-07-01,Tapstorm SG,WhaleCare PH,GameDev,Development Services,EUR,36503.11,1.0377,ALLOC187,1
+2024-07-01,TapForge CN,WhaleCare PH,MarketingOps,Development Services,EUR,20516.51,0.9249,ALLOC741,1
+2024-07-01,SummonStorm BR,TapForge CN,CustomerCare,Localization,EUR,36088.22,1.1346,ALLOC910,1
+2024-07-01,SummonStorm BR,WhaleCare PH,GameDev,IP Licensing,EUR,21885.44,1.2842,ALLOC840,0
+2024-07-01,TapForge CN,Tapstorm SG,GameDev,Localization,EUR,15897.25,0.9462,ALLOC981,1
+2024-07-01,SummonStorm BR,WhaleCare PH,CustomerCare,Development Services,EUR,27020.04,0.9118,ALLOC436,1
+2024-07-01,TapForge CN,SummonStorm BR,CustomerCare,Development Services,EUR,22469.49,1.0185,ALLOC353,1
+2024-07-01,WhaleCare PH,Tapstorm SG,GameDev,Admin Support,EUR,16187.43,0.9633,ALLOC180,1
+2024-08-01,TapForge CN,SummonStorm BR,MarketingOps,Admin Support,EUR,22641.78,1.2993,ALLOC282,0
+2024-08-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,48994.43,0.9058,ALLOC585,1
+2024-08-01,TapForge CN,WhaleCare PH,CustomerCare,Admin Support,EUR,25068.77,0.9633,ALLOC776,1
+2024-08-01,SummonStorm BR,TapForge CN,GameDev,Localization,EUR,33501.32,0.964,ALLOC641,0
+2024-08-01,Tapstorm SG,TapForge CN,Translation,Admin Support,EUR,21827.41,1.298,ALLOC555,1
+2024-08-01,Tapstorm SG,TapForge CN,CustomerCare,Localization,EUR,39394.39,1.0694,ALLOC147,0
+2024-08-01,WhaleCare PH,SummonStorm BR,GameDev,Localization,EUR,14221.53,1.144,ALLOC741,1
+2024-08-01,WhaleCare PH,Tapstorm SG,MarketingOps,Localization,EUR,43772.3,1.0466,ALLOC270,0
+2024-08-01,TapForge CN,WhaleCare PH,Translation,IP Licensing,EUR,40980.63,1.0249,ALLOC701,1
+2024-08-01,WhaleCare PH,SummonStorm BR,Translation,Admin Support,EUR,28587.34,0.8483,ALLOC914,0
+2024-08-01,Tapstorm SG,WhaleCare PH,MarketingOps,Admin Support,EUR,49366.67,1.2279,ALLOC362,0
+2024-08-01,TapForge CN,Tapstorm SG,CustomerCare,Admin Support,EUR,39620.86,1.0869,ALLOC257,1
+2024-09-01,SummonStorm BR,WhaleCare PH,Translation,Development Services,EUR,58198.7,1.2297,ALLOC557,0
+2024-09-01,WhaleCare PH,SummonStorm BR,Translation,Development Services,EUR,39287.44,1.0001,ALLOC375,1
+2024-09-01,WhaleCare PH,SummonStorm BR,CustomerCare,IP Licensing,EUR,16867.33,0.8692,ALLOC348,1
+2024-09-01,TapForge CN,SummonStorm BR,Translation,IP Licensing,EUR,22306.57,0.8305,ALLOC479,1
+2024-09-01,Tapstorm SG,WhaleCare PH,GameDev,IP Licensing,EUR,41034.23,1.1579,ALLOC549,1
+2024-09-01,WhaleCare PH,Tapstorm SG,CustomerCare,Localization,EUR,12133.39,1.1293,ALLOC942,1
+2024-09-01,TapForge CN,Tapstorm SG,MarketingOps,IP Licensing,EUR,29235.46,0.8925,ALLOC250,1
+2024-09-01,WhaleCare PH,SummonStorm BR,Translation,Localization,EUR,-5922.2,1.0016,ALLOC762,0
+2024-09-01,WhaleCare PH,Tapstorm SG,Translation,Admin Support,EUR,41284.11,0.9236,ALLOC901,1
+2024-09-01,TapForge CN,WhaleCare PH,Translation,Localization,EUR,28678.03,1.0441,ALLOC346,1
+2024-09-01,WhaleCare PH,TapForge CN,Translation,Development Services,EUR,24842.9,0.8637,ALLOC788,0
+2024-09-01,TapForge CN,Tapstorm SG,GameDev,IP Licensing,EUR,29037.7,0.8288,ALLOC681,0
+2024-10-01,WhaleCare PH,Tapstorm SG,CustomerCare,Localization,EUR,21477.54,1.2018,ALLOC299,1
+2024-10-01,WhaleCare PH,SummonStorm BR,MarketingOps,Admin Support,EUR,16850.16,0.8539,ALLOC328,0
+2024-10-01,WhaleCare PH,Tapstorm SG,MarketingOps,Localization,EUR,30556.13,1.2686,ALLOC541,1
+2024-10-01,WhaleCare PH,Tapstorm SG,Translation,IP Licensing,EUR,25038.65,0.9403,ALLOC330,0
+2024-10-01,Tapstorm SG,WhaleCare PH,CustomerCare,IP Licensing,EUR,18121.79,1.2411,ALLOC331,0
+2024-10-01,WhaleCare PH,Tapstorm SG,CustomerCare,Development Services,EUR,52839.41,1.0399,ALLOC278,0
+2024-10-01,SummonStorm BR,WhaleCare PH,GameDev,Development Services,EUR,28836.25,1.1383,ALLOC187,1
+2024-10-01,TapForge CN,WhaleCare PH,GameDev,Development Services,EUR,24880.93,1.0495,ALLOC104,1
+2024-10-01,TapForge CN,SummonStorm BR,MarketingOps,Development Services,EUR,29533.88,1.1857,ALLOC671,0
+2024-10-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,28879.54,0.9041,ALLOC883,1
+2024-10-01,WhaleCare PH,SummonStorm BR,CustomerCare,Localization,EUR,27498.24,0.9885,ALLOC800,0
+2024-10-01,Tapstorm SG,TapForge CN,Translation,Admin Support,EUR,12919.66,1.1776,ALLOC581,1
+2024-11-01,Tapstorm SG,TapForge CN,CustomerCare,Admin Support,EUR,45912.21,1.241,ALLOC521,1
+2024-11-01,SummonStorm BR,TapForge CN,CustomerCare,IP Licensing,EUR,20154.49,1.185,ALLOC914,0
+2024-11-01,TapForge CN,WhaleCare PH,MarketingOps,Admin Support,EUR,49022.6,1.042,ALLOC634,0
+2024-11-01,Tapstorm SG,TapForge CN,MarketingOps,IP Licensing,EUR,15913.03,0.9082,ALLOC669,1
+2024-11-01,WhaleCare PH,Tapstorm SG,MarketingOps,Admin Support,EUR,41055.63,0.8171,ALLOC990,1
+2024-11-01,Tapstorm SG,SummonStorm BR,CustomerCare,Admin Support,EUR,42447.25,1.2719,ALLOC874,0
+2024-11-01,WhaleCare PH,SummonStorm BR,GameDev,Admin Support,EUR,30911.62,1.0019,ALLOC317,0
+2024-11-01,TapForge CN,SummonStorm BR,GameDev,Localization,EUR,8624.22,1.0644,ALLOC638,1
+2024-11-01,Tapstorm SG,TapForge CN,CustomerCare,Admin Support,EUR,31308.33,1.0208,ALLOC281,0
+2024-11-01,Tapstorm SG,WhaleCare PH,Translation,IP Licensing,EUR,45717.64,0.9082,ALLOC244,1
+2024-11-01,Tapstorm SG,TapForge CN,CustomerCare,IP Licensing,EUR,13485.14,0.8791,ALLOC929,0
+2024-11-01,WhaleCare PH,SummonStorm BR,CustomerCare,Development Services,EUR,25401.61,1.101,ALLOC788,0
+2024-12-01,WhaleCare PH,SummonStorm BR,MarketingOps,IP Licensing,EUR,18864.42,0.8794,ALLOC642,0
+2024-12-01,TapForge CN,WhaleCare PH,MarketingOps,IP Licensing,EUR,36401.09,0.8217,ALLOC770,0
+2024-12-01,WhaleCare PH,TapForge CN,Translation,Localization,EUR,49653.86,1.2259,ALLOC154,1
+2024-12-01,Tapstorm SG,WhaleCare PH,CustomerCare,IP Licensing,EUR,29936.78,0.9842,ALLOC820,1
+2024-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,21212.09,1.1334,ALLOC580,0
+2024-12-01,WhaleCare PH,SummonStorm BR,Translation,Localization,EUR,52667.92,1.1501,ALLOC678,1
+2024-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,32733.71,0.938,ALLOC390,0
+2024-12-01,TapForge CN,Tapstorm SG,CustomerCare,Localization,EUR,29636.42,1.1014,ALLOC908,1
+2024-12-01,SummonStorm BR,WhaleCare PH,MarketingOps,Localization,EUR,27515.06,1.2581,ALLOC489,0
+2024-12-01,Tapstorm SG,SummonStorm BR,GameDev,IP Licensing,EUR,16682.59,1.0359,ALLOC832,0
+2024-12-01,WhaleCare PH,Tapstorm SG,GameDev,Localization,EUR,38294.47,0.9253,ALLOC910,0
+2024-12-01,SummonStorm BR,Tapstorm SG,GameDev,Development Services,EUR,40864.65,1.2688,ALLOC718,0
