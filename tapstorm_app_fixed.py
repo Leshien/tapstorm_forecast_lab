@@ -1,6 +1,9 @@
+import streamlit as st
+import pandas as pd
+import openai
 
-# --- App Mode Selector ---
-st.sidebar.title("đ§­ Start Here: Choose App Mode")
+st.set_page_config(page_title="Tapstorm Forecast Lab", layout="wide")
+st.sidebar.title("🧭 Start Here: Choose App Mode")
 mode = st.sidebar.radio(
     "What do you want to explore?",
     ["đ Executive Summary", "đŹ Analyst Sandbox", "đ§Ş Demo All Models"],
